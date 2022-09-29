@@ -1,0 +1,16 @@
+header {
+    height: 9.7vh;
+    border-bottom: .3vh solid black;
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    height: 100%;
+}
+
+header h1 {
+    font-size: 4vh;
+    margin-left: 5vh;
+    font-style: italic;
+}

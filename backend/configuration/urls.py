@@ -1,9 +1,15 @@
 from django.contrib import admin
-from django.urls import path, include, re_path
-from wallets import views
+from django.urls import path, include
+from rest_framework import routers
+from wallets.views import WalletViewset, TransactionViewset
+
+router = routers.SimpleRouter()
+
+router.register('wallet', WalletViewset, basename='wallet')
+router.register('transaction', TransactionViewset, basename='transaction')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    re_path(r'^api/wallets/$', views.wallets_list),
-    re_path(r'^api/wallets/([0-9])$', views.wallets_detail),
+    path('api-auth/', include('rest_framework.urls')),
+    path('api/', include(router.urls)),
 ]

@@ -1,6 +1,15 @@
+@font-face {
+  font-family: Gotham;
+  src: url(../assets/GothamBook.ttf);
+}
+@font-face {
+  font-family: GothamBold;
+  src: url(../assets/Gotham-Bold.otf);
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, BlinkMacSystemFont, 'Gotham', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
