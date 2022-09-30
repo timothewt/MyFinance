@@ -4,11 +4,11 @@ from .models import Wallet, Transaction
 
 
 class WalletAdmin(admin.ModelAdmin):
-    list_display = ("owner",)
+    list_display = ("user",)
 
 
 class TransactionAdmin(admin.ModelAdmin):
-    list_display = ("owner", "date", "ticker", "action", "price", "qty")
+    list_display = ("user", "date", "ticker", "action", "price", "qty")
 
 
 admin.site.register(Wallet, WalletAdmin)

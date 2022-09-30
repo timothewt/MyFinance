@@ -1,11 +1,15 @@
 import json
 import urllib
+
 import yfinance as yf
-from rest_framework.views import APIView
+from rest_framework.decorators import permission_classes
+from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
+from rest_framework.views import APIView
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 from rest_framework_simplejwt.views import TokenObtainPairView
-from .models import Wallet, Transaction
+
+from .models import Transaction
 from .serializers import WalletSerializer, TransactionSerializer
 
 
@@ -20,6 +24,7 @@ class MyTokenObtainPairSerializer(TokenObtainPairSerializer):  # adds username t
 class MyTokenObtainPairView(TokenObtainPairView):
     serializer_class = MyTokenObtainPairSerializer
 
+
 def formalize_stocks(stocks):
     totalValue = 0
     tickers = {}
@@ -32,7 +37,7 @@ def formalize_stocks(stocks):
         stock['Name'] = get_yahoo_shortname(stock['Ticker'])
     for stock in stocks:
         stock['Share'] = round(stock['Value'] / totalValue * 100, 1)
-    return stocks
+    return stocks, totalValue
 
 
 def get_yahoo_shortname(symbol):
@@ -49,18 +54,21 @@ def get_available_tickers(tickers):
             tickers[ticker[0]] = ticker[1]
 
 
+@permission_classes([IsAuthenticated])
 class WalletAPIView(APIView):
     def get(self, *args, **kwargs):
-        wallet = Wallet.objects.filter(owner=self.request.user)
+        user = self.request.user
+        wallet = user.wallet_set.all()
         serializer = WalletSerializer(wallet, many=True)
         if self.request.user.is_authenticated:
             stocks = json.loads(json.dumps(serializer.data[0]['stocks']))  # retrieving the stocks into a list of jsons
-            serializer.data[0]['stocks'] = formalize_stocks(stocks)
+            serializer.data[0]['stocks'], serializer.data[0]['totalValue'] = formalize_stocks(stocks)
         return Response(serializer.data)
 
 
+@permission_classes([IsAuthenticated])
 class TransactionAPIView(APIView):
     def get(self, *args, **kwargs):
-        transactions = Transaction.objects.filter(owner=self.request.user)
+        transactions = Transaction.objects.all()
         serializer = TransactionSerializer(transactions, many=True)
         return Response(serializer.data)

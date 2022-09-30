@@ -1,19 +1,16 @@
 from django.utils.timezone import now as date_now
 from django.db import models
+from django.contrib.auth.models import User
 
 
 class Wallet(models.Model):
-    id = models.AutoField(primary_key=True)
-    owner = models.fields.CharField(max_length=20, unique=True)
+    user = models.ForeignKey(User, on_delete=models.CASCADE, null=True)
     stocks = models.JSONField(default=[])
-
-    def __str__(self):
-        return f'{self.owner}' + '\'s wallet'
 
 
 class Transaction(models.Model):
     id = models.AutoField(primary_key=True)
-    owner = models.fields.CharField(max_length=20)
+    user = models.ForeignKey(User, on_delete=models.CASCADE, null=True)
     date = models.fields.DateField(default=date_now)
     ticker = models.fields.CharField(max_length=10, default="")
     ACTION_CHOICE = (

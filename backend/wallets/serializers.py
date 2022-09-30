@@ -6,11 +6,11 @@ class WalletSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Wallet
-        fields = ('id', 'owner', 'stocks')
+        fields = '__all__'
 
 
 class TransactionSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Transaction
-        fields = ('id', 'owner', 'date', 'ticker', 'action', 'price', 'qty')
+        fields = '__all__'
