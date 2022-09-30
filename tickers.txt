@@ -1,0 +1,5714 @@
+A,Agilent Technologies
+AA,Alcoa Corporation 
+AAC,Ares Acquisition Corporation Class A
+AACG,ATA Creativity Global
+AACI,Armada Acquisition Corp. I
+AADI,Aadi Bioscience
+AAIC,Arlington Asset Investment Corp Class A
+AAL,American Airlines Group
+AAME,Atlantic American Corporation
+AAN,Aarons Holdings Company 
+AAOI,Applied Optoelectronics
+AAON,AAON
+AAP,Advance Auto Parts
+AAPL,Apple
+AAQC,Accelerate Acquisition Corp. Class A
+AAT,American Assets Trust
+AAWW,Atlas Air Worldwide Holdings NEW
+AB,AllianceBernstein Holding L.P.  Units
+ABB,ABB Ltd
+ABBV,AbbVie
+ABC,AmerisourceBergen Corporation
+ABCB,Ameris Bancorp
+ABCL,AbCellera Biologics
+ABCM,Abcam plc
+ABEV,Ambev S.A.
+ABG,Asbury Automotive Group Inc
+ABGI,ABG Acquisition Corp. I Class A
+ABM,ABM Industries Incorporated
+ABMD,ABIOMED
+ABNB,Airbnb Class A
+ABOS,Acumen Pharmaceuticals
+ABR,Arbor Realty Trust
+ABSI,Absci Corporation
+ABST,Absolute Software Corporation
+ABT,Abbott Laboratories
+ABTX,Allegiance Bancshares
+ABUS,Arbutus Biopharma Corporation
+AC,Associated Capital Group
+ACA,Arcosa 
+ACAB,Atlantic Coastal Acquisition Corp. II Class A
+ACAC,Acri Capital Acquisition Corporation Class A
+ACAD,ACADIA Pharmaceuticals
+ACAH,Atlantic Coastal Acquisition Corp. Class A
+ACAQ,Athena Consumer Acquisition Corp. Class A
+ACAX,Alset Capital Acquisition Corp. Class A
+ACB,Aurora Cannabis
+ACBA,Ace Global Business Acquisition Limited
+ACCD,Accolade
+ACCO,Acco Brands Corporation
+ACDI,Ascendant Digital Acquisition Corp. III Class A
+ACEL,Accel Entertainment 
+ACET,Adicet Bio 
+ACEV,ACE Convergence Acquisition Corp. Class A
+ACGL,Arch Capital Group Ltd.
+ACHC,Acadia Healthcare Company
+ACHL,Achilles Therapeutics plc
+ACHR,Archer Aviation Class A
+ACI,Albertsons Companies Class A
+ACII,Atlas Crest Investment Corp. II Class A
+ACIU,AC Immune SA
+ACIW,ACI Worldwide
+ACLS,Axcelis Technologies
+ACLX,Arcellx
+ACM,AECOM
+ACMR,ACM Research Class A
+ACN,Accenture plc Class A (Ireland)
+ACNB,ACNB Corporation
+ACNT,Ascent Industries Co.
+ACP,abrdn Income Credit Strategies Fund
+ACQR,Independence Holdings Corp. Class A
+ACR,ACRES Commercial Realty Corp.
+ACRE,Ares Commercial Real Estate Corporation
+ACRO,Acropolis Infrastructure Acquisition Corp. Class A
+ACRS,Aclaris Therapeutics
+ACT,Enact Holdings
+ACTG,Acacia Research Corporation (Acacia Tech)
+ACU,Acme United Corporation.
+ACV,Virtus Diversified Income & Convertible Fund of Beneficial Interest
+ACVA,ACV Auctions Class A
+ADAG,Adagene
+ADAL,Anthemis Digital Acquisitions I Corp Class A
+ADAP,Adaptimmune Therapeutics plc
+ADBE,Adobe
+ADC,Agree Realty Corporation
+ADCT,ADC Therapeutics SA
+ADER,26 Capital Acquisition Corp. Class A
+ADES,Advanced Emissions Solutions
+ADEX,Adit EdTech Acquisition Corp.
+ADI,Analog Devices
+ADM,Archer-Daniels-Midland Company
+ADMA,ADMA Biologics Inc
+ADN,Advent Technologies Holdings Class A
+ADNT,Adient plc 
+ADOC,Edoc Acquisition Corp. Class A
+ADP,Automatic Data Processing
+ADPT,Adaptive Biotechnologies Corporation
+ADRA,Adara Acquisition Corp. Class A
+ADRT,Ault Disruptive Technologies Corporation
+ADSE,ADS-TEC ENERGY PLC
+ADSK,Autodesk
+ADT,ADT
+ADTH,AdTheorent Holding Company
+ADTN,ADTRAN Holdings
+ADUS,Addus HomeCare Corporation
+ADV,Advantage Solutions Class A
+ADVM,Adverum Biotechnologies
+ADX,Adams Diversified Equity Fund
+AE,Adams Resources & Energy
+AEAC,Authentic Equity Acquisition Corp. Class A
+AEAE,AltEnergy Acquisition Corp. Class A
+AEE,Ameren Corporation
+AEF,abrdn Emerging Markets Equity Income Fund
+AEG,AEGON N.V.
+AEHA,Aesther Healthcare Acquisition Corp Class A
+AEHR,Aehr Test Systems
+AEIS,Advanced Energy Industries
+AEL,American Equity Investment Life Holding Company
+AEM,Agnico Eagle Mines Limited
+AENZ,Aenza S.A.A.
+AEO,American Eagle Outfitters
+AEP,American Electric Power Company
+AER,AerCap Holdings N.V.
+AERI,Aerie Pharmaceuticals
+AES,The AES Corporation
+AEVA,Aeva Technologies
+AEYE,AudioEye
+AFAC,Arena Fortify Acquisition Corp. Class A
+AFAQ,AF Acquisition Corp. Class A
+AFAR,Aura FAT Projects Acquisition Corp Class A
+AFB,AllianceBernstein National Municipal Income Fund Inc
+AFBI,Affinity Bancshares (MD)
+AFCG,AFC Gamma
+AFG,American Financial Group
+AFL,AFLAC Incorporated
+AFMD,Affimed N.V.
+AFRI,Forafric Global PLC
+AFRM,Affirm Holdings Class A
+AFT,Apollo Senior Floating Rate Fund
+AFTR,AfterNext HealthTech Acquisition Corp. Class A
+AFYA,Afya Limited Class A
+AG,First Majestic Silver Corp. (Canada)
+AGAC,African Gold Acquisition Corporation Class A
+AGBA,AGBA Acquisition Limited
+AGCB,Altimeter Growth Corp. 2 Class A
+AGCO,AGCO Corporation
+AGD,abrdn Global Dynamic Dividend Fund of Beneficial Interest
+AGEN,Agenus
+AGFS,AgroFresh Solutions
+AGGR,Agile Growth Corp. Class A
+AGI,Alamos Gold Class A
+AGIL,AgileThought Class A
+AGIO,Agios Pharmaceuticals
+AGL,agilon health
+AGM,Federal Agricultural Mortgage Corporation
+AGNC,AGNC Investment Corp.
+AGO,Assured Guaranty Ltd.
+AGR,Avangrid
+AGRO,Adecoagro S.A.
+AGS,PlayAGS
+AGTI,Agiliti
+AGX,Argan
+AGYS,Agilysys (DE)
+AHCO,AdaptHealth Corp.
+AHG,Akso Health Group ADS
+AHH,Armada Hoffler Properties
+AHPA,Avista Public Acquisition Corp. II Class A
+AHRN,Ahren Acquisition Corp. Class A
+AHT,Ashford Hospitality Trust Inc
+AI,C3.ai Class A
+AIB,AIB Acquisition Corporation Class A
+AIF,Apollo Tactical Income Fund
+AIG,American International Group New
+AIH,Aesthetic Medical International Holdings Group Ltd.
+AIMC,Altra Industrial Motion Corp.
+AIN,Albany International Corporation
+AIO,Virtus Artificial Intelligence & Technology Opportunities Fund of Beneficial Interest
+AIP,Arteris
+AIR,AAR Corp.
+AIRC,Apartment Income REIT Corp.
+AIRG,Airgain
+AIRS,AirSculpt Technologies
+AIRT,Air T
+AIT,Applied Industrial Technologies
+AIV,Apartment Investment and Management Company
+AIZ,Assurant
+AJG,Arthur J. Gallagher & Co.
+AJRD,Aerojet Rocketdyne Holdings
+AJX,Great Ajax Corp.
+AKA,a.k.a. Brands Holding Corp.
+AKAM,Akamai Technologies
+AKBA,Akebia Therapeutics
+AKIC,Sports Ventures Acquisition Corp. Class A
+AKLI,Akili
+AKR,Acadia Realty Trust
+AKRO,Akero Therapeutics
+AKTS,Akoustis Technologies
+AKU,Akumin
+AKUS,Akouos
+AKYA,Akoya BioSciences
+AL,Air Lease Corporation Class A
+ALB,Albemarle Corporation
+ALBO,Albireo Pharma
+ALC,Alcon
+ALCC,AltC Acquisition Corp. Class A
+ALCO,Alico
+ALDX,Aldeyra Therapeutics
+ALE,Allete
+ALEC,Alector
+ALEX,Alexander & Baldwin REIT Holding Company
+ALG,Alamo Group
+ALGM,Allegro MicroSystems
+ALGN,Align Technology
+ALGT,Allegiant Travel Company
+ALHC,Alignment Healthcare
+ALIT,Alight Class A
+ALK,Alaska Air Group
+ALKS,Alkermes plc
+ALKT,Alkami Technology
+ALL,Allstate Corporation (The)
+ALLE,Allegion plc
+ALLG,Allego N.V.
+ALLK,Allakos
+ALLO,Allogene Therapeutics
+ALLT,Allot Ltd.
+ALLY,Ally Financial
+ALNY,Alnylam Pharmaceuticals
+ALOR,ALSP Orchid Acquisition Corporation I Class A
+ALOT,AstroNova
+ALPA,Alpha Healthcare Acquisition Corp. III Class A
+ALPN,Alpine Immune Sciences
+ALPP,Alpine 4 Holdings Class A
+ALPS,Alpine Summit Energy Partners Class A Subordinate Voting Shares
+ALRM,Alarm.com Holdings
+ALRS,Alerus Financial Corporation
+ALSA,Alpha Star Acquisition Corporation
+ALSN,Allison Transmission Holdings
+ALT,Altimmune
+ALTG,Alta Equipment Group Class A
+ALTO,Alto Ingredients
+ALTR,Altair Engineering Class A
+ALTU,Altitude Acquisition Corp. Class A
+ALV,Autoliv
+ALVO,Alvotech
+ALVR,AlloVir
+ALX,Alexander's
+ALXO,ALX Oncology Holdings
+ALYA,Alithya Group Class A Subordinate Voting Shares
+ALZN,Alzamend Neuro
+AM,Antero Midstream Corporation
+AMAL,Amalgamated Financial Corp. (DE)
+AMAT,Applied Materials
+AMBA,Ambarella
+AMBC,Ambac Financial Group
+AMBP,Ardagh Metal Packaging S.A.
+AMC,AMC Entertainment Holdings Class A
+AMCI,AMCI Acquisition Corp. II Class A
+AMCR,Amcor plc
+AMCX,AMC Networks Class A
+AMD,Advanced Micro Devices
+AME,AMETEK
+AMED,Amedisys Inc
+AMEH,Apollo Medical Holdings
+AMG,Affiliated Managers Group
+AMGN,Amgen
+AMH,American Homes 4 Rent of Beneficial Interest
+AMK,AssetMark Financial Holdings
+AMKR,Amkor Technology
+AMLX,Amylyx Pharmaceuticals
+AMN,AMN Healthcare Services Inc AMN Healthcare Services Inc
+AMNB,American National Bankshares
+AMOT,Allied Motion Technologies
+AMOV,America Movil S.A.B. de C.V. Class A
+AMP,Ameriprise Financial
+AMPH,Amphastar Pharmaceuticals
+AMPI,Advanced Merger Partners Class A
+AMPL,Amplitude Class A
+AMPS,Altus Power Class A
+AMPX,Amprius Technologies
+AMPY,Amplify Energy Corp.
+AMR,Alpha Metallurgical Resources
+AMRC,Ameresco Class A
+AMRK,A-Mark Precious Metals
+AMRN,Amarin Corporation plc
+AMRS,Amyris
+AMRX,Amneal Pharmaceuticals Class A
+AMSC,American Superconductor Corporation
+AMSF,AMERISAFE
+AMSWA,American Software Class A
+AMT,American Tower Corporation (REIT)
+AMTB,Amerant Bancorp Class A
+AMTD,AMTD IDEA Group each representing one Class A
+AMTX,Aemetis (DE)
+AMWD,American Woodmark Corporation
+AMWL,American Well Corporation Class A
+AMX,America Movil S.A.B. de C.V. American Depository Receipt Series L
+AMYT,Amryt Pharma plc
+AMZN,Amazon.com
+AN,AutoNation
+ANAB,AnaptysBio
+ANAC,Arctos NorthStar Acquisition Corp. Class A
+ANDE,Andersons (The)
+ANEB,Anebulo Pharmaceuticals
+ANET,Arista Networks
+ANF,Abercrombie & Fitch Company
+ANGH,Anghami
+ANGI,Angi Class A
+ANGO,AngioDynamics
+ANIK,Anika Therapeutics
+ANIP,ANI Pharmaceuticals
+ANIX,Anixa Biosciences
+ANNX,Annexon
+ANSS,ANSYS
+ANTX,AN2 Therapeutics
+ANVS,Annovis Bio
+ANZU,Anzu Special Acquisition Corp I Class A
+AOD,abrdn Total Dynamic Dividend Fund of Beneficial Interest
+AOGO,Arogo Capital Acquisition Corp. Class A
+AOMR,Angel Oak Mortgage
+AON,Aon plc Class A (Ireland)
+AORT,Artivion
+AOS,A.O. Smith Corporation
+AOSL,Alpha and Omega Semiconductor Limited
+AOUT,American Outdoor Brands 
+AP,Ampco-Pittsburgh Corporation
+APA,APA Corporation
+APAC,StoneBridge Acquisition Corporation Class A
+APAM,Artisan Partners Asset Management Class A
+APCA,AP Acquisition Corp Class A
+APD,Air Products and Chemicals
+APE,AMC Entertainment Holdings
+APEI,American Public Education
+APEN,Apollo Endosurgery
+APG,APi Group Corporation
+APGB,Apollo Strategic Growth Capital II Class A
+APGN,Apexigen
+APH,Amphenol Corporation
+API,Agora
+APLD,Applied Blockchain
+APLE,Apple Hospitality REIT
+APLS,Apellis Pharmaceuticals
+APMI,AxonPrime Infrastructure Acquisition Corporation Class A
+APN,Apeiron Capital Investment Corp. Class A
+APO,Apollo Global Management
+APOG,Apogee Enterprises
+APP,Applovin Corporation Class A
+APPF,AppFolio Class A
+APPH,AppHarvest
+APPN,Appian Corporation Class A
+APPS,Digital Turbine
+APRN,Blue Apron Holdings Class A
+APT,Alpha Pro Tech Ltd.
+APTM,Alpha Partners Technology Merger Corp. Class A
+APTO,Aptose Biosciences
+APTV,Aptiv PLC
+APXI,APx Acquisition Corp. I Class A
+APYX,Apyx Medical Corporation
+AQB,AquaBounty Technologies
+AQMS,Aqua Metals
+AQN,Algonquin Power & Utilities Corp.
+AQST,Aquestive Therapeutics
+AQUA,Evoqua Water Technologies Corp.
+AR,Antero Resources Corporation
+ARAY,Accuray Incorporated
+ARBE,Arbe Robotics Ltd.
+ARBG,Aequi Acquisition Corp. Class A
+ARBK,Argo Blockchain plc
+ARC,ARC Document Solutions
+ARCB,ArcBest Corporation
+ARCC,Ares Capital Corporation
+ARCE,Arco Platform Limited Class A
+ARCH,Arch Resources Class A
+ARCK,Arbor Rapha Capital Bioholdings Corp. I Class A
+ARCO,Arcos Dorados Holdings Class A Shares
+ARCT,Arcturus Therapeutics Holdings
+ARDC,Ares Dynamic Credit Allocation Fund
+ARDX,Ardelyx
+ARE,Alexandria Real Estate Equities
+AREC,American Resources Corporation Class A
+AREN,The Arena Group Holdings
+ARES,Ares Management Corporation Class A
+ARGO,Argo Group International Holdings Ltd.
+ARGU,Argus Capital Corp. Class A
+ARGX,argenx SE
+ARHS,Arhaus Class A
+ARI,Apollo Commercial Real Estate Finance Inc
+ARIS,Aris Water Solutions Class A
+ARIZ,Arisz Acquisition Corp.
+ARKO,ARKO Corp.
+ARKR,Ark Restaurants Corp.
+ARL,American Realty Investors
+ARLO,Arlo Technologies
+ARLP,Alliance Resource Partners L.P. Common Units representing Limited Partners Interests
+ARMK,Aramark
+ARMP,Armata Pharmaceuticals
+ARNC,Arconic Corporation 
+AROC,Archrock
+AROW,Arrow Financial Corporation
+ARQQ,Arqit Quantum
+ARQT,Arcutis Biotherapeutics
+ARR,ARMOUR Residential REIT
+ARRW,Arrowroot Acquisition Corp. Class A
+ARRY,Array Technologies
+ARTE,Artemis Strategic Investment Corporation Class A
+ARTNA,Artesian Resources Corporation Class A
+ARVL,Arrival
+ARVN,Arvinas
+ARW,Arrow Electronics
+ARWR,Arrowhead Pharmaceuticals
+ARYD,ARYA Sciences Acquisition Corp IV Class A Odinary Shares
+ARYE,ARYA Sciences Acquisition Corp V Class A
+ASA,ASA  Gold and Precious Metals Limited
+ASAI,Sendas Distribuidora S A ADS
+ASAN,Asana Class A
+ASAQ,Atlantic Street Acquisition Corp Class A
+ASAX,Astrea Acquisition Corp. Class A
+ASB,Associated Banc-Corp
+ASC,Ardmore Shipping Corporation
+ASCA,A SPAC I Acquisition Corp. Class A
+ASCB,A SPAC II Acquisition Corp.
+ASG,Liberty All-Star Growth Fund
+ASGI,abrdn Global Infrastructure Income Fund of Beneficial Interest
+ASGN,ASGN Incorporated
+ASH,Ashland
+ASIX,AdvanSix 
+ASLE,AerSale Corporation
+ASM,Avino Silver & Gold Mines Ltd. (Canada)
+ASMB,Assembly Biosciences
+ASML,ASML Holding N.V. New York Registry Shares
+ASND,Ascendis Pharma A/S
+ASO,Academy Sports and Outdoors
+ASPN,Aspen Aerogels
+ASPS,Altisource Portfolio Solutions S.A.
+ASR,Grupo Aeroportuario del Sureste S.A. de C.V.
+ASRT,Assertio Holdings
+ASRV,AmeriServ Financial
+ASTE,Astec Industries
+ASTI,Ascent Solar Technologies
+ASTL,Algoma Steel Group
+ASTR,Astra Space Class A 
+ASTS,AST SpaceMobile Class A
+ASUR,Asure Software Inc
+ASX,ASE Technology Holding Co. Ltd. (each representing Two) 
+ASXC,Asensus Surgical
+ASYS,Amtech Systems
+ASZ,Austerlitz Acquisition Corporation II Class A
+ATA,Americas Technology Acquisition Corp.
+ATAI,ATAI Life Sciences N.V.
+ATAK,Aurora Technology Acquisition Corp. Class A
+ATAQ,Altimar Acquisition Corp. III Class A
+ATAX,America First Multifamily Investors L.P. Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests
+ATCO,Atlas Corp.
+ATCX,Atlas Technical Consultants Class A
+ATEC,Alphatec Holdings
+ATEK,Athena Technology Acquisition Corp. II Class A
+ATEN,A10 Networks
+ATER,Aterian
+ATEX,Anterix
+ATGE,Adtalem Global Education
+ATHA,Athira Pharma
+ATHM,Autohome each representing four class A.
+ATI,ATI
+ATIP,ATI Physical Therapy Class A
+ATKR,Atkore
+ATLC,Atlanticus Holdings Corporation
+ATLO,Ames National Corporation
+ATNI,ATN International
+ATNM,Actinium Pharmaceuticals (Delaware)
+ATO,Atmos Energy Corporation
+ATOM,Atomera Incorporated
+ATOS,Atossa Therapeutics
+ATR,AptarGroup
+ATRA,Atara Biotherapeutics
+ATRC,AtriCure
+ATRI,Atrion Corporation
+ATRO,Astronics Corporation
+ATSG,Air Transport Services Group Inc
+ATTO,Atento S.A.
+ATUS,Altice USA Class A
+ATVI,Activision Blizzard
+ATXG,Addentax Group Corp.
+ATXS,Astria Therapeutics
+ATY,AcuityAds Holdings
+AU,AngloGold Ashanti Limited
+AUB,Atlantic Union Bankshares Corporation
+AUBN,Auburn National Bancorporation
+AUD,Audacy
+AUDC,AudioCodes Ltd.
+AUGX,Augmedix
+AUID,authID
+AUPH,Aurinia Pharmaceuticals Inc
+AUR,Aurora Innovation Class A
+AURA,Aura Biosciences
+AURC,Aurora Acquisition Corp. Class A
+AUS,Austerlitz Acquisition Corporation I Class A
+AUTL,Autolus Therapeutics plc American Depositary Share
+AUY,Yamana Gold (Canada)
+AVA,Avista Corporation
+AVAC,Avalon Acquisition Class A
+AVAH,Aveanna Healthcare Holdings
+AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
+AVAN,Avanti Acquisition Corp. Class A
+AVAV,AeroVironment
+AVB,AvalonBay Communities
+AVCO,Avalon GloboCare Corp.
+AVD,American Vanguard Corporation ($0.10 Par Value)
+AVDL,Avadel Pharmaceuticals plc
+AVDX,AvidXchange Holdings
+AVEO,AVEO Pharmaceuticals
+AVGO,Broadcom
+AVHI,Achari Ventures Holdings Corp. I
+AVID,Avid Technology
+AVIR,Atea Pharmaceuticals
+AVK,Advent Convertible and Income Fund
+AVLR,Avalara
+AVNS,Avanos Medical
+AVNT,Avient Corporation
+AVNW,Aviat Networks
+AVO,Mission Produce
+AVPT,AvePoint Class A
+AVT,Avnet
+AVTE,Aerovate Therapeutics
+AVTR,Avantor
+AVXL,Anavex Life Sciences Corp.
+AVY,Avery Dennison Corporation
+AVYA,Avaya Holdings Corp.
+AWF,Alliancebernstein Global High Income Fund
+AWI,Armstrong World Industries Inc
+AWK,American Water Works Company
+AWP,abrdn Global Premier Properties Fund of Beneficial Interest
+AWR,American States Water Company
+AX,Axos Financial
+AXAC,AXIOS Sustainable Growth Acquisition Corporation Class A
+AXDX,Accelerate Diagnostics
+AXGN,Axogen
+AXH,Industrial Human Capital
+AXL,American Axle & Manufacturing Holdings
+AXLA,Axcella Health
+AXNX,Axonics
+AXON,Axon Enterprise
+AXP,American Express Company
+AXR,AMREP Corporation
+AXS,Axis Capital Holdings Limited
+AXSM,Axsome Therapeutics
+AXTA,Axalta Coating Systems Ltd.
+AXTI,AXT Inc
+AY,Atlantica Sustainable Infrastructure plc
+AYI,Acuity Brands 
+AYX,Alteryx Class A
+AZEK,The AZEK Company Class A
+AZN,AstraZeneca PLC
+AZO,AutoZone
+AZPN,Aspen Technology
+AZRE,Azure Power Global Limited Equity Shares
+AZTA,Azenta
+AZUL,Azul S.A. (each representing three preferred shares)
+AZYO,Aziyo Biologics Class A
+AZZ,AZZ
+B,Barnes Group
+BA,Boeing Company (The)
+BABA,Alibaba Group Holding Limited each representing eight
+BAC,Bank of America Corporation
+BACA,Berenson Acquisition Corp. I Class A
+BAFN,BayFirst Financial Corp.
+BAH,Booz Allen Hamilton Holding Corporation
+BAK,Braskem SA ADR
+BALL,Ball Corporation
+BALY,Bally's Corporation
+BAM,Brookfield Asset Management
+BAMR,Brookfield Asset Management Reinsurance Partners Ltd. Class A Exchangeable Limited Voting Shares
+BANC,Banc of California
+BAND,Bandwidth Class A
+BANF,BancFirst Corporation
+BANR,Banner Corporation
+BANX,ArrowMark Financial Corp.
+BAP,Credicorp Ltd.
+BARK,BARK Class A
+BASE,Couchbase
+BATL,Battalion Oil Corporation
+BATRA,Liberty Media Corporation Series A Liberty Braves
+BATRK,Liberty Media Corporation Series C Liberty Braves
+BAX,Baxter International
+BB,BlackBerry Limited
+BBAI,BigBear.ai
+BBAR,Banco BBVA Argentina S.A. ADS
+BBBY,Bed Bath & Beyond
+BBCP,Concrete Pumping Holdings
+BBD,Banco Bradesco Sa
+BBDC,Barings BDC
+BBDO,Banco Bradesco Sa (each representing one Common Share)
+BBIG,Vinco Ventures
+BBIO,BridgeBio Pharma
+BBLN,Babylon Holdings Limited Class A
+BBN,BlackRock Taxable Municipal Bond Trust of Beneficial Interest
+BBSI,Barrett Business Services
+BBU,Brookfield Business Partners L.P. Limited Partnership Units 
+BBUC,Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares
+BBVA,Banco Bilbao Vizcaya Argentaria S.A.
+BBW,Build-A-Bear Workshop
+BBWI,Bath & Body Works
+BBY,Best Buy Co.
+BC,Brunswick Corporation
+BCAB,BioAtla
+BCAN,BYND Cannasoft Enterprises
+BCAT,BlackRock Capital Allocation Trust of Beneficial Interest
+BCBP,BCB Bancorp (NJ)
+BCC,Boise Cascade L.L.C.
+BCE,BCE
+BCEL,Atreca Class A
+BCH,Banco De Chile Banco De Chile ADS
+BCLI,Brainstorm Cell Therapeutics
+BCML,BayCom Corp
+BCO,Brinks Company (The)
+BCOR,Blucora
+BCOV,Brightcove
+BCOW,1895 Bancorp of Wisconsin (MD)
+BCPC,Balchem Corporation
+BCRX,BioCryst Pharmaceuticals
+BCS,Barclays PLC
+BCSA,Blockchain Coinvestors Acquisition Corp. I Class A
+BCSF,Bain Capital Specialty Finance
+BCTX,BriaCell Therapeutics Corp.
+BCV,Bancroft Fund Ltd.
+BCX,BlackRock Resources of Beneficial Interest
+BCYC,Bicycle Therapeutics plc
+BDC,Belden Inc
+BDJ,Blackrock Enhanced Equity Dividend Trust
+BDN,Brandywine Realty Trust
+BDSX,Biodesix
+BDTX,Black Diamond Therapeutics
+BDX,Becton Dickinson and Company
+BE,Bloom Energy Corporation Class A
+BEAM,Beam Therapeutics
+BECN,Beacon Roofing Supply
+BEDU,Bright Scholar Education Holdings Limited each  representing four Class A
+BEEM,Beam Global
+BEKE,KE Holdings Inc (each representing three Class A)
+BELFA,Bel Fuse Class A
+BELFB,Bel Fuse Class B
+BEN,Franklin Resources
+BENE,Benessere Capital Acquisition Corp. Class A
+BEP,Brookfield Renewable Partners L.P. 
+BEPC,Brookfield Renewable Corporation Class A Subordinate Voting Shares 
+BERY,Berry Global Group
+BEST,BEST each representing five Class A
+BFAC,Battery Future Acquisition Corp. Class A
+BFAM,Bright Horizons Family Solutions
+BFC,Bank First Corporation
+BFH,Bread Financial Holdings
+BFI,BurgerFi International 
+BFIN,BankFinancial Corporation
+BFK,BlackRock Municipal Income Trust
+BFLY,Butterfly Network Class A
+BFS,Saul Centers
+BFST,Business First Bancshares
+BFZ,BlackRock California Municipal Income Trust
+BG,Bunge Limited Bunge Limited
+BGB,Blackstone Strategic Credit Fund
+BGCP,BGC Partners Inc Class A
+BGFV,Big 5 Sporting Goods Corporation
+BGH,Barings Global Short Duration High Yield Fund of Beneficial Interests
+BGI,Birks Group
+BGNE,BeiGene Ltd.
+BGR,BlackRock Energy and Resources Trust
+BGRY,Berkshire Grey Class A
+BGS,B&G Foods B&G Foods
+BGSF,BGSF
+BGSX,Build Acquisition Corp. Class A
+BGT,BlackRock Floating Rate Income Trust
+BGX,Blackstone Long Short Credit Income Fund
+BGXX,Bright Green Corporation
+BGY,Blackrock Enhanced International Dividend Trust
+BH,Biglari Holdings Class B
+BHAC,Crixus BH3 Acquisition Company Class A
+BHB,Bar Harbor Bankshares
+BHC,Bausch Health Companies
+BHE,Benchmark Electronics
+BHF,Brighthouse Financial
+BHG,Bright Health Group
+BHIL,Benson Hill
+BHK,Blackrock Core Bond Trust Blackrock Core Bond Trust
+BHLB,Berkshire Hills Bancorp
+BHP,BHP Group Limited (Each representing two)
+BHR,Braemar Hotels & Resorts
+BHSE,Bull Horn Holdings Corp.
+BHVN,Biohaven Pharmaceutical Holding Company Ltd.
+BIDU,Baidu ADS
+BIG,Big Lots
+BIGC,BigCommerce Holdings Series 1
+BIGZ,BlackRock Innovation and Growth Trust of Beneficial Interest
+BIIB,Biogen
+BILI,Bilibili
+BILL,Bill.com Holdings
+BIO,Bio-Rad Laboratories Class A
+BIOR,Biora Therapeutics
+BIOS,BioPlus Acquisition Corp. Class A
+BIOT,Biotech Acquisition Company Class A
+BIOX,Bioceres Crop Solutions Corp.
+BIP,Brookfield Infrastructure Partners LP Limited Partnership Units
+BIPC,Brookfield Infrastructure Partners LP Class A Subordinate Voting Shares 
+BIRD,Allbirds Class A
+BIT,BlackRock Multi-Sector Income Trust of Beneficial Interest
+BITE,Bite Acquisition Corp.
+BITF,Bitfarms Ltd.
+BIVI,BioVie Class A
+BJ,BJ's Wholesale Club Holdings
+BJRI,BJ's Restaurants
+BK,The Bank of New York Mellon Corporation
+BKCC,BlackRock Capital Investment Corporation
+BKD,Brookdale Senior Living
+BKE,Buckle (The)
+BKH,Black Hills Corporation
+BKI,Black Knight 
+BKKT,Bakkt Holdings Class A
+BKN,BlackRock Investment Quality Municipal Trust (The)
+BKNG,Booking Holdings
+BKR,Baker Hughes Company Class A
+BKSC,Bank of South Carolina Corp.
+BKSY,BlackSky Technology Class A
+BKT,BlackRock Income Trust (The)
+BKU,BankUnited
+BL,BlackLine
+BLBD,Blue Bird Corporation
+BLCO,Bausch + Lomb Corporation
+BLD,TopBuild Corp.
+BLDE,Blade Air Mobility Class A
+BLDP,Ballard Power Systems
+BLDR,Builders FirstSource
+BLE,BlackRock Municipal Income Trust II
+BLEU,bleuacacia ltd Class A
+BLFS,BioLife Solutions
+BLFY,Blue Foundry Bancorp
+BLI,Berkeley Lights
+BLK,BlackRock
+BLKB,Blackbaud
+BLMN,Bloomin' Brands
+BLND,Blend Labs Class A
+BLNG,Belong Acquisition Corp. Class A
+BLNK,Blink Charging Co.
+BLRX,BioLineRx Ltd.
+BLSA,BCLS Acquisition Corp. Class A
+BLTE,Belite Bio Inc
+BLTS,Bright Lights Acquisition Corp. Class A
+BLU,BELLUS Health
+BLUA,BlueRiver Acquisition Corp. Class A
+BLUE,bluebird bio
+BLW,Blackrock Limited Duration Income Trust
+BLX,Banco Latinoamericano de Comercio Exterior S.A.
+BLZE,Backblaze Class A
+BMA,Banco Macro S.A.  ADR (representing Ten Class B)
+BMAC,Black Mountain Acquisition Corp. Class A
+BMAQ,Blockchain Moon Acquisition Corp.
+BMBL,Bumble Class A
+BME,Blackrock Health Sciences Trust
+BMEA,Biomea Fusion
+BMEZ,BlackRock Health Sciences Trust II of Beneficial Interest
+BMI,Badger Meter
+BMO,Bank Of Montreal
+BMRA,Biomerica
+BMRC,Bank of Marin Bancorp
+BMRN,BioMarin Pharmaceutical
+BMTX,BM Technologies
+BMY,Bristol-Myers Squibb Company
+BNED,Barnes & Noble Education Inc
+BNFT,Benefitfocus
+BNGO,Bionano Genomics
+BNIX,Bannix Acquisition Corp.
+BNL,Broadstone Net Lease
+BNNR,Banner Acquisition Corp. Class A
+BNR,Burning Rock Biotech Limited
+BNRG,Brenmiller Energy Ltd
+BNS,Bank Nova Scotia Halifax Pfd 3
+BNTX,BioNTech SE American Depositary Share
+BNY,BlackRock New York Municipal Income Trust
+BOAC,Bluescape Opportunities Acquisition Corp. Class A
+BOAS,BOA Acquisition Corp. Class A
+BOC,Boston Omaha Corporation Class A
+BOCN,Blue Ocean Acquisition Corp Class A
+BODY,The Beachbody Company Class A
+BOE,Blackrock Enhanced Global Dividend Trust of Beneficial Interest
+BOH,Bank of Hawaii Corporation
+BOKF,BOK Financial Corporation
+BOLT,Bolt Biotherapeutics
+BOOM,DMC Global
+BOOT,Boot Barn Holdings
+BORR,Borr Drilling Limited
+BOTJ,Bank of the James Financial Group
+BOWL,Bowlero Corp. Class A
+BOX,Box Class A
+BOXD,Boxed
+BP,BP p.l.c.
+BPAC,Bullpen Parlay Acquisition Company Class A
+BPMC,Blueprint Medicines Corporation
+BPOP,Popular
+BPRN,The Bank of Princeton
+BPT,BP Prudhoe Bay Royalty Trust
+BR,Broadridge Financial Solutions
+BRAC,Broad Capital Acquisition Corp
+BRAG,Bragg Gaming Group
+BRBR,BellRing Brands 
+BRBS,Blue Ridge Bankshares
+BRC,Brady Corporation
+BRCC,BRC Class A
+BRD,Beard Energy Transition Acquisition Corp. Class A
+BRDG,Bridge Investment Group Holdings Class A
+BRDS,Bird Global Class A
+BREZ,Breeze Holdings Acquisition Corp.
+BRFS,BRF S.A.
+BRG,Bluerock Residential Growth REIT Class A
+BRID,Bridgford Foods Corporation
+BRIV,B. Riley Principal 250 Merger Corp. Class A
+BRK/A,Berkshire Hathaway
+BRK/B,Berkshire Hathaway
+BRKH,BurTech Acquisition Corp. Class A
+BRKL,Brookline Bancorp
+BRKR,Bruker Corporation
+BRLT,Brilliant Earth Group Class A
+BRMK,Broadmark Realty Capital
+BRO,Brown & Brown
+BROG,Brooge Energy Limited
+BROS,Dutch Bros Class A
+BRP,BRP Group (Insurance Company) Class A
+BRSP,BrightSpire Capital Class A
+BRT,BRT Apartments Corp. (MD)
+BRW,Saba Capital Income & Opportunities Fund SBI
+BRX,Brixmor Property Group
+BRY,Berry Corporation (bry)
+BRZE,Braze Class A
+BSAC,Banco Santander - Chile ADS
+BSAQ,Black Spade Acquisition Co Class A
+BSBK,Bogota Financial Corp.
+BSBR,Banco Santander Brasil SA each representing one unit
+BSET,Bassett Furniture Industries Incorporated
+BSGA,Blue Safari Group Acquisition Corp. Class A
+BSIG,BrightSphere Investment Group
+BSKY,Big Sky Growth Partners Class A
+BSL,Blackstone Senior Floating Rate Term Fund of Beneficial Interest
+BSM,Black Stone Minerals L.P. Common units representing limited partner interests
+BSMX,Banco Santander Mexico S.A. Institucion de Banca Multiple Grupo Financiero Santander Mexico
+BSRR,Sierra Bancorp
+BST,BlackRock Science and Technology Trust of Beneficial Interest
+BSTZ,BlackRock Science and Technology Trust II of Beneficial Interest
+BSVN,Bank7 Corp.
+BSX,Boston Scientific Corporation
+BSY,Bentley Systems Incorporated Class B
+BTA,BlackRock Long-Term Municipal Advantage Trust BlackRock Long-Term Municipal Advantage Trust of Beneficial Interest
+BTAI,BioXcel Therapeutics
+BTBT,Bit Digital
+BTG,B2Gold Corp (Canada)
+BTI,British American Tobacco  Industries p.l.c. ADR
+BTO,John Hancock Financial Opportunities Fund
+BTRS,BTRS Holdings Class 1
+BTT,BlackRock Municipal 2030 Target Term Trust
+BTU,Peabody Energy Corporation 
+BTWN,Bridgetown Holdings Limited Class A
+BTZ,BlackRock Credit Allocation Income Trust
+BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium)
+BUI,BlackRock Utility Infrastructure & Power Opportunities Trust
+BUR,Burford Capital Limited
+BURL,Burlington Stores
+BUSE,First Busey Corporation Class A
+BV,BrightView Holdings
+BVH,Bluegreen Vacations Holding Corporation Class A
+BVN,Buenaventura Mining Company
+BVS,Bioventus Class A
+BW,Babcock & Wilcox Enterprises
+BWA,BorgWarner
+BWAC,Better World Acquisition Corp.
+BWAQ,Blue World Acquisition Corporation Class A
+BWAY,BrainsWay Ltd.
+BWB,Bridgewater Bancshares
+BWC,Blue Whale Acquisition Corp I Class A
+BWEN,Broadwind
+BWFG,Bankwell Financial Group
+BWG,BrandywineGLOBAL Global Income Opportunities Fund
+BWMN,Bowman Consulting Group Ltd.
+BWMX,Betterware de Mexico S.A.P.I. de C.V.
+BWXT,BWX Technologies
+BX,Blackstone
+BXC,Bluelinx Holdings
+BXMT,Blackstone Mortgage Trust
+BXMX,Nuveen S&P 500 Buy-Write Income Fund of Beneficial Interest
+BXP,Boston Properties
+BXSL,Blackstone Secured Lending Fund of Beneficial Interest
+BY,Byline Bancorp
+BYD,Boyd Gaming Corporation
+BYFC,Broadway Financial Corporation
+BYM,Blackrock Municipal Income Quality Trust of Beneficial Interest
+BYN,Banyan Acquisition Corporation Class A
+BYND,Beyond Meat
+BYNO,byNordic Acquisition Corporation Class A
+BYRN,Byrna Technologies
+BYTS,BYTE Acquisition Corp. Class A
+BZ,KANZHUN LIMITED American Depository Shares
+BZFD,BuzzFeed Class A
+BZH,Beazer Homes USA
+BZUN,Baozun
+C,Citigroup
+CAAP,Corporacion America Airports SA
+CAAS,China Automotive Systems
+CABO,Cable One
+CAC,Camden National Corporation
+CACC,Credit Acceptance Corporation
+CACI,CACI International Class A
+CADE,Cadence Bank
+CADL,Candel Therapeutics
+CAE,CAE
+CAF,Morgan Stanley China A Share Fund
+CAG,ConAgra Brands
+CAH,Cardinal Health
+CAJ,Canon
+CAKE,Cheesecake Factory Incorporated (The)
+CAL,Caleres
+CALB,California BanCorp
+CALM,Cal-Maine Foods
+CALT,Calliditas Therapeutics AB
+CALX,Calix Inc
+CAMP,CalAmp Corp.
+CAMT,Camtek Ltd.
+CAN,Canaan
+CANG,Cango  each representing two (2) Class A
+CANO,Cano Health Class A
+CAPL,CrossAmerica Partners LP Common Units representing limited partner interests
+CAPR,Capricor Therapeutics
+CAR,Avis Budget Group
+CARA,Cara Therapeutics
+CARE,Carter Bankshares
+CARG,CarGurus Class A 
+CARR,Carrier Global Corporation 
+CARS,Cars.com 
+CASA,Casa Systems
+CASH,Pathward Financial
+CASS,Cass Information Systems Inc
+CASY,Casey's General Stores
+CAT,Caterpillar
+CATC,Cambridge Bancorp
+CATO,Cato Corporation (The) Class A
+CATY,Cathay General Bancorp
+CB,Chubb Limited 
+CBAN,Colony Bankcorp
+CBAT,CBAK Energy Technology
+CBAY,CymaBay Therapeutics
+CBD,Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share
+CBFV,CB Financial Services
+CBH,Virtus Convertible & Income 2024 Target Term Fund of Beneficial Interest
+CBL,CBL & Associates Properties
+CBNK,Capital Bancorp
+CBOE,Cboe Global Markets
+CBRE,CBRE Group Inc Class A
+CBRG,Chain Bridge I Class A
+CBRL,Cracker Barrel Old Country Store Inc
+CBSH,Commerce Bancshares
+CBT,Cabot Corporation
+CBTX,CBTX
+CBU,Community Bank System
+CBZ,CBIZ
+CC,Chemours Company (The)
+CCAI,Cascadia Acquisition Corp. Class A
+CCAP,Crescent Capital BDC
+CCB,Coastal Financial Corporation
+CCBG,Capital City Bank Group
+CCCC,C4 Therapeutics
+CCCS,CCC Intelligent Solutions Holdings
+CCD,Calamos Dynamic Convertible & Income Fund
+CCEP,Coca-Cola Europacific Partners plc
+CCF,Chase Corporation
+CCI,Crown Castle
+CCJ,Cameco Corporation
+CCK,Crown Holdings
+CCL,Carnival Corporation
+CCLP,CSI Compressco LP Common Units
+CCM,Concord Medical Services Holdings Limited ADS (Each represents three)
+CCNE,CNB Financial Corporation
+CCO,Clear Channel Outdoor Holdings
+CCOI,Cogent Communications Holdings
+CCRD,CoreCard Corporation
+CCRN,Cross Country Healthcare $0.0001 Par Value
+CCS,Century Communities
+CCSI,Consensus Cloud Solutions
+CCTS,Cactus Acquisition Corp. 1 Limited Class A
+CCU,Compania Cervecerias Unidas S.A.
+CCVI,Churchill Capital Corp VI Class A
+CCXI,ChemoCentryx
+CD,Chindata Group Holdings Limited
+CDAQ,Compass Digital Acquisition Corp. Class A
+CDAY,Ceridian HCM Holding
+CDE,Coeur Mining
+CDLX,Cardlytics
+CDMO,Avid Bioservices
+CDNA,CareDx
+CDNS,Cadence Design Systems
+CDRE,Cadre Holdings
+CDRO,Codere Online Luxembourg S.A.
+CDW,CDW Corporation
+CDXC,ChromaDex Corporation
+CDXS,Codexis
+CDZI,CADIZ
+CE,Celanese Corporation Celanese Corporation
+CEA,China Eastern Airlines Corporation Ltd.
+CECE,CECO Environmental Corp.
+CEG,Constellation Energy Corporation 
+CEI,Camber Energy
+CEIX,CONSOL Energy 
+CELC,Celcuity
+CELH,Celsius Holdings
+CELU,Celularity Class A
+CEM,ClearBridge MLP and Midstream Fund
+CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund
+CENN,Cenntro Electric Group Limited
+CENQ,CENAQ Energy Corp. Class A
+CENT,Central Garden & Pet Company
+CENTA,Central Garden & Pet Company Class A Nonvoting
+CENX,Century Aluminum Company
+CEPU,Central Puerto S.A. (each represents ten)
+CEQP,Crestwood Equity Partners LP
+CERE,Cerevel Therapeutics Holdings
+CERS,Cerus Corporation
+CERT,Certara
+CET,Central Securities Corporation
+CEV,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest
+CEVA,CEVA
+CF,CF Industries Holdings
+CFB,CrossFirst Bankshares
+CFBK,CF Bankshares
+CFFE,CF Acquisition Corp. VIII Class A
+CFFI,C&F Financial Corporation
+CFFN,Capitol Federal Financial
+CFFS,CF Acquisition Corp. VII Class A
+CFG,Citizens Financial Group
+CFIV,CF Acquisition Corp. IV Class A
+CFLT,Confluent Class A
+CFR,Cullen/Frost Bankers
+CFSB,CFSB Bancorp
+CG,The Carlyle Group
+CGA,China Green Agriculture
+CGAU,Centerra Gold
+CGBD,Carlyle Secured Lending
+CGC,Canopy Growth Corporation
+CGEM,Cullinan Oncology
+CGEN,Compugen Ltd.
+CGNT,Cognyte Software Ltd.
+CGNX,Cognex Corporation
+CGO,Calamos Global Total Return Fund
+CHAA,Catcha Investment Corp. Class A
+CHCO,City Holding Company
+CHCT,Community Healthcare Trust Incorporated
+CHD,Church & Dwight Company
+CHDN,Churchill Downs Incorporated
+CHE,Chemed Corp
+CHEA,Chenghe Acquisition Co. Class A
+CHEF,The Chefs' Warehouse
+CHG,Corphousing Group
+CHGG,Chegg
+CHH,Choice Hotels International
+CHI,Calamos Convertible Opportunities and Income Fund
+CHK,Chesapeake Energy Corporation
+CHKP,Check Point Software Technologies Ltd.
+CHMG,Chemung Financial Corp
+CHMI,Cherry Hill Mortgage Investment Corporation
+CHN,China Fund (The)
+CHNG,Change Healthcare
+CHPT,ChargePoint Holdings
+CHRA,Charah Solutions
+CHRD,Chord Energy Corporation
+CHRS,Coherus BioSciences
+CHRW,C.H. Robinson Worldwide
+CHS,Chico's FAS
+CHT,Chunghwa Telecom Co. Ltd.
+CHTR,Charter Communications Class A New
+CHUY,Chuy's Holdings
+CHW,Calamos Global Dynamic Income Fund
+CHWY,Chewy Class A
+CHX,ChampionX Corporation 
+CHY,Calamos Convertible and High Income Fund
+CI,Cigna Corporation
+CIA,Citizens Class A ($1.00 Par)
+CIB,BanColombia S.A.
+CIDM,Cinedigm Corp. Class A
+CIEN,Ciena Corporation
+CIFR,Cipher Mining
+CIG,Comp En De Mn Cemig ADS
+CIGI,Colliers International Group Subordinate Voting Shares
+CIH,China Index Holdings Limited American Depository Shares
+CII,Blackrock Capital and Income Fund
+CIK,Credit Suisse Asset Management Income Fund
+CIM,Chimera Investment Corporation
+CINC,CinCor Pharma
+CINF,Cincinnati Financial Corporation
+CINT,CI&T Inc Class A
+CIO,City Office REIT
+CION,CION Investment Corporation
+CIR,CIRCOR International
+CISO,Cerberus Cyber Sentinel Corporation
+CITE,Cartica Acquisition Corp Class A
+CIVB,Civista Bancshares
+CIVI,Civitas Resources
+CIX,CompX International
+CIXX,CI Financial Corp.
+CIZN,Citizens Holding Company
+CKPT,Checkpoint Therapeutics
+CL,Colgate-Palmolive Company
+CLAA,Colonnade Acquisition Corp. II Class A
+CLAR,Clarus Corporation
+CLAS,Class Acceleration Corp. Class A
+CLB,Core Laboratories N.V.
+CLBK,Columbia Financial
+CLBR,Colombier Acquisition Corp. Class A
+CLBT,Cellebrite DI Ltd.
+CLDT,Chatham Lodging Trust (REIT) of Beneficial Interest
+CLDX,Celldex Therapeutics
+CLF,Cleveland-Cliffs
+CLFD,Clearfield
+CLGN,CollPlant Biotechnologies Ltd
+CLH,Clean Harbors
+CLIM,Climate Real Impact Solutions II Acquisition Corporation Class A
+CLIN,Clean Earth Acquisitions Corp. Class A
+CLLS,Cellectis S.A.
+CLM,Cornerstone Strategic Value Fund New
+CLMT,Calumet Specialty Products Partners L.P. Common Units
+CLNE,Clean Energy Fuels Corp.
+CLNN,Clene
+CLOE,Clover Leaf Capital Corp. Class A
+CLOV,Clover Health Investments Corp. Class A
+CLPR,Clipper Realty
+CLPT,ClearPoint Neuro
+CLR,Continental Resources
+CLRC,ClimateRock Class A
+CLRM,Clarim Acquisition Corp. Class A
+CLS,Celestica
+CLSD,Clearside Biomedical
+CLSK,CleanSpark
+CLST,Catalyst Bancorp
+CLVS,Clovis Oncology
+CLVT,Clarivate Plc
+CLW,Clearwater Paper Corporation
+CLX,Clorox Company (The)
+CM,Canadian Imperial Bank of Commerce
+CMA,Comerica Incorporated
+CMAX,CareMax Class A
+CMBM,Cambium Networks Corporation
+CMC,Commercial Metals Company
+CMCA,Capitalworks Emerging Markets Acquisition Corp Class A
+CMCL,Caledonia Mining Corporation Plc
+CMCM,Cheetah Mobile each representing fifty (50) Class A
+CMCO,Columbus McKinnon Corporation
+CMCSA,Comcast Corporation Class A
+CMCT,Creative Media & Community Trust Corporation
+CME,CME Group Class A
+CMG,Chipotle Mexican Grill
+CMI,Cummins
+CMLS,Cumulus Media Class A
+CMP,Compass Minerals Intl Inc
+CMPO,CompoSecure Class A
+CMPR,Cimpress plc (Ireland)
+CMPS,COMPASS Pathways Plc American Depository Shares
+CMPX,Compass Therapeutics
+CMRE,Costamare $0.0001 par value
+CMRX,Chimerix
+CMS,CMS Energy Corporation
+CMT,Core Molding Technologies Inc
+CMTG,Claros Mortgage Trust
+CMTL,Comtech Telecommunications Corp.
+CMU,MFS Municipal Income Trust
+CNA,CNA Financial Corporation
+CNC,Centene Corporation
+CNCE,Concert Pharmaceuticals
+CND,Concord Acquisition Corp. Class A
+CNDA,Concord Acquisition Corp II Class A
+CNDB,Concord Acquisition Corp III Class A
+CNDT,Conduent Incorporated 
+CNEY,CN Energy Group Class A
+CNF,CNFinance Holdings Limited each representing  twenty (20)
+CNGL,Canna-Global Acquisition Corp. Class A
+CNHI,CNH Industrial N.V.
+CNI,Canadian National Railway Company
+CNK,Cinemark Holdings Inc Cinemark Holdings
+CNM,Core & Main Class A
+CNMD,CONMED Corporation
+CNNE,Cannae Holdings
+CNO,CNO Financial Group
+CNOB,ConnectOne Bancorp
+CNP,CenterPoint Energy Inc (Holding Co)
+CNQ,Canadian Natural Resources Limited
+CNS,Cohen & Steers Inc
+CNSL,Consolidated Communications Holdings
+CNTA,Centessa Pharmaceuticals plc
+CNTB,Connect Biopharma Holdings Limited
+CNTQ,Chardan NexTech Acquisition 2 Corp. Class A
+CNTY,Century Casinos
+CNVY,Convey Health Solutions Holdings
+CNX,CNX Resources Corporation
+CNXC,Concentrix Corporation
+CNXN,PC Connection
+COCO,The Vita Coco Company
+CODA,Coda Octopus Group
+CODI,D/B/A Compass Diversified Holdings Shares of Beneficial Interest
+CODX,Co-Diagnostics
+COF,Capital One Financial Corporation
+COFS,ChoiceOne Financial Services
+COGT,Cogent Biosciences
+COHR,Coherent Corp.
+COHU,Cohu
+COIN,Coinbase Global Class A
+COKE,Coca-Cola Consolidated
+COLB,Columbia Banking System
+COLD,Americold Realty Trust
+COLI,Colicity Class A
+COLL,Collegium Pharmaceutical
+COLM,Columbia Sportswear Company
+COMM,CommScope Holding Company
+COMP,Compass Class A
+CONN,Conn's
+CONX,CONX Corp. Class A
+COO,The Cooper Companies
+COOK,Traeger
+COOL,Corner Growth Acquisition Corp. Class A
+COOP,Mr. Cooper Group
+COP,ConocoPhillips
+CORS,Corsair Partnering Corporation Class A
+CORT,Corcept Therapeutics Incorporated
+CORZ,Core Scientific
+COST,Costco Wholesale Corporation
+COTY,Coty Class A
+COUP,Coupa Software Incorporated
+COUR,Coursera
+COVA,COVA Acquisition Corp. Class A
+COWN,Cowen Class A
+CP,Canadian Pacific Railway Limited
+CPA,Copa Holdings S.A. Copa Holdings S.A. Class A
+CPAA,Conyers Park III Acquisition Corp. Class A
+CPAC,Cementos Pacasmayo S.A.A. (Each representing five)
+CPAQ,Counter Press Acquisition Corporation Class A
+CPAR,Catalyst Partners Acquisition Corp. Class A
+CPB,Campbell Soup Company
+CPE,Callon Petroleum Company
+CPF,Central Pacific Financial Corp New
+CPG,Crescent Point Energy Corporation (Canada)
+CPHC,Canterbury Park Holding Corporation 'New'
+CPK,Chesapeake Utilities Corporation
+CPLP,Capital Product Partners L.P. Common Units
+CPNG,Coupang Class A
+CPRI,Capri Holdings Limited
+CPRT,Copart (DE)
+CPRX,Catalyst Pharmaceuticals
+CPS,Cooper-Standard Holdings
+CPSI,Computer Programs and Systems
+CPSS,Consumer Portfolio Services
+CPT,Camden Property Trust
+CPTK,Crown PropTech Acquisitions Class A
+CPTN,Cepton
+CPUH,Compute Health Acquisition Corp. Class A
+CPZ,Calamos Long/Short Equity & Dynamic Income Trust
+CQP,Cheniere Energy Partners LP Cheniere Energy Partners LP Common Units
+CR,Crane Holdings Co.
+CRAI,CRA International
+CRBG,Corebridge Financial
+CRBU,Caribou Biosciences
+CRC,California Resources Corporation
+CRCT,Cricut Class A
+CRDF,Cardiff Oncology
+CRDL,Cardiol Therapeutics Class A
+CRDO,Credo Technology Group Holding Ltd
+CREC,Crescera Capital Acquisition Corp Class A
+CRESY,Cresud S.A.C.I.F. y A.
+CRF,Cornerstone Total Return Fund (The)
+CRGE,Charge Enterprises
+CRGY,Crescent Energy Company Class A
+CRH,CRH PLC
+CRHC,Cohn Robbins Holdings Corp. Class A
+CRI,Carter's
+CRIS,Curis
+CRK,Comstock Resources
+CRL,Charles River Laboratories International
+CRM,Salesforce
+CRMD,CorMedix
+CRMT,America's Car-Mart Inc
+CRNC,Cerence
+CRNT,Ceragon Networks Ltd.
+CRNX,Crinetics Pharmaceuticals
+CRON,Cronos Group Common Share
+CROX,Crocs
+CRS,Carpenter Technology Corporation
+CRSP,CRISPR Therapeutics AG
+CRSR,Corsair Gaming
+CRT,Cross Timbers Royalty Trust
+CRTO,Criteo S.A.
+CRU,Crucible Acquisition Corporation Class A
+CRUS,Cirrus Logic
+CRVL,CorVel Corp.
+CRWD,CrowdStrike Holdings Class A
+CRWS,Crown Crafts Inc
+CRZN,Corazon Capital V838 Monoceros Corp Class A
+CS,Credit Suisse Group
+CSAN,Cosan S.A. ADS
+CSBR,Champions Oncology
+CSCO,Cisco Systems (DE)
+CSGP,CoStar Group
+CSGS,CSG Systems International
+CSII,Cardiovascular Systems
+CSIQ,Canadian Solar (BC)
+CSL,Carlisle Companies Incorporated
+CSLM,Consilium Acquisition Corp I Ltd. Class A
+CSQ,Calamos Strategic Total Return
+CSR,D/B/A Centerspace
+CSSE,Chicken Soup for the Soul Entertainment Class A
+CSTA,Constellation Acquisition Corp I Class A
+CSTE,Caesarstone Ltd.
+CSTL,Castle Biosciences
+CSTM,Constellium SE (France)
+CSTR,CapStar Financial Holdings
+CSV,Carriage Services
+CSWC,Capital Southwest Corporation
+CSWI,CSW Industrials
+CSX,CSX Corporation
+CTAQ,Carney Technology Acquisition Corp. II Class A
+CTAS,Cintas Corporation
+CTBI,Community Trust Bancorp
+CTG,Computer Task Group
+CTGO,Contango ORE
+CTIC,CTI BioPharma Corp. (DE)
+CTKB,Cytek Biosciences
+CTLP,Cantaloupe
+CTLT,Catalent
+CTMX,CytomX Therapeutics
+CTO,CTO Realty Growth
+CTOS,Custom Truck One Source
+CTR,ClearBridge MLP and Midstream Total Return Fund
+CTRA,Coterra Energy
+CTRE,CareTrust REIT
+CTRM,Castor Maritime
+CTRN,Citi Trends
+CTS,CTS Corporation
+CTSH,Cognizant Technology Solutions Corporation Class A
+CTSO,Cytosorbents Corporation
+CTV,Innovid Corp.
+CTVA,Corteva 
+CTXR,Citius Pharmaceuticals
+CTXS,Citrix Systems
+CUBE,CubeSmart
+CUBI,Customers Bancorp Inc
+CUE,Cue Biopharma
+CUK,Carnival Plc ADS ADS
+CULL,Cullman Bancorp
+CULP,Culp
+CURI,CuriosityStream Class A
+CURO,CURO Group Holdings Corp.
+CURV,Torrid Holdings
+CUTR,Cutera
+CUZ,Cousins Properties Incorporated
+CVAC,CureVac N.V.
+CVBF,CVB Financial Corporation
+CVCO,Cavco Industries When Issued
+CVCY,Central Valley Community Bancorp
+CVE,Cenovus Energy Inc
+CVEO,Civeo Corporation (Canada)
+CVET,Covetrus
+CVGI,Commercial Vehicle Group
+CVGW,Calavo Growers
+CVI,CVR Energy
+CVII,Churchill Capital Corp VII Class A
+CVLG,Covenant Logistics Group Class A
+CVLT,Commvault Systems
+CVLY,Codorus Valley Bancorp Inc
+CVM,Cel-Sci Corporation
+CVNA,Carvana Co. Class A
+CVRX,CVRx
+CVS,CVS Health Corporation
+CVT,Cvent Holding Corp.
+CVX,Chevron Corporation
+CW,Curtiss-Wright Corporation
+CWAN,Clearwater Analytics Holdings Class A
+CWBC,Community West Bancshares
+CWCO,Consolidated Water Co. Ltd.
+CWEN,Clearway Energy Class C
+CWH,Camping World Holdings Class A
+CWK,Cushman & Wakefield plc
+CWST,Casella Waste Systems Class A
+CWT,California Water Service Group
+CX,Cemex S.A.B. de C.V. Sponsored ADR
+CXAC,C5 Acquisition Corporation Class A
+CXDO,Crexendo
+CXE,MFS High Income Municipal Trust
+CXH,MFS Investment Grade Municipal Trust
+CXM,Sprinklr Class A
+CXW,CoreCivic
+CYBE,CyberOptics Corporation
+CYBN,Cybin
+CYBR,CyberArk Software Ltd.
+CYD,China Yuchai International Limited
+CYH,Community Health Systems
+CYRX,CryoPort
+CYT,Cyteir Therapeutics
+CYTK,Cytokinetics Incorporated
+CYXT,Cyxtera Technologies Class A
+CZFS,Citizens Financial Services
+CZNC,Citizens & Northern Corp
+CZOO,Cazoo Group Ltd Class A
+CZR,Caesars Entertainment
+CZWI,Citizens Community Bancorp
+D,Dominion Energy
+DAC,Danaos Corporation
+DADA,Dada Nexus Limited
+DAKT,Daktronics
+DAL,Delta Air Lines
+DALS,DA32 Life Science Tech Acquisition Corp. Class A
+DAN,Dana Incorporated 
+DAO,Youdao each representing one Class A
+DAOO,Crypto 1 Acquisition Corp Class A
+DAR,Darling Ingredients
+DARE,Dare Bioscience
+DASH,DoorDash Class A
+DAVA,Endava plc (each representing one Class A)
+DAVE,Dave Class A
+DAWN,Day One Biopharmaceuticals
+DB,Deutsche Bank AG
+DBD,Diebold Nixdorf Incorporated
+DBI,Designer Brands Class A
+DBL,DoubleLine Opportunistic Credit Fund of Beneficial Interest
+DBRG,DigitalBridge Group
+DBTX,Decibel Therapeutics
+DBVT,DBV Technologies S.A.
+DBX,Dropbox Class A
+DC,Dakota Gold Corp.
+DCBO,Docebo
+DCF,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund
+DCFC,Tritium DCFC Limited
+DCGO,DocGo
+DCI,Donaldson Company
+DCO,Ducommun Incorporated
+DCOM,Dime Community Bancshares
+DCP,DCP Midstream  LP Common Units 
+DCPH,Deciphera Pharmaceuticals
+DCRD,Decarbonization Plus Acquisition Corporation IV Class A
+DCT,Duck Creek Technologies
+DD,DuPont de Nemours
+DDD,3D Systems Corporation
+DDF,Delaware Investments Dividend & Income Fund
+DDI,DoubleDown Interactive Co. Ltd. American Depository Shares
+DDL,Dingdong (Cayman) Limited (each two representing three)
+DDOG,Datadog Class A
+DDS,Dillard's
+DE,Deere & Company
+DEA,Easterly Government Properties
+DECA,Denali Capital Acquisition Corp. Class A
+DECK,Deckers Outdoor Corporation
+DEI,Douglas Emmett
+DELL,Dell Technologies Class C 
+DEN,Denbury
+DENN,Denny's Corporation
+DEO,Diageo plc
+DESP,Despegar.com Corp.
+DEX,Delaware Enhanced Global Dividend of Beneficial Interest
+DFH,Dream Finders Homes Class A
+DFIN,Donnelley Financial Solutions 
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund
+DFS,Discover Financial Services
+DG,Dollar General Corporation
+DGICA,Donegal Group Class A
+DGICB,Donegal Group Class B
+DGII,Digi International
+DGNU,Dragoneer Growth Opportunities Corp. III Class A
+DGX,Quest Diagnostics Incorporated
+DH,Definitive Healthcare Corp. Class A
+DHAC,Digital Health Acquisition Corp.
+DHBC,DHB Capital Corp. Class A
+DHBCU,DHB Capital Corp. Unit
+DHC,Diversified Healthcare Trust of Beneficial Interest
+DHCA,DHC Acquisition Corp. Class A
+DHF,BNY Mellon High Yield Strategies Fund
+DHHC,DiamondHead Holdings Corp. Class A
+DHI,D.R. Horton
+DHIL,Diamond Hill Investment Group Class A
+DHR,Danaher Corporation
+DHT,DHT Holdings
+DHX,DHI Group
+DHY,Credit Suisse High Yield Bond Fund
+DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund of Beneficial Interest
+DIBS,1stdibs.com
+DICE,DICE Therapeutics
+DIN,Dine Brands Global
+DINO,HF Sinclair Corporation
+DIOD,Diodes Incorporated
+DIS,Walt Disney Company (The)
+DISA,Disruptive Acquisition Corporation I Class A
+DISH,DISH Network Corporation Class A
+DIT,AMCON Distributing Company
+DJCO,Daily Journal Corp. (S.C.)
+DK,Delek US Holdings
+DKDCA,Data Knights Acquisition Corp. Class A
+DKL,Delek Logistics Partners L.P. Common Units representing Limited Partner Interests
+DKNG,DraftKings Class A
+DKS,Dick's Sporting Goods Inc
+DLA,Delta Apparel
+DLB,Dolby Laboratories
+DLCA,Deep Lake Capital Acquisition Corp. Class A
+DLHC,DLH Holdings Corp.
+DLNG,Dynagas LNG Partners LP Common Units
+DLO,DLocal Limited Class A
+DLR,Digital Realty Trust
+DLTH,Duluth Holdings Class B
+DLTR,Dollar Tree
+DLX,Deluxe Corporation
+DLY,DoubleLine Yield Opportunities Fund of Beneficial Interest
+DM,Desktop Metal Class A
+DMA,Destra Multi-Alternative Fund
+DMAQ,Deep Medicine Acquisition Corp. Class A
+DMB,BNY Mellon Municipal Bond Infrastructure Fund
+DMF,BNY Mellon Municipal Income
+DMLP,Dorchester Minerals L.P. Common Units Representing Limited Partnership Interests
+DMO,Western Asset Mortgage Opportunity Fund
+DMRC,Digimarc Corporation
+DMS,Digital Media Solutions Class A
+DMTK,DermTech
+DMYS,dMY Technology Group VI Class A
+DNA,Ginkgo Bioworks Holdings Class A
+DNAB,Social Capital Suvretta Holdings Corp. II Class A
+DNAD,Social Capital Suvretta Holdings Corp. IV Class A
+DNAY,Codex DNA
+DNB,Dun & Bradstreet Holdings
+DNLI,Denali Therapeutics
+DNMR,Danimer Scientific
+DNN,Denison Mines Corp (Canada)
+DNOW,NOW
+DNP,DNP Select Income Fund
+DNUT,Krispy Kreme
+DNZ,D and Z Media Acquisition Corp. Class A
+DO,Diamond Offshore Drilling
+DOC,Physicians Realty Trust of Beneficial Interest
+DOCN,DigitalOcean Holdings
+DOCS,Doximity Class A
+DOCU,DocuSign
+DOLE,Dole plc
+DOMA,Doma Holdings
+DOMO,Domo Class B
+DOOO,BRP (Recreational Products) Common Subordinate Voting Shares
+DOOR,Masonite International Corporation (Canada)
+DORM,Dorman Products
+DOUG,Douglas Elliman
+DOV,Dover Corporation
+DOW,Dow 
+DOX,Amdocs Limited
+DOYU,DouYu International Holdings Limited ADS
+DPCS,DP Cap Acquisition Corp I Class A
+DPG,Duff & Phelps Utility and Infrastructure Fund
+DPSI,DecisionPoint Systems
+DPZ,Domino's Pizza Inc
+DQ,DAQO New Energy Corp. each representing five
+DRAY,Macondray Capital Acquisition Corp. I Class A
+DRD,DRDGOLD Limited
+DRE,Duke Realty Corporation
+DRH,Diamondrock Hospitality Company
+DRI,Darden Restaurants
+DRIO,DarioHealth Corp.
+DRQ,Dril-Quip
+DRRX,DURECT Corporation
+DRTS,Alpha Tau Medical Ltd.
+DRVN,Driven Brands Holdings
+DS,Drive Shack
+DSAQ,Direct Selling Acquisition Corp. Class A
+DSEY,Diversey Holdings Ltd.
+DSGN,Design Therapeutics
+DSGR,Distribution Solutions Group
+DSGX,Descartes Systems Group (The)
+DSKE,Daseke
+DSL,DoubleLine Income Solutions Fund of Beneficial Interests
+DSM,BNY Mellon Strategic Municipal Bond Fund
+DSP,Viant Technology Class A
+DSU,Blackrock Debt Strategies Fund
+DSWL,Deswell Industries
+DSX,Diana Shipping
+DT,Dynatrace
+DTC,Solo Brands Class A
+DTE,DTE Energy Company
+DTF,DTF Tax-Free Income 2028 Term Fund
+DTIL,Precision BioSciences
+DTM,DT Midstream 
+DTOC,Digital Transformation Opportunities Corp. Class A
+DTRT,DTRT Health Acquisition Corp. Class A
+DUET,DUET Acquisition Corp. Class A
+DUK,Duke Energy Corporation (Holding Company)
+DUNE,Dune Acquisition Corporation Class A
+DUOL,Duolingo Class A
+DV,DoubleVerify Holdings
+DVA,DaVita
+DVAX,Dynavax Technologies Corporation
+DVN,Devon Energy Corporation
+DWAC,Digital World Acquisition Corp. Class A
+DX,Dynex Capital
+DXC,DXC Technology Company 
+DXCM,DexCom
+DXLG,Destination XL Group
+DXPE,DXP Enterprises
+DXR,Daxor Corporation
+DY,Dycom Industries
+DYAI,Dyadic International
+DYN,Dyne Therapeutics
+DZSI,DZS
+E,ENI S.p.A.
+EA,Electronic Arts
+EAC,Edify Acquisition Corp. Class A
+EAD,Allspring Income Opportunities Fund
+EAF,GrafTech International Ltd.
+EARN,Ellington Residential Mortgage REIT of Beneficial Interest
+EAT,Brinker International
+EB,Eventbrite Class A
+EBAC,European Biotech Acquisition Corp. Class A
+EBAY,eBay
+EBC,Eastern Bankshares
+EBF,Ennis
+EBIX,Ebix
+EBMT,Eagle Bancorp Montana
+EBON,Ebang International Holdings Class A
+EBR,Centrais Electricas Brasileiras S A (Each representing one Common Share)
+EBS,Emergent Biosolutions
+EBTC,Enterprise Bancorp Inc
+EC,Ecopetrol S.A.
+ECAT,BlackRock ESG Capital Allocation Trust of Beneficial Interest
+ECBK,ECB Bancorp
+ECC           ,Eagle Point Credit Company
+ECF,Ellsworth Growth and Income Fund Ltd.
+ECL,Ecolab
+ECOM          ,ChannelAdvisor Corporation
+ECPG,Encore Capital Group Inc
+ECVT,Ecovyst
+ED,Consolidated Edison
+EDAP,EDAP TMS S.A.
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Morgan Stanley Emerging Markets Domestic Debt Fund
+EDF,Virtus Stone Harbor Emerging Markets Income Fund of Beneficial Interest
+EDIT,Editas Medicine
+EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor)
+EDNC,Endurance Acquisition Corp. Class A
+EDR,Endeavor Group Holdings Class A
+EDTX,EdtechX Holdings Acquisition Corp. II Class A
+EDU,New Oriental Education & Technology Group Sponsored ADR representing 10 (Cayman Islands)
+EE,Excelerate Energy Class A
+EEFT,Euronet Worldwide
+EEX,Emerald Holding
+EFC,Ellington Financial 
+EFL,Eaton Vance Floating-Rate 2022 Target Term Trust of Beneficial Interest
+EFR,Eaton Vance Senior Floating-Rate Fund of Beneficial Interest
+EFSC,Enterprise Financial Services Corporation
+EFT,Eaton Vance Floating Rate Income Trust of Beneficial Interest
+EFX,Equifax
+EGAN,eGain Corporation
+EGBN,Eagle Bancorp
+EGGF,EG Acquisition Corp. Class A
+EGHT,8x8 Inc
+EGIO,Edgio
+EGLE,Eagle Bulk Shipping
+EGLX,Enthusiast Gaming Holdings
+EGO,Eldorado Gold Corporation
+EGP,EastGroup Properties
+EGRX,Eagle Pharmaceuticals
+EGY,VAALCO Energy 
+EH,EHang Holdings Limited ADS
+EHAB,Enhabit
+EHC,Encompass Health Corporation
+EHI,Western Asset Global High Income Fund Inc
+EHTH,eHealth
+EIG,Employers Holdings Inc
+EIGR,Eiger BioPharmaceuticals
+EIM,Eaton Vance Municipal Bond Fund of Beneficial Interest $.01 par value
+EIX,Edison International
+EL,Estee Lauder Companies (The)
+ELA,Envela Corporation
+ELAN,Elanco Animal Health Incorporated
+ELBM,Electra Battery Materials Corporation
+ELF,e.l.f. Beauty
+ELLO,Ellomay Capital Ltd (Israel)
+ELMD,Electromed
+ELP,Companhia Paranaense de Energia (COPEL) (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares)
+ELS,Equity Lifestyle Properties
+ELV,Elevance Health
+ELYM,Eliem Therapeutics Inc
+EM,Smart Share Global Limited
+EMBC,Embecta Corp.
+EMBK,Embark Technology
+EMCF,Emclaire Financial Corp
+EMD,Western Asset Emerging Markets Debt Fund Inc
+EME,EMCOR Group
+EMF,Templeton Emerging Markets Fund
+EMKR,EMCORE Corporation
+EML,Eastern Company (The)
+EMLD,FTAC Emerald Acquisition Corp. Class A
+EMN,Eastman Chemical Company
+EMO,ClearBridge Energy Midstream Opportunity Fund
+EMR,Emerson Electric Company
+EMX,EMX Royalty Corporation (Canada)
+ENB,Enbridge Inc
+ENCP,Energem Corp Class A
+ENER,Accretion Acquisition Corp.
+ENFN,Enfusion Class A
+ENIC,Enel Chile S.A. (Each representing 50 shares of)
+ENLC,EnLink Midstream LLC Common Units representing Limited Partner Interests
+ENLV,Enlivex Therapeutics Ltd.
+ENOB,Enochian Biosciences
+ENOV,Enovis Corporation
+ENPC,Executive Network Partnering Corporation Class A
+ENPH,Enphase Energy
+ENR,Energizer Holdings
+ENS,EnerSys
+ENSG,The Ensign Group
+ENTA,Enanta Pharmaceuticals
+ENTF,Enterprise 4.0 Technology Acquisition Corp. Class A
+ENTG,Entegris
+ENV,Envestnet Inc
+ENVA,Enova International
+ENVX,Enovix Corporation
+ENX,Eaton Vance New York Municipal Bond Fund of Beneficial Interest $.01 par value
+ENZ,Enzo Biochem ($0.01 Par Value)
+EOCW,Elliott Opportunity II Corp. Class A
+EOD,Allspring Global Dividend Opportunity Fund of Beneficial Interest
+EOG,EOG Resources
+EOI,Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest
+EOLS,Evolus
+EOS,Eaton Vance Enhance Equity Income Fund II
+EOSE,Eos Energy Enterprises Class A
+EOT,Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST
+EP,Empire Petroleum Corporation
+EPAC,Enerpac Tool Group Corp.
+EPAM,EPAM Systems
+EPC,Edgewell Personal Care Company
+EPD,Enterprise Products Partners L.P.
+EPHY,Epiphany Technology Acquisition Corp. Class A
+EPIX,ESSA Pharma
+EPM,Evolution Petroleum Corporation
+EPOW,Sunrise New Energy Co. Ltd
+EPR,EPR Properties
+EPRT,Essential Properties Realty Trust
+EPSN,Epsilon Energy Ltd. Common Share
+EPWR,Empowerment & Inclusion Capital I Corp. Class A
+EQ,Equillium
+EQBK,Equity Bancshares Class A
+EQC,Equity Commonwealth of Beneficial Interest
+EQH,Equitable Holdings
+EQHA,EQ Health Acquisition Corp. Class A
+EQIX,Equinix REIT
+EQNR,Equinor ASA
+EQR,Equity Residential of Beneficial Interest
+EQRX,EQRx 
+EQT,EQT Corporation
+EQX,Equinox Gold Corp.
+ERAS,Erasca
+ERC,Allspring Multi-Sector Income Fund
+ERES,East Resources Acquisition Company Class A
+ERF,Enerplus Corporation
+ERH,Allspring Utilities and High Income Fund
+ERIC,Ericsson
+ERIE,Erie Indemnity Company Class A
+ERII,Energy Recovery
+ERJ,Embraer S.A.
+ERO,Ero Copper Corp.
+ES,Eversource Energy (D/B/A)
+ESAB,ESAB Corporation
+ESAC,ESGEN Acquisition Corporation Class A
+ESCA,Escalade Incorporated
+ESE,ESCO Technologies
+ESEA,Euroseas Ltd. (Marshall Islands)
+ESGR,Enstar Group Limited
+ESI,Element Solutions
+ESLT,Elbit Systems Ltd.
+ESM,ESM Acquisition Corporation Class A
+ESMT,EngageSmart
+ESNT,Essent Group Ltd.
+ESPR,Esperion Therapeutics
+ESQ,Esquire Financial Holdings
+ESRT,Empire State Realty Trust Class A
+ESS,Essex Property Trust
+ESSA,ESSA Bancorp
+ESSC,East Stone Acquisition Corporation
+ESTA,Establishment Labs Holdings
+ESTC,Elastic N.V.
+ESTE,Earthstone Energy Class A
+ET,Energy Transfer LP Common Units 
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund of Beneficial Interest
+ETD,Ethan Allen Interiors
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund of Beneficial Interest
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund of Beneficial Interest
+ETN,Eaton Corporation PLC
+ETNB,89bio
+ETO,Eaton Vance Tax-Advantage Global Dividend Opp
+ETON,Eton Pharmaceuticals
+ETR,Entergy Corporation
+ETRN,Equitrans Midstream Corporation 
+ETSY,Etsy
+ETV,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund of Beneficial Interest
+ETW,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund of Beneficial Interest
+ETWO,E2open Parent HoldingsClass A
+ETX           ,Eaton Vance Municipal Income 2028 Term Trust of Beneficial Interest
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund of Beneficial Interest
+EUCR,Eucrates Biomedical Acquisition Corp.
+EURN,Euronav NV
+EVA,Enviva
+EVAX,Evaxion Biotech A/S American Depositary Share
+EVBG,Everbridge
+EVBN,Evans Bancorp
+EVC,Entravision Communications Corporation
+EVCM,EverCommerce
+EVE,EVe Mobility Acquisition Corp Class A
+EVER,EverQuote Class A
+EVEX,Eve Holding
+EVF,Eaton Vance Senior Income Trust
+EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund of Beneficial Interest
+EVGO,EVgo Class A
+EVGR,Evergreen Corporation Class A
+EVH,Evolent Health Inc Class A
+EVI,EVI Industries 
+EVLO,Evelo Biosciences
+EVLV,Evolv Technologies Holdings Class A
+EVM,Eaton Vance California Municipal Bond Fund of Beneficial Interest $.01 par value
+EVN,Eaton Vance Municipal Income Trust
+EVO,Evotec SE
+EVOP,EVO Payments Class A
+EVR,Evercore Class A
+EVRG,Evergy
+EVRI,Everi Holdings
+EVT,Eaton Vance Tax Advantaged Dividend Income Fund of Beneficial Interest
+EVTC,Evertec
+EVTL,Vertical Aerospace Ltd.
+EVTV,Envirotech Vehicles
+EVV,Eaton Vance Limited Duration Income Fund of Beneficial Interest
+EW,Edwards Lifesciences Corporation
+EWBC,East West Bancorp
+EWCZ,European Wax Center Class A
+EWTX,Edgewise Therapeutics
+EXAI,Exscientia Plc
+EXAS,Exact Sciences Corporation
+EXC,Exelon Corporation
+EXD,Eaton Vance Tax-Managed Buy-Write Strategy Fund of Beneficial Interest
+EXEL,Exelixis
+EXFY,Expensify Class A
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Eaton Vance Tax-Managed Global Diversified Equity Income Fund of Beneficial Interest
+EXK,Endeavour Silver Corporation (Canada)
+EXLS,ExlService Holdings
+EXP,Eagle Materials Inc
+EXPD,Expeditors International of Washington
+EXPE,Expedia Group
+EXPI,eXp World Holdings
+EXPO,Exponent
+EXPR,Express
+EXR,Extra Space Storage Inc
+EXTN,Exterran Corporation
+EXTR,Extreme Networks
+EYE,National Vision Holdings
+EYEN,Eyenovia
+EYPT,EyePoint Pharmaceuticals
+EZPW,EZCORP Class A Non Voting
+F,Ford Motor Company
+FA,First Advantage Corporation
+FACA,Figure Acquisition Corp. I Class A
+FACT,Freedom Acquisition I Corp. Class A
+FAF,First American Corporation
+FAM,First Trust/abrdn Global Opportunity Income Fund of Beneficial Interest
+FANG,Diamondback Energy
+FANH,Fanhua
+FARM,Farmer Brothers Company
+FARO,FARO Technologies
+FAST,Fastenal Company
+FAT,FAT Brands Class A
+FATBB,FAT Brands Class B
+FATE,Fate Therapeutics
+FATH,Fathom Digital Manufacturing Corporation Class A
+FATP,Fat Projects Acquisition Corp Class A
+FAX,abrdn Asia-Pacific Income Fund
+FAZE,FaZe Holdings
+FBC,Flagstar Bancorp
+FBHS,Fortune Brands Home & Security
+FBIO,Fortress Biotech
+FBIZ,First Business Financial Services
+FBK,FB Financial Corporation
+FBMS,First Bancshares
+FBNC,First Bancorp
+FBP,First BanCorp. New
+FBRT,Franklin BSP Realty Trust
+FC,Franklin Covey Company
+FCAP,First Capital
+FCAX,Fortress Capital Acquisition Corp. Class A
+FCBC,First Community Bankshares (VA)
+FCCO,First Community Corporation
+FCEL,FuelCell Energy
+FCF,First Commonwealth Financial Corporation
+FCFS,FirstCash Holdings
+FCN,FTI Consulting
+FCNCA,First Citizens BancShares Class A
+FCPT,Four Corners Property Trust
+FCRD,First Eagle Alternative Capital BDC
+FCT,First Trust Senior Floating Rate Income Fund II of Beneficial Interest
+FCUV,Focus Universal
+FCX,Freeport-McMoRan
+FDBC,Fidelity D & D Bancorp
+FDEU,First Trust Dynamic Europe Equity Income Fund of Beneficial Interest
+FDMT,4D Molecular Therapeutics
+FDP,Fresh Del Monte Produce
+FDS,FactSet Research Systems
+FDUS,Fidus Investment Corporation
+FDX,FedEx Corporation
+FE,FirstEnergy Corp.
+FEAM,5E Advanced Materials
+FEI           ,First Trust MLP and Energy Income Fund of Beneficial Interest
+FEIM,Frequency Electronics
+FELE,Franklin Electric Co.
+FEN,First Trust Energy Income and Growth Fund
+FENC,Fennec Pharmaceuticals
+FENG,Phoenix New Media Limited each representing 48 Class A.
+FERG,Ferguson plc
+FET,Forum Energy Technologies
+FF,FutureFuel Corp. 
+FFA,First Trust Enhanced Equity Income Fund
+FFBC,First Financial Bancorp.
+FFBW,FFBW (MD)
+FFC,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated
+FFIC,Flushing Financial Corporation
+FFIE,Faraday Future Intelligent Electric
+FFIN,First Financial Bankshares
+FFIV,F5
+FFNW,First Financial Northwest
+FFWM,First Foundation
+FGBI,First Guaranty Bancshares
+FGEN,FibroGen Inc
+FGMC,FG Merger Corp.
+FHB,First Hawaiian
+FHI,Federated Hermes
+FHLT,Future Health ESG Corp.
+FHN,First Horizon Corporation
+FHTX,Foghorn Therapeutics
+FIAC,Focus Impact Acquisition Corp. Class A
+FIBK,First Interstate BancSystem Class A
+FICO,Fair Isaac Corproation
+FICV,Frontier Investment Corp Class A
+FIF,First Trust Energy Infrastructure Fund of Beneficial Interest
+FIGS,FIGS Class A
+FINM,Marlin Technology Corporation Class A
+FINS,Angel Oak Financial Strategies Income Term Trust of Beneficial Interest
+FINV,FinVolution Group
+FINW,FinWise Bancorp
+FIP,FTAI Infrastructure 
+FIS,Fidelity National Information Services
+FISI,Financial Institutions
+FISV,Fiserv
+FITB,Fifth Third Bancorp
+FIVE,Five Below
+FIVN,Five9
+FIX,Comfort Systems USA
+FIXX,Homology Medicines
+FIZZ,National Beverage Corp.
+FL,Foot Locker
+FLAC,Frazier Lifesciences Acquisition Corporation Class A
+FLAG,First Light Acquisition Group Class A
+FLC,Flaherty & Crumrine Total Return Fund Inc
+FLEX,Flex Ltd.
+FLFV,Feutune Light Acquisition Corporation Class A
+FLGC,Flora Growth Corp.
+FLGT,Fulgent Genetics
+FLIC,First of Long Island Corporation (The)
+FLJ,FLJ Group Limited
+FLL,Full House Resorts
+FLME,Flame Acquisition Corp. Class A
+FLNC,Fluence Energy Class A
+FLNG,FLEX LNG Ltd.
+FLNT,Fluent
+FLO,Flowers Foods
+FLR,Fluor Corporation
+FLS,Flowserve Corporation
+FLT,FleetCor Technologies
+FLWS,1-800-FLOWERS.COM
+FLXS,Flexsteel Industries
+FLYA,SOAR Technology Acquisition Corp. Class A
+FLYW,Flywire Corporation Voting
+FMAO,Farmers & Merchants Bancorp
+FMBH,First Mid Bancshares
+FMC,FMC Corporation
+FMIV,Forum Merger IV Corporation Class A
+FMN,Federated Hermes Premier Municipal Income Fund
+FMNB,Farmers National Banc Corp.
+FMS,Fresenius Medical Care AG
+FMTX,Forma Therapeutics Holdings
+FMX,Fomento Economico Mexicano S.A.B. de C.V.
+FN,Fabrinet
+FNA,Paragon 28
+FNB,F.N.B. Corporation
+FNCB,FNCB Bancorp
+FNCH,Finch Therapeutics Group
+FND,Floor & Decor Holdings
+FNF,FNF Group of Fidelity National Financial
+FNGR,FingerMotion
+FNKO,Funko Class A
+FNLC,First Bancorp Inc  (ME)
+FNV,Franco-Nevada Corporation
+FNVT,Finnovate Acquisition Corp. Class A
+FNWB,First Northwest Bancorp
+FNWD,Finward Bancorp
+FOA,Finance of America Companies Class A
+FOCS,Focus Financial Partners Class A
+FOF,Cohen & Steers Closed-End Opportunity Fund
+FOLD,Amicus Therapeutics
+FONR,Fonar Corporation
+FOR,Forestar Group Inc 
+FORA,Forian
+FORG,ForgeRock Class A
+FORM,FormFactor FormFactor
+FORR,Forrester Research
+FORTY,Formula Systems (1985) Ltd.
+FOSL,Fossil Group
+FOUR,Shift4 Payments Class A
+FOX,Fox Corporation Class B
+FOXA,Fox Corporation Class A
+FOXF,Fox Factory Holding Corp.
+FPAC,Far Peak Acquisition Corporation Class A
+FPF,First Trust Intermediate Duration Preferred & Income Fund of Beneficial Interest
+FPH,Five Point Holdings LLC Class A
+FPI,Farmland Partners
+FPL,First Trust New Opportunities MLP & Energy Fund of Beneficial Interest
+FR,First Industrial Realty Trust
+FRA,Blackrock Floating Rate Income Strategies Fund Inc 
+FRAF,Franklin Financial Services Corporation
+FRBA,First Bank
+FRBK,Republic First Bancorp
+FRBN,Forbion European Acquisition Corp. Class A
+FRC,FIRST REPUBLIC BANK
+FRD,Friedman Industries
+FREE,Whole Earth Brands Class A
+FREQ,Frequency Therapeutics
+FREY,FREYR Battery
+FRG,Franchise Group
+FRGE,Forge Global Holdings
+FRGI,Fiesta Restaurant Group
+FRHC,Freedom Holding Corp.
+FRLA,Fortune Rise Acquisition Corporation Class A
+FRME,First Merchants Corporation
+FRO,Frontline Ltd.
+FROG,JFrog Ltd.
+FRON,Frontier Acquisition Corp. Class A
+FRPH,FRP Holdings
+FRPT,Freshpet
+FRSG,First Reserve Sustainable Growth Corp. Class A
+FRSH,Freshworks Class A
+FRST,Primis Financial Corp.
+FRT,Federal Realty Investment Trust
+FRW,PWP Forward Acquisition Corp. I Class A
+FRXB,Forest Road Acquisition Corp. II Class A
+FSBC,Five Star Bancorp
+FSBW,FS Bancorp
+FSD,First Trust High Income Long Short Fund of Beneficial Interest
+FSEA,First Seacoast Bancorp
+FSFG,First Savings Financial Group
+FSK,FS KKR Capital Corp.
+FSLR,First Solar
+FSLY,Fastly Class A
+FSM,Fortuna Silver Mines Inc (Canada)
+FSNB,Fusion Acquisition Corp. II Class A
+FSP,Franklin Street Properties Corp.
+FSR,Fisker Class A
+FSRX,FinServ Acquisition Corp. II Class A
+FSS,Federal Signal Corporation
+FSSI,Fortistar Sustainable Solutions Corp. Class A
+FSTR,L.B. Foster Company
+FSTX,F-star Therapeutics
+FSV,FirstService Corporation
+FT,Franklin Universal Trust
+FTAA,FTAC Athena Acquisition Corp. Class A
+FTAI,Fortress Transportation and Infrastructure Investors LLC Class A
+FTCH,Farfetch Limited Class A
+FTCI,FTC Solar
+FTCV,FinTech Acquisition Corp. V Class A
+FTDR,Frontdoor
+FTEV,FinTech Evolution Acquisition Group Class A
+FTF,Franklin Limited Duration Income Trust of Beneficial Interest
+FTHM,Fathom Holdings
+FTHY,First Trust High Yield Opportunities 2027 Term Fund
+FTI,TechnipFMC plc
+FTII,FutureTech II Acquisition Corp. Class A
+FTK,Flotek Industries
+FTNT,Fortinet
+FTPA,FTAC Parnassus Acquisition Corp. Class A
+FTS,Fortis
+FTV,Fortive Corporation 
+FTVI,FinTech Acquisition Corp. VI Class A
+FUBO,fuboTV
+FUL,H. B. Fuller Company
+FULC,Fulcrum Therapeutics
+FULT,Fulton Financial Corporation
+FUN,Cedar Fair L.P.
+FUNC,First United Corporation
+FUND,Sprott Focus Trust
+FURY,Fury Gold Mines Limited
+FUSN,Fusion Pharmaceuticals
+FUTU,Futu Holdings Limited
+FUV,Arcimoto
+FVAM,5:01 Acquisition Corp. Class A
+FVCB,FVCBankcorp
+FVIV,Fortress Value Acquisition Corp. IV Class A
+FVRR,Fiverr International Ltd. no par value
+FVT,Fortress Value Acquisition Corp. III Class A
+FWAC,Fifth Wall Acquisition Corp. III Class A
+FWONA,Liberty Media Corporation Series A Liberty Formula One
+FWONK,Liberty Media Corporation Series C Liberty Formula One
+FWRD,Forward Air Corporation
+FWRG,First Watch Restaurant Group
+FXCO,Financial Strategies Acquisition Corp. Class A
+FXLV,F45 Training Holdings
+FXNC,First National Corporation
+FYBR,Frontier Communications Parent
+FZT,FAST Acquisition Corp. II Class A
+G,Genpact Limited
+GAB,Gabelli Equity Trust (The)
+GABC,German American Bancorp
+GACQ,Global Consumer Acquisition Corp.
+GAIA,Gaia Class A
+GAIN,Gladstone Investment Corporation Business Development Company
+GALT,Galectin Therapeutics
+GAM,General American Investors
+GAMB,Gambling.com Group Limited
+GAMC,Golden Arrow Merger Corp. Class A
+GAN,GAN Limited
+GAPA,G&P Acquisition Corp. Class A
+GAQ,Generation Asia I Acquisition Limited Class A
+GASS,StealthGas
+GATE,Marblegate Acquisition Corp. Class A
+GATO,Gatos Silver
+GATX,GATX Corporation
+GAU,Galiano Gold
+GB,Global Blue Group Holding AG
+GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust of Beneficial Interest
+GBBK,Global Blockchain Acquisition Corp.
+GBCI,Glacier Bancorp
+GBDC,Golub Capital BDC
+GBIO,Generation Bio Co.
+GBL,Gamco Investors
+GBLI,Global Indemnity Group LLC Class A (DE)
+GBNH,Greenbrook TMS
+GBT,Global Blood Therapeutics
+GBTG,Global Business Travel Group Class A
+GBX,Greenbrier Companies (The)
+GCBC,Greene County Bancorp
+GCI,Gannett Co.
+GCMG,GCM Grosvenor Class A
+GCO,Genesco
+GCT,GigaCloud Technology Inc Class A
+GCV,Gabelli Convertible and Income Securities Fund (The)
+GD,General Dynamics Corporation
+GDDY,GoDaddy Class A
+GDEN,Golden Entertainment
+GDL,GDL Fund The of Beneficial Interest
+GDNR,Gardiner Healthcare Acquisitions Corp.
+GDO,Western Asset Global Corporate Defined Opportunity Fund Western Asset Global Corporate Defined Opportunity Fund
+GDOT,Green Dot Corporation Class A $0.001 par value
+GDRX,GoodRx Holdings Class A
+GDS,GDS Holdings Limited ADS
+GDST,Goldenstone Acquisition Limited
+GDV,Gabelli Dividend & Income Trust of Beneficial Interest
+GDYN,Grid Dynamics Holdings Class A
+GE,General Electric Company
+GECC,Great Elm Capital Corp.
+GEEX,Games & Esports Experience Acquisition Corp. Class A
+GEF,Greif Class A
+GEG,Great Elm Group
+GEL,Genesis Energy L.P. Common Units
+GENC,Gencor Industries
+GENI,Genius Sports Limited
+GENQ,Genesis Unicorn Capital Corp. Class A
+GEO,Geo Group Inc (The) REIT
+GEOS,Geospace Technologies Corporation (Texas)
+GER,Goldman Sachs MLP Energy Renaissance Fund
+GERN,Geron Corporation
+GES,Guess?
+GET,Getnet Adquirencia e Servicos para Meios de Pagamento S.A.
+GETY,Getty Images Holdings Class A
+GEVO,Gevo
+GF,New Germany Fund (The)
+GFF,Griffon Corporation
+GFGD,The Growth for Good Acquisition Corporation Class A
+GFI,Gold Fields Limited
+GFL,GFL Environmental Subordinate voting shares no par value
+GFOR,Graf Acquisition Corp. IV
+GFS,GlobalFoundries
+GFX,Golden Falcon Acquisition Corp. Class A
+GGAA,Genesis Growth Tech Acquisition Corp. Class A
+GGAL,Grupo Financiero Galicia S.A.
+GGB,Gerdau S.A.
+GGG,Graco
+GGMC,Glenfarne Merger Corp. Class A
+GGN,GAMCO Global Gold Natural Resources & Income Trust
+GGR,Gogoro
+GGT,Gabelli Multi-Media Trust (The)
+GGZ,Gabelli Global Small and Mid Cap Value Trust (The) of Beneficial Interest
+GH,Guardant Health
+GHAC,Gaming & Hospitality Acquisition Corp. Class A
+GHC,Graham Holdings Company
+GHG,GreenTree Hospitality Group Ltd. each representing one Class A
+GHIX,Gores Holdings IX Class A
+GHL,Greenhill & Co.
+GHLD,Guild Holdings Company Class A
+GHM,Graham Corporation
+GHRS,GH Research PLC
+GHY,PGIM Global High Yield Fund
+GIA,GigCapital 5
+GIAC,Gesher I Acquisition Corp. Class A
+GIB,CGI
+GIC,Global Industrial Company
+GIFI,Gulf Island Fabrication
+GIII,G-III Apparel Group LTD.
+GIIX,Gores Holdings VIII Class A
+GIL,Gildan Activewear Class A Sub. Vot.
+GILD,Gilead Sciences
+GILT,Gilat Satellite Networks Ltd.
+GIM,Templeton Global Income Fund
+GIS,General Mills
+GIW,GigInternational1
+GKOS,Glaukos Corporation
+GL,Globe Life
+GLAD,Gladstone Capital Corporation
+GLBE,Global-E Online Ltd.
+GLBL,Cartesian Growth Corporation Class A
+GLDD,Great Lakes Dredge & Dock Corporation
+GLDG,GoldMining
+GLEE,Gladstone Acquisition Corp. Class A
+GLG,TD Holdings
+GLHA,Glass Houses Acquisition Corp. Class A
+GLLI,Globalink Investment
+GLNG,Golar Lng Ltd
+GLO,Clough Global Opportunities Fund
+GLOB,Globant S.A.
+GLOP,GasLog Partners LP Common Units representing limited partnership interests
+GLP,Global Partners LP Global Partners LP Common Units representing Limited Partner Interests
+GLPG,Galapagos NV
+GLPI,Gaming and Leisure Properties
+GLQ,Clough Global Equity Fund Clough Global Equity Fund of Beneficial Interest
+GLRE,Greenlight Capital Re Ltd. Class A
+GLS,Gelesis Holdings
+GLSI,Greenwich LifeSciences
+GLT,Glatfelter Corporation
+GLTA,Galata Acquisition Corp. Class A
+GLU,Gabelli Global Utility of Beneficial Ownership
+GLUE,Monte Rosa Therapeutics
+GLV,Clough Global Dividend and Income Fund of beneficial interest
+GLW,Corning Incorporated
+GM,General Motors Company
+GMAB,Genmab A/S ADS
+GMDA,Gamida Cell Ltd.
+GME,GameStop Corporation
+GMED,Globus Medical Class A
+GMFI,Aetherium Acquisition Corp. Class A
+GMGI,Golden Matrix Group
+GMRE,Global Medical REIT
+GMS,GMS
+GMTX,Gemini Therapeutics
+GNAC,Group Nine Acquisition Corp. Class A
+GNE,Genie Energy Ltd. Class B Stock
+GNFT,GENFIT S.A.
+GNK,Genco Shipping & Trading Limited New (Marshall Islands)
+GNL,Global Net Lease
+GNLN,Greenlane Holdings Class A
+GNPX,Genprex
+GNRC,Generac Holdlings
+GNS,Genius Group Limited
+GNSS,Genasys
+GNT,GAMCO Natural Resources Gold & Income Trust
+GNTA,Genenta Science S.p.A.
+GNTX,Gentex Corporation
+GNTY,Guaranty Bancshares
+GNUS,Genius Brands International
+GNW,Genworth Financial Inc
+GO,Grocery Outlet Holding Corp.
+GOEV,Canoo Class A
+GOF,Guggenheim Strategic Opportunities Fund of Beneficial Interest
+GOGL,Golden Ocean Group Limited
+GOGN,GoGreen Investments Corporation Class A
+GOGO,Gogo
+GOL,Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares
+GOLD,Barrick Gold Corporation (BC)
+GOLF,Acushnet Holdings Corp.
+GOOD,Gladstone Commercial Corporation Real Estate Investment Trust
+GOOG,Alphabet Class C Capital Stock
+GOOGL,Alphabet Class A
+GOOS,Canada Goose Holdings Subordinate Voting Shares
+GORO,Gold Resource Corporation
+GOSS,Gossamer Bio
+GOTU,Gaotu Techedu
+GP,GreenPower Motor Company
+GPAC,Global Partner Acquisition Corp II Class A
+GPC,Genuine Parts Company
+GPI,Group 1 Automotive
+GPK,Graphic Packaging Holding Company
+GPMT,Granite Point Mortgage Trust
+GPN,Global Payments
+GPOR,Gulfport Energy Corporation
+GPP,Green Plains Partners LP Common Units
+GPRE,Green Plains
+GPRK,Geopark Ltd
+GPRO,GoPro Class A
+GPS,Gap (The)
+GRAB,Grab Holdings Limited Class A
+GRBK,Green Brick Partners
+GRC,Gorman-Rupp Company (The)
+GRCL,Gracell Biotechnologies
+GREE,Greenidge Generation Holdings Class A
+GRFS,Grifols S.A.
+GRIN,Grindrod Shipping Holdings Ltd.
+GRMN,Garmin Ltd. (Switzerland)
+GRNA,GreenLight Biosciences Holdings PBC
+GROV,Grove Collaborative Holdings Class A
+GROY,Gold Royalty Corp.
+GRPH,Graphite Bio
+GRPN,Groupon
+GRRR,Gorilla Technology Group
+GRTS,Gritstone bio
+GRVY,GRAVITY Co. Ltd. American Depository Shares
+GRWG,GrowGeneration Corp.
+GRX,The Gabelli Healthcare & Wellness Trust of Beneficial Interest
+GS,Goldman Sachs Group (The)
+GSAT,Globalstar
+GSBC,Great Southern Bancorp
+GSBD,Goldman Sachs BDC
+GSEV,Gores Holdings VII Class A
+GSHD,Goosehead Insurance Class A
+GSIT,GSI Technology
+GSK,GSK plc (Each representing two)
+GSL,Global Ship Lease Inc New Class A
+GSM,Ferroglobe PLC
+GSMG,Glory Star New Media Group Holdings Limited
+GSQB,G Squared Ascend II Class A
+GSQD,G Squared Ascend I Class A
+GSRM,GSR II Meteora Acquisition Corp. Class A
+GSUN,Golden Sun Education Group Limited Class A
+GT,The Goodyear Tire & Rubber Company
+GTAC,Global Technology Acquisition Corp. I Class A
+GTBP,GT Biopharma
+GTE,Gran Tierra Energy
+GTES,Gates Industrial Corporation plc
+GTH,Genetron Holdings Limited ADS
+GTHX,G1 Therapeutics
+GTLB,GitLab Class A
+GTLS,Chart Industries
+GTN,Gray Television
+GTPA,Gores Technology Partners Class A
+GTPB,Gores Technology Partners II Class A
+GTX,Garrett Motion
+GTY,Getty Realty Corporation
+GUG,Guggenheim Active Allocation Fund of Beneficial Interest
+GUT,Gabelli Utility Trust (The)
+GVA,Granite Construction Incorporated
+GVCI,Green Visor Financial Technology Acquisition Corp. I Class A
+GWH,ESS Tech
+GWII,Good Works II Acquisition Corp.
+GWRE,Guidewire Software
+GWRS,Global Water Resources
+GWW,W.W. Grainger
+GXII,GX Acquisition Corp. II Class A
+GXO,GXO Logistics 
+H,Hyatt Hotels Corporation Class A
+HA,Hawaiian Holdings
+HAAC,Health Assurance Acquisition Corp. Class A
+HAE,Haemonetics Corporation
+HAFC,Hanmi Financial Corporation
+HAIA,Healthcare AI Acquisition Corp. Class A
+HAIN,Hain Celestial Group (The)
+HAL,Halliburton Company
+HALO,Halozyme Therapeutics
+HAS,Hasbro
+HASI,Hannon Armstrong Sustainable Infrastructure Capital
+HAYN,Haynes International
+HAYW,Hayward Holdings
+HBAN,Huntington Bancshares Incorporated
+HBB,Hamilton Beach Brands Holding Company Class A 
+HBCP,Home Bancorp
+HBI,Hanesbrands
+HBIO,Harvard Bioscience
+HBM,Hudbay Minerals (Canada)
+HBNC,Horizon Bancorp
+HBT,HBT Financial
+HCA,HCA Healthcare
+HCAR,Healthcare Services Acquisition Corporation Class A
+HCAT,Health Catalyst Inc
+HCC,Warrior Met Coal
+HCCI,Heritage-Crystal Clean
+HCI,HCI Group
+HCIC,Hennessy Capital Investment Corp. V Class A
+HCII,Hudson Executive Investment Corp. II Class A
+HCKT,Hackett Group Inc (The).
+HCM,HUTCHMED (China) Limited
+HCMA,HCM Acquisition Corp Class A
+HCNE,Jaws Hurricane Acquisition Corp. Class A
+HCP,HashiCorp Class A
+HCSG,Healthcare Services Group
+HCVI,Hennessy Capital Investment Corp. VI Class A
+HCWB,HCW Biologics
+HD,Home Depot (The)
+HDB,HDFC Bank Limited
+HDSN,Hudson Technologies
+HE,Hawaiian Electric Industries
+HEAR,Turtle Beach Corporation
+HEES,H&E Equipment Services
+HEI,Heico Corporation
+HELE,Helen of Troy Limited
+HEP,Holly Energy Partners L.P.
+HEPS,D-Market Electronic Services & Trading
+HEQ,John Hancock Hedged Equity & Income Fund of Beneficial Interest
+HERA,FTAC Hera Acquisition Corp. Class A
+HES,Hess Corporation
+HESM,Hess Midstream LP Class A Share
+HEXO,HEXO Corp.
+HFBL,Home Federal Bancorp of Louisiana
+HFFG,HF Foods Group
+HFRO,Highland Income Fund
+HFWA,Heritage Financial Corporation
+HGBL,Heritage Global
+HGLB,Highland Global Allocation Fund
+HGTY,Hagerty Class A
+HGV,Hilton Grand Vacations 
+HHC,Howard Hughes Corporation (The)
+HHGC,HHG Capital Corporation
+HHLA,HH&L Acquisition Co. Class A
+HHS,Harte-Hanks
+HI,Hillenbrand Inc
+HIBB,Hibbett
+HIE,Miller/Howard High Income Equity Fund of Beneficial Interest
+HIFS,Hingham Institution for Savings
+HIG,Hartford Financial Services Group (The)
+HIGA,H.I.G. Acquisition Corp. Class A
+HII,Huntington Ingalls Industries
+HIII,Hudson Executive Investment Corp. III Class A
+HIL,Hill International
+HIMS,Hims & Hers Health Class A
+HIMX,Himax Technologies
+HIO,Western Asset High Income Opportunity Fund
+HIPO,Hippo Holdings
+HITI,High Tide
+HIVE,Hive Blockchain Technologies Ltd.
+HIW,Highwoods Properties
+HIX,Western Asset High Income Fund II
+HKD,AMTD Digital (every five of which represent two Class A)
+HL,Hecla Mining Company
+HLAH,Hamilton Lane Alliance Holdings I Class A
+HLF,Herbalife Nutrition Ltd.
+HLGN,Heliogen
+HLI,Houlihan Lokey Class A
+HLIO,Helios Technologies
+HLIT,Harmonic
+HLLY,Holley
+HLMN,Hillman Solutions Corp.
+HLN,Haleon plc (Each representing two)
+HLNE,Hamilton Lane Incorporated Class A
+HLT,Hilton Worldwide Holdings 
+HLTH,Cue Health
+HLVX,HilleVax
+HLX,Helix Energy Solutions Group
+HMA,Heartland Media Acquisition Corp. Class A
+HMAC,Hainan Manaslu Acquisition Corp.
+HMC,Honda Motor Company Ltd.
+HMCO,HumanCo Acquisition Corp. Class A
+HMN,Horace Mann Educators Corporation
+HMNF,HMN Financial
+HMPT,Home Point Capital Inc
+HMST,HomeStreet
+HMY,Harmony Gold Mining Company Limited
+HNGR,Hanger
+HNI,HNI Corporation
+HNNA,Hennessy Advisors
+HNRG,Hallador Energy Company
+HNST,The Honest Company
+HNVR,Hanover Bancorp
+HNW,Pioneer Diversified High Income Fund
+HOFT,Hooker Furnishings Corporation
+HOFV,Hall of Fame Resort & Entertainment Company
+HOG,Harley-Davidson
+HOLI,Hollysys Automation Technologies Ltd. (British Virgin Islands)
+HOLX,Hologic
+HOMB,Home BancShares
+HON,Honeywell International
+HONE,HarborOne Bancorp
+HOOD,Robinhood Markets Class A
+HOOK,HOOKIPA Pharma
+HOPE,Hope Bancorp
+HORI,Emerging Markets Horizon Corp. Class A
+HOUR,Hour Loop
+HOUS,Anywhere Real Estate
+HOV,Hovnanian Enterprises Class A
+HOWL,Werewolf Therapeutics
+HP,Helmerich & Payne
+HPCO,Hempacco Co.
+HPE,Hewlett Packard Enterprise Company
+HPF,John Hancock Pfd Income Fund II Pfd Income Fund II
+HPI,John Hancock Preferred Income Fund of Beneficial Interest
+HPK,HighPeak Energy
+HPLT,Home Plate Acquisition Corporation Class A
+HPP,Hudson Pacific Properties
+HPQ,HP
+HPS,John Hancock Preferred Income Fund III Preferred Income Fund III
+HPX,HPX Corp. Class A
+HQH,Tekla Healthcare Investors
+HQI,HireQuest (DE)
+HQL,TeklaLife Sciences Investors
+HQY,HealthEquity
+HR,Healthcare Realty Trust Incorporated
+HRB,H&R Block
+HRI,Herc Holdings 
+HRL,Hormel Foods Corporation
+HRMY,Harmony Biosciences Holdings
+HROW,Harrow Health
+HRT,HireRight Holdings Corporation
+HRTG,Heritage Insurance Holdings
+HRTX,Heron Therapeutics
+HRZN,Horizon Technology Finance Corporation
+HSAQ,Health Sciences Acquisitions Corporation 2
+HSBC,HSBC Holdings plc.
+HSC,Harsco Corporation
+HSIC,Henry Schein
+HSII,Heidrick & Struggles International
+HSKA,Heska Corporation
+HSON,Hudson Global
+HST,Host Hotels & Resorts
+HSTM,HealthStream
+HSY,The Hershey Company
+HT,Hersha Hospitality Trust Class A of Beneficial Interest
+HTAQ,Hunt Companies Acquisition Corp. I Class A
+HTBI,HomeTrust Bancshares
+HTBK,Heritage Commerce Corp
+HTD,John Hancock Tax Advantaged Dividend Income Fund of Beneficial Interest
+HTGC,Hercules Capital
+HTH,Hilltop Holdings
+HTHT,H World Group Limited
+HTLD,Heartland Express
+HTLF,Heartland Financial USA
+HTOO,Fusion Fuel Green PLC Class A
+HTPA,Highland Transcend Partners I Corp. Class A
+HTZ,Hertz Global Holdings Inc
+HUBB,Hubbell Inc
+HUBG,Hub Group Class A
+HUBS,HubSpot
+HUDI,Huadi International Group Co. Ltd.
+HUGS,USHG Acquisition Corp. Class A
+HUM,Humana
+HUMA,Humacyte
+HUN,Huntsman Corporation
+HURC,Hurco Companies
+HURN,Huron Consulting Group
+HUT,Hut 8 Mining Corp.
+HUYA,HUYA each  representing one Class A
+HVT,Haverty Furniture Companies
+HWBK,Hawthorn Bancshares
+HWC,Hancock Whitney Corporation
+HWEL,Healthwell Acquisition Corp. I Class A
+HWKN,Hawkins
+HWKZ,Hawks Acquisition Corp Class A
+HWM,Howmet Aerospace
+HXL,Hexcel Corporation
+HY,Hyster-Yale Materials Handling Class A
+HYB,New America High Income Fund (The)
+HYFM,Hydrofarm Holdings Group
+HYI,Western Asset High Yield Defined Opportunity Fund
+HYLN,Hyliion Holdings Corp. Class A
+HYPR,Hyperfine Class A
+HYT,Blackrock Corporate High Yield Fund
+HYW,Hywin Holdings Ltd.
+HYZN,Hyzon Motors Class A
+HZNP,Horizon Therapeutics Public Limited Company
+HZO,MarineMax  (FL)
+HZON,Horizon Acquisition Corporation II Class A
+IAA,IAA 
+IAC,IAC
+IACC,ION Acquisition Corp 3 Ltd. Class A
+IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund of Beneficial Interest
+IAF,abrdn Australia Equity Fund
+IAG,Iamgold Corporation
+IART,Integra LifeSciences Holdings Corporation
+IAS,Integral Ad Science Holding Corp.
+IAUX,i-80 Gold Corp.
+IBA,Industrias Bachoco S.A.B. de C.V.
+IBCP,Independent Bank Corporation
+IBER,Ibere Pharmaceuticals Class A
+IBEX,IBEX Limited
+IBKR,Interactive Brokers Group Class A
+IBM,International Business Machines Corporation
+IBN,ICICI Bank Limited
+IBOC,International Bancshares Corporation
+IBP,Installed Building Products
+IBRX,ImmunityBio
+IBTX,Independent Bank Group Inc
+ICAD,iCAD
+ICCC,ImmuCell Corporation
+ICCH,ICC Holdings
+ICE,Intercontinental Exchange
+ICFI,ICF International
+ICHR,Ichor Holdings
+ICL,ICL Group Ltd.
+ICLR,ICON plc
+ICMB,Investcorp Credit Management BDC
+ICNC,Iconic Sports Acquisition Corp. Class A
+ICPT,Intercept Pharmaceuticals
+ICUI,ICU Medical
+ICVX,Icosavax
+IDA,IDACORP
+IDBA,IDEX Biometrics ASA
+IDCC,InterDigital
+IDE,Voya Infrastructure Industrials and Materials Fund of Beneficial Interest
+IDEX,Ideanomics
+IDR,Idaho Strategic Resources
+IDT,IDT Corporation Class B
+IDXX,IDEXX Laboratories
+IDYA,IDEAYA Biosciences
+IE,Ivanhoe Electric
+IEA,Infrastructure and Energy Alternatives
+IEP,Icahn Enterprises L.P.
+IESC,IES Holdings
+IEX,IDEX Corporation
+IFF,International Flavors & Fragrances
+IFIN,InFinT Acquisition Corporation Class A
+IFN,India Fund (The)
+IFRX,InflaRx N.V.
+IFS,Intercorp Financial Services
+IGA,Voya Global Advantage and Premium Opportunity Fund of Beneficial Interest
+IGAC,IG Acquisition Corp. Class A
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund
+IGI,Western Asset Investment Grade Defined Opportunity Trust
+IGIC,International General Insurance Holdings Ltd.
+IGMS,IGM Biosciences
+IGNY,Ignyte Acquisition Corp.
+IGR,CBRE Global Real Estate Income Fund of Beneficial Interest
+IGT,International Game Technology
+IH,iHuman each representing five Class A
+IHD,Voya Emerging Markets High Income Dividend Equity Fund
+IHG,Intercontinental Hotels Group (Each representing one)
+IHIT,Invesco High Income 2023 Target Term Fund of Beneficial Interest
+IHRT,iHeartMedia Class A
+IHS,IHS Holding Limited
+IHTA,Invesco High Income 2024 Target Term Fund of Beneficial Interest No par value per share
+IIF,Morgan Stanley India Investment Fund
+III,Information Services Group Information Services Group
+IIII,INSU Acquisition Corp. III Class A
+IIIN,Insteel Industries
+IIIV,i3 Verticals Class A
+IIM,Invesco Value Municipal Income Trust
+IIPR,Innovative Industrial Properties
+IKNA,Ikena Oncology
+ILAG,Intelligent Living Application Group
+ILMN,Illumina
+ILPT,Industrial Logistics Properties Trust of Beneficial Interest
+IMAB,I-MAB
+IMAQ,International Media Acquisition Corp. Class A
+IMAX,Imax Corporation
+IMCR,Immunocore Holdings plc
+IMGN,ImmunoGen
+IMGO,Imago BioSciences
+IMKTA,Ingles Markets Incorporated Class A
+IMMP,Immutep Limited
+IMMR,Immersion Corporation
+IMNM,Immunome
+IMO,Imperial Oil Limited
+IMOS,ChipMOS TECHNOLOGIES
+IMPL,Impel Pharmaceuticals
+IMRA,IMARA
+IMRX,Immuneering Corporation Class A
+IMTX,Immatics N.V.
+IMUX,Immunic
+IMV,IMV
+IMVT,Immunovant
+IMXI,International Money Express
+INAQ,Insight Acquisition Corp. Class A
+INBK,First Internet Bancorp
+INBX,Inhibrx
+INCR,Intercure Ltd.
+INCY,Incyte Corp.
+INDB,Independent Bank Corp.
+INDI,indie Semiconductor Class A
+INDO,Indonesia Energy Corporation Limited
+INDT,INDUS Realty Trust (MD)
+INFA,Informatica Class A
+INFI,Infinity Pharmaceuticals
+INFN,Infinera Corporation
+INFU,InfuSystems Holdings
+INFY,Infosys Limited
+ING,ING Group N.V.
+INGN,Inogen Inc
+INGR,Ingredion Incorporated
+INKA,KludeIn I Acquisition Corp. Class A
+INKT,MiNK Therapeutics
+INMB,INmune Bio
+INMD,InMode Ltd.
+INN,Summit Hotel Properties
+INNV,InnovAge Holding Corp.
+INO,Inovio Pharmaceuticals
+INOD,Innodata
+INSE,Inspired Entertainment
+INSG,Inseego Corp.
+INSI,Insight Select Income Fund
+INSM,Insmed
+INSP,Inspire Medical Systems
+INST,Instructure Holdings
+INSW,International Seaways 
+INT,World Fuel Services Corporation
+INTA,Intapp
+INTC,Intel Corporation
+INTE,Integral Acquisition Corporation 1 Class A
+INTG,Intergroup Corporation (The)
+INTR,Inter & Co. Class A
+INTT,inTest Corporation
+INTU,Intuit
+INTZ,Intrusion
+INUV,Inuvo
+INVA,Innoviva
+INVE,Identiv
+INVH,Invitation Homes
+INVZ,Innoviz Technologies Ltd.
+INZY,Inozyme Pharma
+IOAC,Innovative International Acquisition Corp. Class A
+IOBT,IO Biotech
+IONQ,IonQ
+IONR,ioneer Ltd
+IONS,Ionis Pharmaceuticals
+IOR,Income Opportunity Realty Investors
+IOSP,Innospec
+IOT,Samsara Class A
+IOVA,Iovance Biotherapeutics
+IP,International Paper Company
+IPA,ImmunoPrecise Antibodies Ltd.
+IPAR,Inter Parfums
+IPAX,Inflection Point Acquisition Corp. Class A
+IPG,Interpublic Group of Companies (The)
+IPGP,IPG Photonics Corporation
+IPHA,Innate Pharma S.A. ADS
+IPI,Intrepid Potash Inc
+IPOD,Social Capital Hedosophia Holdings Corp. IV Class A
+IPOF,Social Capital Hedosophia Holdings Corp. VI Class A
+IPSC,Century Therapeutics
+IPVA,InterPrivate II Acquisition Corp. Class A
+IPVF,InterPrivate III Financial Partners Class A
+IPVI,InterPrivate IV InfraTech Partners Class A
+IPWR,Ideal Power
+IPX,IperionX Limited American Depositary Share
+IQ,iQIYI
+IQI,Invesco Quality Municipal Income Trust
+IQMD,Intelligent Medicine Acquisition Corp. Class A
+IQMDU,Intelligent Medicine Acquisition Corp. Unit
+IQV,IQVIA Holdings
+IR,Ingersoll Rand
+IRAA,Iris Acquisition Corp Class A
+IRBT,iRobot Corporation
+IRDM,Iridium Communications Inc
+IREN,Iris Energy Limited
+IRM,Iron Mountain Incorporated (Delaware REIT
+IRMD,iRadimed Corporation
+IRNT,IronNet
+IROQ,IF Bancorp
+IRRX,Integrated Rail and Resources Acquisition Corp. Class A
+IRS,IRSA Inversiones Y Representaciones S.A.
+IRT,Independence Realty Trust
+IRTC,iRhythm Technologies
+IRWD,Ironwood Pharmaceuticals Class A
+IS,ironSource Ltd. Class A
+ISAA,Iron Spark I Class A
+ISD,PGIM High Yield Bond Fund
+ISDR,Issuer Direct Corporation
+ISEE,IVERIC bio
+ISO,IsoPlexis Corporation
+ISPO,Inspirato Incorporated Class A
+ISRG,Intuitive Surgical
+ISSC,Innovative Solutions and Support
+ISTR,Investar Holding Corporation
+IT,Gartner
+ITCB,Itau CorpBanca (each representing 1500 shares of no par value)
+ITCI,Intra-Cellular Therapies
+ITGR,Integer Holdings Corporation
+ITI,Iteris
+ITIC,Investors Title Company
+ITOS,iTeos Therapeutics
+ITQ,Itiquira Acquisition Corp. Class A
+ITRI,Itron
+ITRN,Ituran Location and Control Ltd.
+ITT,ITT 
+ITUB,Itau Unibanco Banco Holding SA (Each repstg 500 Preferred shares)
+ITW,Illinois Tool Works
+IVA,Inventiva S.A. American Depository Shares
+IVAC,Intevac
+IVCA,Investcorp India Acquisition Corp. Class A
+IVCB,Investcorp Europe Acquisition Corp I Class A
+IVCP,Swiftmerge Acquisition Corp. Class A
+IVH,Delaware Ivy High Income Opportunities Fund
+IVR,INVESCO MORTGAGE CAPITAL INC
+IVT,InvenTrust Properties Corp.
+IVVD,Invivyd
+IVZ,Invesco Ltd
+IX,Orix Corp Ads
+IXAQ,IX Acquisition Corp. Class A
+IXHL,Incannex Healthcare Limited
+J,Jacobs Solutions
+JACK,Jack In The Box
+JAKK,JAKKS Pacific
+JAMF,Jamf Holding Corp.
+JANX,Janux Therapeutics
+JAQC,Jupiter Acquisition Corporation
+JATT,JATT Acquisition Corp Class A
+JAZZ,Jazz Pharmaceuticals plc (Ireland)
+JBGS,JBG SMITH Properties 
+JBHT,J.B. Hunt Transport Services
+JBI,Janus International Group
+JBL,Jabil
+JBLU,JetBlue Airways Corporation
+JBSS,John B. Sanfilippo & Son
+JBT,John Bean Technologies Corporation
+JCE,Nuveen Core Equity Alpha Fund Nuveen Core Equity Alpha Fund of Beneficial Interest
+JCI,Johnson Controls International plc
+JCIC,Jack Creek Investment Corp. Class A
+JD,JD.com
+JEF,Jefferies Financial Group
+JELD,JELD-WEN Holding
+JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund of Beneficial Interest $0.01 par value per share
+JEQ,abrdn Japan Equity Fund
+JFIN,Jiayin Group
+JFR,Nuveen Floating Rate Income Fund
+JFU,9F
+JG,Aurora Mobile Limited
+JGGC,Jaguar Global Growth Corporation I Class A
+JGH,Nuveen Global High Income Fund of Beneficial Interest
+JHAA,Nuveen Corporate Income 2023 Target Term Fund
+JHG,Janus Henderson Group plc
+JHI,John Hancock Investors Trust
+JHS,John Hancock Income Securities Trust
+JHX,James Hardie Industries plc (Ireland)
+JILL,J. Jill
+JJSF,J & J Snack Foods Corp.
+JKHY,Jack Henry & Associates
+JKS,JinkoSolar Holding Company Limited (each representing 4)
+JLL,Jones Lang LaSalle Incorporated
+JLS,Nuveen Mortgage and Income Fund
+JMAC,Maxpro Capital Acquisition Corp. Class A
+JMIA,Jumia Technologies AG each representing two
+JMM,Nuveen Multi-Market Income Fund (MA)
+JMSB,John Marshall Bancorp
+JNCE,Jounce Therapeutics
+JNJ,Johnson & Johnson
+JNPR,Juniper Networks
+JOAN,JOANN
+JOB,GEE Group
+JOBY,Joby Aviation
+JOE,St. Joe Company (The)
+JOF,Japan Smaller Capitalization Fund Inc
+JOFF,JOFF Fintech Acquisition Corp. Class A
+JOUT,Johnson Outdoors Class A
+JPC,Nuveen Preferred & Income Opportunities Fund
+JPI,Nuveen Preferred and Income Term Fund of Beneficial Interest
+JPM,JP Morgan Chase & Co.
+JPS,Nuveen Preferred & Income Securities Fund
+JPT,Nuveen Preferred and Income Fund of Beneficial Interest
+JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest
+JRI,Nuveen Real Asset Income and Growth Fund of Beneficial Interest
+JRO,Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest
+JRS,Nuveen Real Estate Income Fund of Beneficial Interest
+JRSH,Jerash Holdings (US)
+JRVR,James River Group Holdings Ltd.
+JSD,Nuveen Short Duration Credit Opportunities Fund of Beneficial Interest
+JUGG,Jaws Juggernaut Acquisition Corporation Class A
+JUN,Juniper II Corp. Class A
+JWAC,Jupiter Wellness Acquisition Corp. Class A
+JWEL,Jowell Global Ltd.
+JWN,Nordstrom
+JWSM,Jaws Mustang Acquisition Corp. Class A
+JXN,Jackson Financial Class A 
+JYAC,Jiya Acquisition Corp. Class A
+JYNT,The Joint Corp.
+JZ,Jianzhi Education Technology Group Company Limited
+K,Kellogg Company
+KACL,Kairous Acquisition Corp. Limited
+KAHC,KKR Acquisition Holdings I Corp. Class A
+KAI,Kadant Inc
+KAII,Kismet Acquisition Two Corp. Class A
+KAIR,Kairos Acquisition Corp. Class A
+KALU,Kaiser Aluminum Corporation
+KALV,KalVista Pharmaceuticals
+KAMN,Kaman Corporation
+KAR,KAR Auction Services Inc
+KARO,Karooooo Ltd.
+KAVL,Kaival Brands Innovations Group
+KB,KB Financial Group Inc
+KBAL,Kimball International Class B
+KBH,KB Home
+KBR,KBR
+KC,Kingsoft Cloud Holdings Limited
+KCGI,Kensington Capital Acquisition Corp. V Class A
+KD,Kyndryl Holdings
+KDNY,Chinook Therapeutics
+KDP,Keurig Dr Pepper
+KE,Kimball Electronics
+KELYA,Kelly Services Class A
+KELYB,Kelly Services Class B
+KEN,Kenon Holdings Ltd.
+KEP,Korea Electric Power Corporation
+KEQU,Kewaunee Scientific Corporation
+KEX,Kirby Corporation
+KEY,KeyCorp
+KEYS,Keysight Technologies
+KF,Korea Fund (The) New
+KFFB,Kentucky First Federal Bancorp
+KFRC,Kforce
+KFS,Kingsway Financial Services (DE)
+KFY,Korn Ferry
+KGC,Kinross Gold Corporation
+KHC,The Kraft Heinz Company
+KIDS,OrthoPediatrics Corp.
+KIII,Kismet Acquisition Three Corp. Class A
+KIM,Kimco Realty Corporation
+KIND,Nextdoor Holdings Class A
+KINZ,KINS Technology Group Class A
+KIO,KKR Income Opportunities Fund
+KITT,Nauticus Robotics
+KKR,KKR & Co.
+KLAC,KLA Corporation
+KLAQ,KL Acquisition Corp Class A
+KLIC,Kulicke and Soffa Industries
+KLTR,Kaltura
+KLXE,KLX Energy Services Holdings
+KMB,Kimberly-Clark Corporation
+KMDA,Kamada Ltd.
+KMF,Kayne Anderson NextGen Energy & Infrastructure
+KMI,Kinder Morgan
+KMPH,KemPharm
+KMPR,Kemper Corporation
+KMT,Kennametal
+KMX,CarMax Inc
+KN,Knowles Corporation
+KNBE,KnowBe4 Class A
+KNDI,Kandi Technologies Group Inc
+KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interests
+KNSA,Kiniksa Pharmaceuticals Ltd. Class A
+KNSL,Kinsale Capital Group
+KNSW,KnightSwan Acquisition Corporation Class A
+KNTE,Kinnate Biopharma
+KNTK,Kinetik Holdings Class A
+KNW,Know Labs
+KNX,Knight-Swift Transportation Holdings
+KO,Coca-Cola Company (The)
+KOD,Kodiak Sciences Inc
+KODK,Eastman Kodak Company Common New
+KOF,Coca Cola Femsa S.A.B. de C.V.  each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)
+KOP,Koppers Holdings Koppers Holdings
+KOPN,Kopin Corporation
+KORE,KORE Group Holdings
+KOS,Kosmos Energy Ltd. (DE)
+KOSS,Koss Corporation
+KPLT,Katapult Holdings
+KPTI,Karyopharm Therapeutics
+KR,Kroger Company (The)
+KRC,Kilroy Realty Corporation
+KREF,KKR Real Estate Finance Trust
+KRG,Kite Realty Group Trust
+KRMD,KORU Medical Systems
+KRNL,Kernel Group Holdings Class A
+KRNT,Kornit Digital Ltd.
+KRNY,Kearny Financial Corp
+KRO,Kronos Worldwide Inc
+KRON,Kronos Bio
+KROS,Keros Therapeutics
+KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests
+KRT,Karat Packaging
+KRTX,Karuna Therapeutics
+KRUS,Kura Sushi USA Class A
+KRYS,Krystal Biotech
+KSCP,Knightscope Class A
+KSI,Kadem Sustainable Impact Corporation Class A
+KSM,DWS Strategic Municipal Income Trust
+KSS,Kohl's Corporation
+KT,KT Corporation
+KTB,Kontoor Brands 
+KTF,DWS Municipal Income Trust
+KTOS,Kratos Defense & Security Solutions
+KULR,KULR Technology Group
+KURA,Kura Oncology
+KVHI,KVH Industries
+KVSA,Khosla Ventures Acquisition Co. Class A
+KVSC,Khosla Ventures Acquisition Co. III Class A
+KW,Kennedy-Wilson Holdings
+KWR,Quaker Houghton
+KXIN,Kaixin Auto Holdings
+KYCH,Keyarch Acquisition Corporation
+KYMR,Kymera Therapeutics
+KYN,Kayne Anderson Energy Infrastructure Fund
+KZR,Kezar Life Sciences
+L,Loews Corporation
+LAAA,Lakeshore Acquisition I Corp.
+LAB,Standard BioTools
+LAC,Lithium Americas Corp.
+LAD,Lithia Motors
+LADR,Ladder Capital Corp Class A
+LAKE,Lakeland Industries
+LAMR,Lamar Advertising Company Class A
+LANC,Lancaster Colony Corporation
+LAND,Gladstone Land Corporation
+LANDM,Gladstone Land Corporation 5.00% Series D Cumulative Term Preferred Stock
+LARK,Landmark Bancorp
+LASR,nLIGHT
+LATG,LatAmGrowth SPAC Class A
+LAUR,Laureate Education
+LAW,CS Disco
+LAX,8i Acquisition 2 Corp.
+LAZ,Lazard LTD. Lazard LTD. Class A
+LAZR,Luminar Technologies  Class A
+LAZY,Lazydays Holdings
+LBAI,Lakeland Bancorp
+LBBB,Lakeshore Acquisition II Corp.
+LBC,Luther Burbank Corporation
+LBPH,Longboard Pharmaceuticals
+LBRDA,Liberty Broadband Corporation Class A
+LBRDK,Liberty Broadband Corporation Class C
+LBRT,Liberty Energy Class A
+LBTYA,Liberty Global plc Class A
+LBTYB,Liberty Global plc Class B
+LBTYK,Liberty Global plc Class C
+LC,LendingClub Corporation
+LCA,Landcadia Holdings IV Class A
+LCAA,L Catterton Asia Acquisition Corp Class A
+LCID,Lucid Group
+LCII,LCI Industries
+LCNB,LCNB Corporation
+LCTX,Lineage Cell Therapeutics
+LCUT,Lifetime Brands
+LCW,Learn CW Investment Corporation Class A
+LDHA,LDH Growth Corp I Class A
+LDI,loanDepot Class A
+LDOS,Leidos Holdings
+LDP,Cohen & Steers Limited Duration Preferred and Income Fund
+LE,Lands' End
+LEA,Lear Corporation
+LECO,Lincoln Electric Holdings
+LEE,Lee Enterprises Incorporated
+LEG,Leggett & Platt Incorporated
+LEGA,Lead Edge Growth Opportunities Ltd Class A
+LEGH,Legacy Housing Corporation (TX)
+LEGN,Legend Biotech Corporation
+LEN,Lennar Corporation Class A
+LEO,BNY Mellon Strategic Municipals
+LESL,Leslie's
+LEU,Centrus Energy Corp. Class A
+LEV,The Lion Electric Company
+LEVI,Levi Strauss & Co Class A
+LFAC,LF Capital Acquisition Corp. II Class A
+LFG,Archaea Energy Class A
+LFMD,LifeMD
+LFST,LifeStance Health Group
+LFT,Lument Finance Trust
+LFTR,Lefteris Acquisition Corp. Class A
+LFUS,Littelfuse
+LGAC,Lazard Growth Acquisition Corp. I
+LGI,Lazard Global Total Return and Income Fund
+LGIH,LGI Homes
+LGL,LGL Group (The)
+LGND,Ligand Pharmaceuticals Incorporated
+LGO,Largo
+LGST,Semper Paratus Acquisition Corporation Class A
+LGTO,Legato Merger Corp. II
+LGV,Longview Acquisition Corp. II Class A
+LGVC,LAMF Global Ventures Corp. I Class A
+LGVN,Longeveron Class A
+LH,Laboratory Corporation of America Holdings
+LHAA,Lerer Hippeau Acquisition Corp. Class A
+LHC,Leo Holdings Corp. II Class A
+LHCG,LHC Group
+LHX,L3Harris Technologies
+LI,Li Auto
+LIAN,LianBio
+LIBY,Liberty Resources Acquisition Corp. Class A
+LICY,Li-Cycle Holdings Corp.
+LIDR,AEye Class A
+LIFE,aTyr Pharma
+LII,Lennox International
+LILA,Liberty Latin America Ltd. Class A
+LILAK,Liberty Latin America Ltd. Class C
+LILM,Lilium N.V. Class A
+LIN,Linde plc
+LINC,Lincoln Educational Services Corporation
+LIND,Lindblad Expeditions Holdings
+LINK,Interlink Electronics
+LION,Lionheart III Corp Class A
+LITB,LightInTheBox Holding Co. Ltd. each representing 2
+LITE,Lumentum Holdings
+LITT,Logistics Innovation Technologies Corp. Class A
+LIVB,LIV Capital Acquisition Corp. II Class A
+LIVE,Live Ventures Incorporated
+LIVN,LivaNova PLC
+LJAQ,LightJump Acquisition Corporation
+LKCO,Luokung Technology Corp
+LKFN,Lakeland Financial Corporation
+LKQ,LKQ Corporation
+LL,LL Flooring Holdings
+LLAP,Terran Orbital Corporation
+LLY,Eli Lilly and Company
+LMACA,Liberty Media Acquisition Corporation Series A
+LMAO,LMF Acquisition Opportunities Class A
+LMAT,LeMaitre Vascular
+LMB,Limbach Holdings
+LMDX,LumiraDx Limited
+LMND,Lemonade
+LMNR,Limoneira Co
+LMST,Limestone Bancorp
+LMT,Lockheed Martin Corporation
+LNC,Lincoln National Corporation
+LND,Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
+LNDC,Landec Corporation (DE)
+LNG,Cheniere Energy
+LNKB,LINKBANCORP
+LNN,Lindsay Corporation
+LNSR,LENSAR
+LNT,Alliant Energy Corporation
+LNTH,Lantheus Holdings
+LNW,Light & Wonder
+LOAN,Manhattan Bridge Capital Inc
+LOB,Live Oak Bancshares
+LOCC,Live Oak Crestview Climate Acquisition Corp. Class A
+LOCL,Local Bounti Corporation
+LOCO,El Pollo Loco Holdings
+LOGI,Logitech International S.A.
+LOKM,Live Oak Mobility Acquisition Corp. Class A
+LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS
+LOOP,Loop Industries
+LOPE,Grand Canyon Education
+LOV,Spark Networks SE 
+LOVE,The Lovesac Company
+LOW,Lowe's Companies
+LPG,Dorian LPG Ltd.
+LPI,Laredo Petroleum
+LPL,LG Display Co Ltd AMERICAN DEPOSITORY SHARES
+LPLA,LPL Financial Holdings
+LPRO,Open Lending Corporation Class A
+LPSN,LivePerson
+LPTV,Loop Media
+LPTX,Leap Therapeutics
+LPX,Louisiana-Pacific Corporation
+LQDA,Liquidia Corporation
+LQDT,Liquidity Services
+LRCX,Lam Research Corporation
+LRMR,Larimar Therapeutics
+LRN,Stride
+LSAK,Lesaka Technologies
+LSBK,Lake Shore Bancorp
+LSCC,Lattice Semiconductor Corporation
+LSEA,Landsea Homes Corporation
+LSI,Life Storage
+LSPD,Lightspeed Commerce Subordinate Voting Shares
+LSPR,Larkspur Health Acquisition Corp. Class A
+LSTR,Landstar System
+LSXMA,Liberty Media Corporation Series A Liberty SiriusXM
+LSXMB,Liberty Media Corporation Series B Liberty SiriusXM
+LSXMK,Liberty Media Corporation Series C Liberty SiriusXM
+LTC,LTC Properties
+LTCH,Latch
+LTH,Life Time Group Holdings
+LTHM,Livent Corporation
+LTRN,Lantern Pharma
+LTRPA,Liberty TripAdvisor Holdings Series A
+LTRPB,Liberty TripAdvisor Holdings Series B
+LTRX,Lantronix
+LU,Lufax Holding Ltd two of which representing one
+LUCD,Lucid Diagnostics
+LULU,lululemon athletica
+LUMN,Lumen Technologies
+LUMO,Lumos Pharma
+LUNA,Luna Innovations Incorporated
+LUNG,Pulmonx Corporation
+LUV,Southwest Airlines Company
+LUXA,Lux Health Tech Acquisition Corp. Class A
+LVAC,LAVA Medtech Acquisition Corp. Class A
+LVLU,Lulu's Fashion Lounge Holdings
+LVO,LiveOne
+LVOX,LiveVox Holdings Class A
+LVRA,Levere Holdings Corp. Class A
+LVS,Las Vegas Sands Corp.
+LVTX,LAVA Therapeutics N.V.
+LW,Lamb Weston Holdings 
+LWAY,Lifeway Foods
+LWLG,Lightwave Logic
+LX,LexinFintech Holdings Ltd.
+LXFR,Luxfer Holdings PLC
+LXP,LXP Industrial Trust (Maryland REIT)
+LXRX,Lexicon Pharmaceuticals
+LXU,LSB Industries
+LYB,LyondellBasell Industries NV Class A (Netherlands)
+LYEL,Lyell Immunopharma
+LYFT,Lyft Class A
+LYG,Lloyds Banking Group Plc
+LYRA,Lyra Therapeutics
+LYT,Lytus Technologies Holdings PTV. Ltd.
+LYTS,LSI Industries
+LYV,Live Nation Entertainment
+LZ,LegalZoom.com
+LZB,La-Z-Boy Incorporated
+M,Macy's Inc
+MA,Mastercard Incorporated
+MAA,Mid-America Apartment Communities
+MAC,Macerich Company (The)
+MACA,Moringa Acquisition Corp Class A
+MACC,Mission Advancement Corp. Class A
+MACK,Merrimack Pharmaceuticals
+MAG,MAG Silver Corporation
+MAIN,Main Street Capital Corporation
+MAN,ManpowerGroup
+MANH,Manhattan Associates
+MANU,Manchester United Ltd. Class A
+MAPS,WM Technology Class A 
+MAQC,Maquia Capital Acquisition Corporation Class A
+MAR,Marriott International Class A
+MARA,Marathon Digital Holdings
+MAS,Masco Corporation
+MASI,Masimo Corporation
+MASS,908 Devices
+MAT,Mattel
+MATV,Mativ Holdings
+MATW,Matthews International Corporation Class A
+MATX,Matson
+MAV,Pioneer Municipal High Income Advantage Fund
+MAX,MediaAlpha Class A
+MAXN,Maxeon Solar Technologies Ltd.
+MAXR,Maxar Technologies
+MAYS,J. W. Mays
+MBAC,M3-Brigade Acquisition II Corp. Class A
+MBCN,Middlefield Banc Corp.
+MBI,MBIA
+MBIN,Merchants Bancorp
+MBSC,M3-Brigade Acquisition III Corp. Class A
+MBTC,Nocturne Acquisition Corporation
+MBUU,Malibu Boats Class A
+MBWM,Mercantile Bank Corporation
+MC,Moelis & Company Class A
+MCAA,Mountain & Co. I Acquisition Corp. Class A
+MCAC,Monterey Capital Acquisition Corporation Class A
+MCAE,Mountain Crest Acquisition Corp. III
+MCAF,Mountain Crest Acquisition Corp. IV
+MCAG,Mountain Crest Acquisition Corp. V
+MCB,Metropolitan Bank Holding Corp.
+MCBC,Macatawa Bank Corporation
+MCBS,MetroCity Bankshares
+MCD,McDonald's Corporation
+MCFT,MasterCraft Boat Holdings
+MCG,Membership Collective Group Class A
+MCHP,Microchip Technology Incorporated
+MCHX,Marchex Class B
+MCI,Barings Corporate Investors
+MCK,McKesson Corporation
+MCN,Madison Covered Call & Equity Strategy Fund
+MCO,Moody's Corporation
+MCR,MFS Charter Income Trust
+MCRB,Seres Therapeutics
+MCRI,Monarch Casino & Resort
+MCS,Marcus Corporation (The)
+MCW,Mister Car Wash
+MCY,Mercury General Corporation
+MD,Pediatrix Medical Group
+MDB,MongoDB Class A
+MDC,M.D.C. Holdings
+MDGL,Madrigal Pharmaceuticals
+MDH,MDH Acquisition Corp. Class A
+MDLZ,Mondelez International Class A
+MDNA,Medicenna Therapeutics Corp.
+MDRX,Allscripts Healthcare Solutions
+MDT,Medtronic plc.
+MDU,MDU Resources Group (Holding Company)
+MDV,Modiv Class C
+MDVL,MedAvail Holdings
+MDWT,Midwest Holding
+MDXG,MiMedx Group Inc
+MDXH,MDxHealth SA
+ME,23andMe Holding Co. Class A
+MEAC,Mercury Ecommerce Acquisition Corp Class A
+MEC,Mayville Engineering Company
+MED,MEDIFAST INC
+MEDP,Medpace Holdings
+MEG,Montrose Environmental Group
+MEGL,Magic Empire Global Limited
+MEI,Methode Electronics
+MEIP,MEI Pharma
+MEKA,MELI Kaszek Pioneer Corp Class A
+MELI,MercadoLibre
+MEOA,Minority Equality Opportunities Acquisition Class A
+MEOH,Methanex Corporation
+MERC,Mercer International
+MESA,Mesa Air Group
+MESO,Mesoblast Limited
+MET,MetLife
+META,Meta Platforms Class A
+METC,Ramaco Resources
+MFA,MFA Financial
+MFC,Manulife Financial Corporation
+MFD,Macquarie First Trust Global
+MFG,Mizuho Financial Group Sponosred ADR (Japan)
+MFGP,Micro Focus Intl PLC ADS each representing One Ord Sh
+MFIC,MidCap Financial Investment Corporation
+MFIN,Medallion Financial Corp.
+MFM,MFS Municipal Income Trust
+MG,Mistras Group Inc
+MGA,Magna International
+MGEE,MGE Energy Inc
+MGF,MFS Government Markets Income Trust
+MGI,Moneygram International
+MGIC,Magic Software Enterprises Ltd.
+MGM,MGM Resorts International
+MGNI,Magnite
+MGNX,MacroGenics
+MGPI,MGP Ingredients
+MGRC,McGrath RentCorp
+MGTA,Magenta Therapeutics
+MGTX,MeiraGTx Holdings plc
+MGU,Macquarie Global Infrastructure Total Return Fund
+MGY,Magnolia Oil & Gas Corporation Class A
+MGYR,Magyar Bancorp
+MHD,Blackrock MuniHoldings Fund
+MHF,Western Asset Municipal High Income Fund
+MHH,Mastech Digital Inc
+MHI,Pioneer Municipal High Income Fund
+MHK,Mohawk Industries
+MHLD,Maiden Holdings Ltd.
+MHN,Blackrock MuniHoldings New York Quality Fund
+MHO,M/I Homes
+MHUA,Meihua International Medical Technologies Co. Ltd.
+MICT,MICT
+MIDD,Middleby Corporation (The)
+MIMO,Airspan Networks Holdings
+MIN,MFS Intermediate Income Trust
+MIO,Pioneer Municipal High Income Opportunities Fund
+MIR,Mirion Technologies Class A
+MIRM,Mirum Pharmaceuticals
+MIRO,Miromatrix Medical
+MIST,Milestone Pharmaceuticals
+MIT,Mason Industrial Technology Class A
+MITA,Coliseum Acquisition Corp. Class A
+MITK,Mitek Systems
+MITT,AG Mortgage Investment Trust
+MIXT,MiX Telematics Limited each representing 25
+MIY,Blackrock MuniYield Michigan Quality Fund
+MKC,McCormick & Company Incorporated
+MKFG,Markforged Holding Corporation
+MKL,Markel Corporation
+MKSI,MKS Instruments
+MKTW,MarketWise Class A
+MKTX,MarketAxess Holdings
+ML,MoneyLion Class A
+MLAB,Mesa Laboratories
+MLAC,Malacca Straits Acquisition Company Limited Class A
+MLAI,McLaren Technology Acquisition Corp. Class A
+MLCO,Melco Resorts & Entertainment Limited
+MLI,Mueller Industries
+MLKN,MillerKnoll
+MLM,Martin Marietta Materials
+MLNK,MeridianLink
+MLP,Maui Land & Pineapple Company
+MLR,Miller Industries
+MLTX,MoonLake Immunotherapeutics Class A
+MLVF,Malvern Bancorp
+MMAT,Meta Materials
+MMC,Marsh & McLennan Companies
+MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund
+MMI,Marcus & Millichap
+MMLP,Martin Midstream Partners L.P. Limited Partnership
+MMM,3M Company
+MMP,Magellan Midstream Partners L.P. Limited Partnership
+MMS,Maximus
+MMSI,Merit Medical Systems
+MMT,MFS Multimarket Income Trust
+MMU,Western Asset Managed Municipals Fund
+MMX,Maverix Metals
+MMYT,MakeMyTrip Limited
+MN,Manning & Napier Class A
+MNDY,monday.com Ltd.
+MNKD,MannKind Corporation
+MNMD,Mind Medicine (MindMed)
+MNOV,Medicinova Inc
+MNP,Western Asset Municipal Partners Fund
+MNRL,Brigham Minerals Class A
+MNRO,Monro
+MNSB,MainStreet Bancshares
+MNSO,MINISO Group Holding Limited each representing four
+MNST,Monster Beverage Corporation
+MNTK,Montauk Renewables
+MNTN,Everest Consolidator Acquisition Corporation Class A
+MNTS,Momentus Class A
+MNTV,Momentive Global
+MNTX,Manitex International
+MO,Altria Group
+MOBBW,Mobilicom Limited Warrants
+MOD,Modine Manufacturing Company
+MODG,Topgolf Callaway Brands Corp.
+MODN,Model N
+MODV,ModivCare
+MOFG,MidWestOne Financial Gp
+MOGO,Mogo
+MOH,Molina Healthcare Inc
+MOLN,Molecular Partners AG
+MOMO,Hello Group
+MON,Monument Circle Acquisition Corp. Class A
+MOND,Mondee Holdings Class A
+MOR,MorphoSys AG
+MORF,Morphic Holding
+MORN,Morningstar
+MOS,Mosaic Company (The)
+MOV,Movado Group
+MOVE,Movano
+MP,MP Materials Corp.
+MPA,Blackrock MuniYield Pennsylvania Quality Fund
+MPAA,Motorcar Parts  of America
+MPAC,Model Performance Acquisition Corp. Class A
+MPB,Mid Penn Bancorp
+MPC,Marathon Petroleum Corporation
+MPLN,MultiPlan Corporation Class A
+MPLX,MPLX LP Common Units Representing Limited Partner Interests
+MPRA,Mercato Partners Acquisition Corporation Class A
+MPV,Barings Participation Investors
+MPW,Medical Properties Trust
+MPWR,Monolithic Power Systems
+MPX,Marine Products Corporation
+MQ,Marqeta Class A
+MQT,Blackrock MuniYield Quality Fund II
+MQY,Blackrock MuniYield Quality Fund
+MRAM,Everspin Technologies
+MRBK,Meridian Corporation
+MRC,MRC Global
+MRCC,Monroe Capital Corporation
+MRCY,Mercury Systems Inc
+MREO,Mereo BioPharma Group plc
+MRK,Merck & Company
+MRNA,Moderna
+MRNS,Marinus Pharmaceuticals
+MRO,Marathon Oil Corporation
+MRSN,Mersana Therapeutics
+MRTN,Marten Transport Ltd.
+MRTX,Mirati Therapeutics
+MRUS,Merus N.V.
+MRVI,Maravai LifeSciences Holdings Class A
+MRVL,Marvell Technology
+MS,Morgan Stanley
+MSA,MSA Safety Incorporated
+MSAC,Medicus Sciences Acquisition Corp. Class A
+MSB,Mesabi Trust
+MSBI,Midland States Bancorp
+MSC,Studio City International Holdings
+MSCI,MSCI Inc
+MSD,Morgan Stanley Emerging Markets Debt Fund
+MSDA,MSD Acquisition Corp. Class A
+MSEX,Middlesex Water Company
+MSFT,Microsoft Corporation
+MSGE,Madison Square Garden Entertainment Corp. Class A 
+MSGS,Madison Square Garden Sports Corp. Class A
+MSI,Motorola Solutions
+MSM,MSC Industrial Direct Company
+MSPR,MSP Recovery Class A
+MSSA,Metal Sky Star Acquisition Corporation
+MSTR,MicroStrategy Incorporated Class A
+MT,Arcelor Mittal NY Registry Shares NEW
+MTA,Metalla Royalty & Streaming Ltd.
+MTAC,MedTech Acquisition Corporation Class A
+MTAL,Metals Acquisition Corp Class A
+MTB,M&T Bank Corporation
+MTBC,CareCloud
+MTCH,Match Group
+MTD,Mettler-Toledo International
+MTDR,Matador Resources Company
+MTG,MGIC Investment Corporation
+MTH,Meritage Homes Corporation
+MTLS,Materialise NV
+MTN,Vail Resorts
+MTNB,Matinas Biopharma Holdings
+MTRN,Materion Corporation
+MTRX,Matrix Service Company
+MTRY,Monterey Bio Acquisition Corporation
+MTSI,MACOM Technology Solutions Holdings
+MTTR,Matterport Class A
+MTVC,Motive Capital Corp II Class A
+MTW,Manitowoc Company (The)
+MTX,Minerals Technologies
+MTZ,MasTec
+MU,Micron Technology
+MUA,Blackrock MuniAssets Fund Inc
+MUC,Blackrock MuniHoldings California Quality Fund 
+MUE,Blackrock MuniHoldings Quality Fund II
+MUFG,Mitsubishi UFJ Financial Group
+MUI,BlackRock Municipal Income Fund
+MUJ,Blackrock MuniHoldings New Jersey Quality Fund
+MULN,Mullen Automotive
+MUR,Murphy Oil Corporation
+MURF,Murphy Canyon Acquisition Corp. Class A
+MUSA,Murphy USA
+MUX,McEwen Mining
+MVBF,MVB Financial Corp.
+MVF,Blackrock MuniVest Fund
+MVIS,MicroVision
+MVO,MV Oil Trust Units of Beneficial Interests
+MVST,Microvast Holdings
+MVT,Blackrock MuniVest Fund II 
+MWA,MUELLER WATER PRODUCTS
+MX,Magnachip Semiconductor Corporation
+MXCT,MaxCyte
+MXF,Mexico Fund (The)
+MXL,MaxLinear
+MYD,Blackrock MuniYield Fund 
+MYE,Myers Industries
+MYFW,First Western Financial
+MYGN,Myriad Genetics
+MYI,Blackrock MuniYield Quality Fund III Inc
+MYMD,MyMD Pharmaceuticals
+MYN,Blackrock MuniYield New York Quality Fund Inc
+MYNA,Mynaric AG American Depository Shares
+MYNZ,Mainz Biomed B.V.
+MYOV,Myovant Sciences Ltd.
+MYPS,PLAYSTUDIOS  Class A
+MYRG,MYR Group
+MYTE,MYT Netherlands Parent B.V. each representing one
+NA,Nano Labs Ltd
+NAAC,North Atlantic Acquisition Corporation Class A
+NAAS,NaaS Technology
+NABL,N-able
+NAC,Nuveen California Quality Municipal Income Fund
+NAD,Nuveen Quality Municipal Income Fund
+NAII,Natural Alternatives International
+NAK,Northern Dynasty Minerals Ltd.
+NAN,Nuveen New York Quality Municipal Income Fund
+NAPA,The Duckhorn Portfolio
+NARI,Inari Medical
+NAT,Nordic American Tankers Limited
+NATH,Nathan's Famous
+NATI,National Instruments Corporation
+NATR,Nature's Sunshine Products
+NAUT,Nautilus Biotechnolgy
+NAVI,Navient Corporation
+NAZ,Nuveen Arizona Quality Municipal Income Fund
+NBB,Nuveen Taxable Municipal Income Fund of Beneficial Interest
+NBH,Neuberger Berman Municipal Fund
+NBHC,National Bank Holdings Corporation
+NBIX,Neurocrine Biosciences
+NBN,Northeast Bank
+NBR,Nabors Industries Ltd.
+NBST,Newbury Street Acquisition Corporation
+NBTB,NBT Bancorp
+NBTX,Nanobiotix S.A.
+NBW,Neuberger Berman California Municipal Fund Inc
+NBXG,Neuberger Berman Next Generation Connectivity Fund
+NC,NACCO Industries
+NCA,Nuveen California Municipal Value Fund
+NCAC,Newcourt Acquisition Corp Class A
+NCACU,Newcourt Acquisition Corp Unit
+NCLH,Norwegian Cruise Line Holdings Ltd.
+NCMI,National CineMedia
+NCNA,NuCana plc American Depositary Share
+NCNO,nCino
+NCR,NCR Corporation
+NCSM,NCS Multistage Holdings
+NCV,Virtus Convertible & Income Fund of Beneficial Interest
+NCZ,Virtus Convertible & Income Fund II of Beneficial Interest
+NDAC,NightDragon Acquisition Corp. Class A
+NDAQ,Nasdaq
+NDLS,Noodles & Company Class A
+NDMO,Nuveen Dynamic Municipal Opportunities Fund of Beneficial Interest
+NDP,Tortoise Energy Independence Fund
+NDSN,Nordson Corporation
+NE,Noble Corporation plc
+NEA,Nuveen AMT-Free
+NECB,NorthEast Community Bancorp
+NEE,NextEra Energy
+NEM,Newmont Corporation
+NEN,New England Realty Associates
+NEO,NeoGenomics
+NEOG,Neogen Corporation
+NEOV,NeoVolta
+NEP,NextEra Energy Partners LP Common Units representing limited partner interests
+NERV,Minerva Neurosciences Inc
+NESR,National Energy Services Reunited Corp.
+NET,Cloudflare Class A
+NETC,Nabors Energy Transition Corp. Class A
+NETI,Eneti
+NEU,NewMarket Corp
+NEWP,New Pacific Metals Corp.
+NEWR,New Relic
+NEWT,Newtek Business Services Corp. (Maryland)
+NEX,NexTier Oilfield Solutions
+NEXA,Nexa Resources S.A.
+NEXT,NextDecade Corporation
+NFBK,Northfield Bancorp (Delaware)
+NFE,New Fortress Energy Class A
+NFG,National Fuel Gas Company
+NFGC,New Found Gold Corp
+NFJ,Virtus Dividend Interest & Premium Strategy Fund of Beneficial Interest
+NFLX,Netflix
+NFNT,Infinite Acquisition Corp. Class A
+NFYS,Enphys Acquisition Corp. Class A
+NG,Novagold Resources
+NGC,Northern Genesis Acquisition Corp. III
+NGD,New Gold
+NGG,National Grid Transco PLC National Grid PLC
+NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests
+NGM,NGM Biopharmaceuticals
+NGMS,NeoGames S.A.
+NGS,Natural Gas Services Group
+NGVC,Natural Grocers by Vitamin Cottage
+NGVT,Ingevity Corporation 
+NHC,National HealthCare Corporation
+NHI,National Health Investors
+NHIC,NewHold Investment Corp. II Class A
+NHS,Neuberger Berman High Yield Strategies Fund
+NI,NiSource Inc
+NIC,Nicolet Bankshares
+NICE,NICE Ltd
+NID,Nuveen Intermediate Duration Municipal Term Fund of Beneficial Interest
+NIE,Virtus Equity & Convertible Income Fund of Beneficial Interest
+NILE,BitNile Holdings
+NIM,Nuveen Select Maturities Municipal Fund
+NINE,Nine Energy Service
+NIO,NIO each  representing one Class A
+NIQ,Nuveenn Intermediate Duration Quality Municipal Term Fund of Beneficial Interest
+NIU,Niu Technologies
+NJR,NewJersey Resources Corporation
+NKE,Nike
+NKG,Nuveen Georgia Quality Municipal Income Fund 
+NKLA,Nikola Corporation
+NKSH,National Bankshares
+NKTR,Nektar Therapeutics 
+NKTX,Nkarta
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund
+NL,NL Industries
+NLOK,NortonLifeLock
+NLS,Nautilus
+NLSN,Nielsen N.V.
+NLY,Annaly Capital Management
+NMAI,Nuveen Multi-Asset Income Fund of Beneficial Interest
+NMCO,Nuveen Municipal Credit Opportunities Fund
+NMFC,New Mountain Finance Corporation
+NMG,Nouveau Monde Graphite
+NMI,Nuveen Municipal Income Fund
+NMIH,NMI Holdings Class A
+NML,Neuberger Berman MLP and Energy Income Fund
+NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests
+NMMC,North Mountain Merger Corp. Class A
+NMR,Nomura Holdings Inc ADR
+NMRK,Newmark Group Class A
+NMS,Nuveen Minnesota Quality Municipal Income Fund 
+NMT,Nuveen Massachusetts Quality Municipal Income Fund
+NMTR,9 Meters Biopharma
+NMZ,Nuveen Municipal High Income Opportunity Fund $0.01 par value per share
+NN,NextNav
+NNBR,NN
+NNDM,Nano Dimension Ltd.
+NNI,Nelnet
+NNN,National Retail Properties
+NNOX,NANO-X IMAGING LTD
+NNY,Nuveen New York Municipal Value Fund
+NOA,North American Construction Group Ltd. (no par)
+NOAC,Natural Order Acquisition Corp.
+NOAH,Noah Holdings Limited
+NOC,Northrop Grumman Corporation
+NODK,NI Holdings
+NOG,Northern Oil and Gas
+NOGN,Nogin
+NOK,Nokia Corporation Sponsored
+NOMD,Nomad Foods Limited
+NOTE,FiscalNote Holdings Class A
+NOTV,Inotiv
+NOV,NOV
+NOVA,Sunnova Energy International
+NOVT,Novanta
+NOVV,Nova Vision Acquisition Corp.
+NOW,ServiceNow
+NPAB,New Providence Acquisition Corp. II Class A
+NPCE,Neuropace
+NPFD,Nuveen Variable Rate Preferred & Income Fund
+NPK,National Presto Industries
+NPO,EnPro Industries Inc
+NPV,Nuveen Virginia Quality Municipal Income Fund
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund
+NR,Newpark Resources
+NRAC,Noble Rock Acquisition Corporation Class A
+NRC,National Research Corporation (Delaware)
+NRDS,NerdWallet Class A
+NRDY,Nerdy Class A
+NREF,NexPoint Real Estate Finance
+NRG,NRG Energy
+NRGV,Energy Vault Holdings
+NRGX,PIMCO Energy and Tactical Credit Opportunities Fund of Beneficial Interest
+NRIM,Northrim BanCorp Inc
+NRIX,Nurix Therapeutics
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund 
+NRO,Neuberger Berman Real Estate
+NRP,Natural Resource Partners LP Limited Partnership
+NRT,North European Oil Royality Trust
+NS,Nustar Energy L.P.  Common Units
+NSA,National Storage Affiliates Trust of Beneficial Interest
+NSC,Norfolk Southern Corporation
+NSIT,Insight Enterprises
+NSL,Nuveen Senior Income Fund
+NSP,Insperity
+NSSC,NAPCO Security Technologies
+NSTB,Northern Star Investment Corp. II Class A
+NSTC,Northern Star Investment Corp. III Class A
+NSTD,Northern Star Investment Corp. IV Class A
+NSTG,NanoString Technologies
+NSTS,NSTS Bancorp
+NTAP,NetApp
+NTB,Bank of N.T. Butterfield & Son Limited (The) Voting
+NTCO,Natura &Co Holding S.A. 
+NTCT,NetScout Systems
+NTES,NetEase
+NTG,Tortoise Midstream Energy Fund
+NTGR,NETGEAR
+NTIC,Northern Technologies International Corporation
+NTIP,Network-1 Technologies
+NTLA,Intellia Therapeutics
+NTNX,Nutanix Class A
+NTR,Nutrien Ltd.
+NTRA,Natera
+NTRS,Northern Trust Corporation
+NTST,NetSTREIT Corp.
+NTZ,Natuzzi S.p.A.
+NU,Nu Holdings Ltd. Class A
+NUE,Nucor Corporation
+NUO,Nuveen Ohio Quality Municipal Income Fund
+NUS,Nu Skin Enterprises
+NUTX,Nutex Health
+NUV,Nuveen Municipal Value Fund
+NUVA,NuVasive
+NUVB,Nuvation Bio Class A
+NUVL,Nuvalent Class A
+NUW,Nuveen AMT-Free Municipal Value Fund
+NVAC,NorthView Acquisition Corporation
+NVAX,Novavax
+NVCR,NovoCure Limited
+NVCT,Nuvectis Pharma
+NVDA,NVIDIA Corporation
+NVEC,NVE Corporation
+NVEE,NV5 Global
+NVEI,Nuvei Corporation Subordinate Voting Shares
+NVG,Nuveen AMT-Free Municipal Credit Income Fund 
+NVGS,Navigator Holdings Ltd. (Marshall Islands)
+NVMI,Nova Ltd.
+NVNO,enVVeno Medical Corporation
+NVO,Novo Nordisk A/S
+NVR,NVR
+NVRO,Nevro Corp.
+NVS,Novartis AG
+NVSA,New Vista Acquisition Corp Class A
+NVST,Envista Holdings Corporation
+NVT,nVent Electric plc 
+NVTA,Invitae Corporation
+NVTS,Navitas Semiconductor Corporation
+NVX,NOVONIX Limited American Depository Shares
+NWBI,Northwest Bancshares
+NWE,NorthWestern Corporation
+NWFL,Norwood Financial Corp.
+NWG,NatWest Group plc (each representing two (2))
+NWL,Newell Brands
+NWLI,National Western Life Group Class A
+NWN,Northwest Natural Holding Company
+NWPX,Northwest Pipe Company
+NWS,News Corporation Class B
+NWSA,News Corporation Class A
+NX,Quanex Building Products Corporation
+NXC,Nuveen California Select Tax-Free Income Portfolio
+NXDT,NexPoint Diversified Real Estate Trust
+NXE,Nexgen Energy Ltd.
+NXGN,NextGen Healthcare
+NXJ,Nuveen New Jersey Qualified Municipal Fund 
+NXP,Nuveen Select Tax Free Income Portfolio
+NXPI,NXP Semiconductors N.V.
+NXRT,NexPoint Residential Trust
+NXST,Nexstar Media Group
+NXTC,NextCure
+NYAX,Nayax Ltd.
+NYCB,New York Community Bancorp
+NYMT,New York Mortgage Trust
+NYT,New York Times Company (The)
+NYXH,Nyxoah SA
+NZF,Nuveen Municipal Credit Income Fund 
+O,Realty Income Corporation
+OB,Outbrain
+OBE,Obsidian Energy Ltd.
+OBNK,Origin Bancorp
+OBT,Orange County Bancorp
+OC,Owens Corning Inc New
+OCAX,OCA Acquisition Corp. Class A
+OCFC,OceanFirst Financial Corp.
+OCFT,OneConnect Financial Technology Co. Ltd. each representing three
+OCGN,Ocugen
+OCN,Ocwen Financial Corporation NEW
+OCSL,Oaktree Specialty Lending Corporation
+OCUL,Ocular Therapeutix
+OCX,Oncocyte Corporation
+ODC,Oil-Dri Corporation Of America
+ODFL,Old Dominion Freight Line
+ODP,The ODP Corporation
+ODV,Osisko Development Corp.
+OEC,Orion Engineered Carbons S.A
+OEPW,One Equity Partners Open Water I Corp. Class A
+OFC,Corporate Office Properties Trust
+OFED,Oconee Federal Financial Corp.
+OFG,OFG Bancorp
+OFIX,Orthofix Medical (DE)
+OFLX,Omega Flex
+OFS,OFS Capital Corporation
+OGE,OGE Energy Corp
+OGI,Organigram Holdings
+OGN,Organon & Co. 
+OGS,ONE Gas
+OHAA,OPY Acquisition Corp. I Class A
+OHI,Omega Healthcare Investors
+OHPA,Orion Acquisition Corp. Class A
+OI,O-I Glass
+OIA,Invesco Municipal Income Opportunities Trust
+OIG,Orbital Infrastructure Group
+OII,Oceaneering International
+OIIM,O2Micro International Limited
+OIS,Oil States International
+OKE,ONEOK
+OKTA,Okta Class A
+OKYO,OKYO Pharma Limited
+OLED,Universal Display Corporation
+OLIT,OmniLit Acquisition Corp. Class A
+OLK,Olink Holding AB (publ)
+OLLI,Ollie's Bargain Outlet Holdings
+OLMA,Olema Pharmaceuticals
+OLN,Olin Corporation
+OLO,Olo Class A
+OLP,One Liberty Properties
+OLPX,Olaplex Holdings
+OM,Outset Medical
+OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS
+OMC,Omnicom Group
+OMCL,Omnicell ($0.001 par value)
+OMEG,Omega Alpha SPAC Class A
+OMER,Omeros Corporation
+OMEX,Odyssey Marine Exploration
+OMF,OneMain Holdings
+OMGA,Omega Therapeutics
+OMI,Owens & Minor
+OMIC,Singular Genomics Systems
+ON,ON Semiconductor Corporation
+ONB,Old National Bancorp
+ONCY,Oncolytics Biotech
+ONDS,Ondas Holdings
+ONEM,1Life Healthcare
+ONEW,OneWater Marine Class A
+ONL,Orion Office REIT
+ONON,On Holding AG Class A
+ONTF,ON24
+ONTO,Onto Innovation
+ONYX,Onyx Acquisition Co. I Class A
+OOMA,Ooma
+OPA,Magnum Opus Acquisition Limited Class A
+OPAD,Offerpad Solutions Class A
+OPAL,OPAL Fuels Class A
+OPBK,OP Bancorp
+OPCH,Option Care Health
+OPEN,Opendoor Technologies Inc
+OPI,Office Properties Income Trust of Beneficial Interest
+OPK,OPKO Health
+OPNT,Opiant Pharmaceuticals
+OPOF,Old Point Financial Corporation
+OPP,RiverNorth/DoubleLine Strategic Opportunity Fund
+OPRA,Opera Limited
+OPRT,Oportun Financial Corporation
+OPRX,OptimizeRx Corporation
+OPT,Opthea Limited
+OPTN,OptiNose
+OPY,Oppenheimer Holdings Class A (DE)
+OR,Osisko Gold Royalties Ltd
+ORA,Ormat Technologies
+ORAN,Orange
+ORC,Orchid Island Capital
+ORCC,Owl Rock Capital Corporation
+ORCL,Oracle Corporation
+ORGN,Origin Materials
+ORGO,Organogenesis Holdings Class A
+ORI,Old Republic International Corporation
+ORIA,Orion Biotech Opportunities Corp. Class A
+ORIC,Oric Pharmaceuticals
+ORLA,Orla Mining Ltd.
+ORLY,O'Reilly Automotive
+ORMP,Oramed Pharmaceuticals
+ORN,Orion Group Holdings Common
+ORRF,Orrstown Financial Services Inc
+ORTX,Orchard Therapeutics plc
+OSBC,Old Second Bancorp
+OSCR,Oscar Health Class A
+OSG,Overseas Shipholding Group Class A
+OSH,Oak Street Health
+OSI,Osiris Acquisition Corp. Class A
+OSIS,OSI Systems (DE)
+OSK,Oshkosh Corporation (Holding Company
+OSPN,OneSpan
+OSS,One Stop Systems
+OSTK,Overstock.com
+OSTR,Oyster Enterprises Acquisition Corp. Class A
+OSUR,OraSure Technologies
+OSW,OneSpaWorld Holdings Limited
+OTEC,OceanTech Acquisitions I Corp. Class A
+OTEX,Open Text Corporation
+OTIS,Otis Worldwide Corporation 
+OTLK,Outlook Therapeutics
+OTLY,Oatly Group AB
+OTTR,Otter Tail Corporation
+OUST,Ouster
+OUT,OUTFRONT Media
+OVBC,Ohio Valley Banc Corp.
+OVID,Ovid Therapeutics
+OVLY,Oak Valley Bancorp (CA)
+OVV,Ovintiv (DE)
+OWL,Blue Owl Capital Class A
+OWLT,Owlet Class A
+OXAC,Oxbridge Acquisition Corp. Class A
+OXLC,Oxford Lane Capital Corp.
+OXM,Oxford Industries
+OXSQ,Oxford Square Capital Corp.
+OXUS,Oxus Acquisition Corp. Class A
+OXY,Occidental Petroleum Corporation
+OYST,Oyster Point Pharma
+OZ,Belpointe PREP LLC Class A Units
+OZK,Bank OZK
+PAA,Plains All American Pipeline L.P. Common Units representing Limited Partner Interests
+PAAS,Pan American Silver Corp.
+PAC,Grupo Aeroportuario Del Pacifico S.A. B. de C.V. Grupo Aeroportuario Del Pacifico S.A. de C.V.
+PACB,Pacific Biosciences of California
+PACI,PROOF Acquisition Corp I Class A
+PACK,Ranpak Holdings Corp Class A
+PACW,PacWest Bancorp
+PACX,Pioneer Merger Corp. Class A
+PAG,Penske Automotive Group
+PAGP,Plains GP Holdings L.P. Class A Units representing Limited Partner Interests
+PAGS,PagSeguro Digital Ltd. Class A
+PAHC,Phibro Animal Health Corporation Class A
+PAI,Western Asset Investment Grade Income Fund
+PAM,Pampa Energia S.A. Pampa Energia S.A.
+PANA,Panacea Acquisition Corp. II Class A
+PANL,Pangaea Logistics Solutions Ltd.
+PANW,Palo Alto Networks
+PAQC,Provident Acquisition Corp. Class A
+PAR,PAR Technology Corporation
+PARA,Paramount Global Class B
+PARAA,Paramount Global Class A
+PARR,Par Pacific Holdings 
+PASG,Passage Bio
+PATH,UiPath Class A
+PATK,Patrick Industries
+PAVM,PAVmed
+PAX,Patria Investments Limited Class A
+PAXS,PIMCO Access Income Fund of Beneficial Interest
+PAY,Paymentus Holdings Class A
+PAYA,Paya Holdings Class A
+PAYC,Paycom Software
+PAYO,Payoneer Global
+PAYS,Paysign
+PAYX,Paychex
+PB,Prosperity Bancshares
+PBA,Pembina Pipeline Corp. (Canada)
+PBAX,Phoenix Biotech Acquisition Corp. Class A
+PBF,PBF Energy Class A
+PBFS,Pioneer Bancorp
+PBFX,PBF Logistics LP Common Units representing limited partner interests
+PBH,Prestige Consumer Healthcare
+PBHC,Pathfinder Bancorp (MD)
+PBI,Pitney Bowes
+PBPB,Potbelly Corporation
+PBR,Petroleo Brasileiro S.A.- Petrobras
+PBT,Permian Basin Royalty Trust
+PBYI,Puma Biotechnology Inc
+PCAR,PACCAR
+PCB,PCB Bancorp
+PCCT,Perception Capital Corp. II Class A
+PCF,High Income Securities Fund
+PCG,Pacific Gas & Electric Co.
+PCH,PotlatchDeltic Corporation
+PCK,Pimco California Municipal Income Fund II of Beneficial Interest
+PCM,PCM Fund
+PCN,Pimco Corporate & Income Strategy Fund
+PCOR,Procore Technologies
+PCPC,Periphas Capital Partnering Corporation Class A
+PCQ,PIMCO California Municipal Income Fund
+PCRX,Pacira BioSciences
+PCSB,PCSB Financial Corporation
+PCT,PureCycle Technologies
+PCTI,PCTEL
+PCTY,Paylocity Holding Corporation
+PCVX,Vaxcyte
+PCX,Parsec Capital Acquisitions Corp Class A
+PCYG,Park City Group
+PCYO,Pure Cycle Corporation
+PD,PagerDuty
+PDCE,PDC Energy (Delaware)
+PDCO,Patterson Companies
+PDD,Pinduoduo
+PDEX,Pro-Dex
+PDFS,PDF Solutions
+PDI,PIMCO Dynamic Income Fund
+PDLB,Ponce Financial Group
+PDM,Piedmont Office Realty Trust Class A
+PDO,PIMCO Dynamic Income Opportunities Fund of Beneficial Interest
+PDOT,Peridot Acquisition Corp. II Class A
+PDS,Precision Drilling Corporation
+PDSB,PDS Biotechnology Corporation
+PDT,John Hancock Premium Dividend Fund
+PEAK,Healthpeak Properties
+PEAR,Pear Therapeutics Class A
+PEB,Pebblebrook Hotel Trust of Beneficial Interest
+PEBK,Peoples Bancorp of North Carolina
+PEBO,Peoples Bancorp
+PECO,Phillips Edison & Company
+PED,Pedevco Corp.
+PEG,Public Service Enterprise Group Incorporated
+PEGA,Pegasystems
+PEGR,Project Energy Reimagined Acquisition Corp. Class A
+PEN,Penumbra
+PENN,PENN Entertainment
+PEO,Adams Natural Resources Fund
+PEP,PepsiCo
+PEPG,PepGen
+PEPL,PepperLime Health Acquisition Corporation Class A
+PERI,Perion Network Ltd.
+PESI,Perma-Fix Environmental Services
+PET,Wag! Group Co.
+PETQ,PetIQ Class A
+PETS,PetMed Express
+PETZ,TDH Holdings
+PFBC,Preferred Bank
+PFC,Premier Financial Corp.
+PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated
+PFDR,Pathfinder Acquisition Corporation Class A
+PFE,Pfizer
+PFG,Principal Financial Group Inc
+PFGC,Performance Food Group Company
+PFHC,ProFrac Holding Corp. Class A
+PFHD,Professional Holding Corp. Class A
+PFIS,Peoples Financial Services Corp.
+PFL,PIMCO Income Strategy Fund Shares of Beneficial Interest
+PFLT,PennantPark Floating Rate Capital Ltd.
+PFMT,Performant Financial Corporation
+PFN,PIMCO Income Strategy Fund II
+PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated
+PFS,Provident Financial Services Inc
+PFSI,PennyMac Financial Services
+PFSW,PFSweb
+PFX,PhenixFIN Corporation
+PG,Procter & Gamble Company (The)
+PGC,Peapack-Gladstone Financial Corporation
+PGEN,Precigen
+PGNY,Progyny
+PGP,Pimco Global
+PGR,Progressive Corporation (The)
+PGRE,Paramount Group
+PGRU,PropertyGuru Group Limited
+PGRW,Progress Acquisition Corp. Class A
+PGSS,Pegasus Digital Mobility Acquisition Corp. Class A
+PGTI,PGT Innovations
+PGY,Pagaya Technologies Ltd. Class A
+PGZ,Principal Real Estate Income Fund of Beneficial Interest
+PH,Parker-Hannifin Corporation
+PHAR,Pharming Group N.V. ADS each representing 10
+PHAT,Phathom Pharmaceuticals
+PHD,Pioneer Floating Rate Fund
+PHG,Koninklijke Philips N.V. NY Registry Shares
+PHI,PLDT Sponsored ADR
+PHIC,Population Health Investment Co. Class A
+PHK,Pimco High Income Fund Pimco High Income Fund
+PHM,PulteGroup
+PHR,Phreesia
+PHT,Pioneer High Income Fund
+PHUN,Phunware
+PHVS,Pharvaris N.V.
+PHX,PHX Minerals
+PHYT,Pyrophyte Acquisition Corp. Class A
+PI,Impinj
+PIAI,Prime Impact Acquisition I Class A
+PICC,Pivotal Investment Corporation III Class A
+PII,Polaris
+PIII,P3 Health Partners Class A
+PIM,Putnam Master Intermediate Income Trust
+PINC,Premier Class A
+PINE,Alpine Income Property Trust
+PING,Ping Identity Holding Corp.
+PINS,Pinterest Class A
+PIPP,Pine Island Acquisition Corp. Class A
+PIPR,Piper Sandler Companies
+PIRS,Pieris Pharmaceuticals
+PIXY,ShiftPixy
+PJT,PJT Partners Class A
+PK,Park Hotels & Resorts 
+PKBK,Parke Bancorp
+PKE,Park Aerospace Corp.
+PKG,Packaging Corporation of America
+PKI,PerkinElmer
+PKOH,Park-Ohio Holdings Corp.
+PKX,POSCO Holdings (Each representing 1/4th of a share of)
+PL,Planet Labs PBC Class A
+PLAB,Photronics
+PLAO,Patria Latin American Opportunity Acquisition Corp. Class A
+PLAY,Dave & Buster's Entertainment
+PLBC,Plumas Bancorp
+PLBY,PLBY Group
+PLCE,Children's Place (The)
+PLD,Prologis
+PLG,Platinum Group Metals Ltd. (Canada)
+PLL,Piedmont Lithium
+PLM,Polymet Mining Corporation (Canada)
+PLMI,Plum Acquisition Corp. I Class A
+PLMR,Palomar Holdings
+PLNT,Planet Fitness
+PLOW,Douglas Dynamics
+PLPC,Preformed Line Products Company
+PLRX,Pliant Therapeutics
+PLSE,Pulse Biosciences Inc (DE)
+PLTK,Playtika Holding Corp.
+PLTR,Palantir Technologies Class A
+PLUG,Plug Power
+PLUS,ePlus
+PLX,Protalix BioTherapeutics (DE)
+PLXS,Plexus Corp.
+PLYA,Playa Hotels & Resorts N.V.
+PLYM,Plymouth Industrial REIT
+PM,Philip Morris International Inc
+PME,Pingtan Marine Enterprise Ltd.
+PMF,PIMCO Municipal Income Fund
+PMGM,Priveterra Acquisition Corp. Class A
+PML,Pimco Municipal Income Fund II of Beneficial Interest
+PMM,Putnam Managed Municipal Income Trust
+PMO,Putnam Municipal Opportunities Trust
+PMT,PennyMac Mortgage Investment Trust of Beneficial Interest
+PMTS,CPI Card Group
+PMVC,PMV Consumer Acquisition Corp. Class A
+PMVP,PMV Pharmaceuticals
+PMX,PIMCO Municipal Income Fund III of Beneficial Interest
+PNAC,Prime Number Acquisition I Corp. Class A
+PNC,PNC Financial Services Group (The)
+PNF,PIMCO New York Municipal Income Fund
+PNFP,Pinnacle Financial Partners
+PNI,Pimco New York Municipal Income Fund II of Beneficial Interest
+PNM,PNM Resources (Holding Co.)
+PNNT,PennantPark Investment Corporation
+PNR,Pentair plc.
+PNRG,PrimeEnergy Resources Corporation
+PNT,POINT Biopharma Global
+PNTG,The Pennant Group 
+PNTM,Pontem Corporation Class A
+PNW,Pinnacle West Capital Corporation
+PODD,Insulet Corporation
+POET,POET Technologies
+POL,Polished
+POND,Angel Pond Holdings Corporation Class A
+PONO,Pono Capital Corp Class A
+POOL,Pool Corporation
+POR,Portland General Electric Co
+PORT,Southport Acquisition Corporation Class A
+POSH,Poshmark Class A
+POST,Post Holdings
+POW,Powered Brands Class A
+POWI,Power Integrations
+POWL,Powell Industries
+POWW,AMMO
+PPBI,Pacific Premier Bancorp Inc
+PPC,Pilgrim's Pride Corporation
+PPG,PPG Industries
+PPHP,PHP Ventures Acquisition Corp. Class A
+PPIH,Perma-Pipe International Holdings
+PPL,PPL Corporation
+PPT,Putnam Premier Income Trust
+PPTA,Perpetua Resources Corp.
+PPYA,Papaya Growth Opportunity Corp. I Class A
+PR,Permian Resources Corporation Class A
+PRA,ProAssurance Corporation
+PRAA,PRA Group
+PRAX,Praxis Precision Medicines
+PRBM,Parabellum Acquisition Corp. Class A
+PRCH,Porch Group
+PRCT,PROCEPT BioRobotics Corporation
+PRDO,Perdoceo Education Corporation
+PRDS,Pardes Biosciences
+PRE,Prenetics Global Limited Class A
+PRFT,Perficient
+PRG,PROG Holdings
+PRGO,Perrigo Company plc
+PRGS,Progress Software Corporation (DE)
+PRI,Primerica
+PRIM,Primoris Services Corporation
+PRK,Park National Corporation
+PRLB,Proto Labs
+PRLD,Prelude Therapeutics Incorporated
+PRLH,Pearl Holdings Acquisition Corp Class A
+PRM,Perimeter Solutions SA
+PRMW,Primo Water Corporation
+PRO,PROS Holdings
+PROC,Procaps Group S.A.
+PROF,Profound Medical Corp.
+PROK,ProKidney Corp. Class A
+PROV,Provident Financial Holdings
+PRPC,CC Neuberger Principal Holdings III Class A
+PRPH,ProPhase Labs (DE)
+PRPL,Purple Innovation
+PRQR,ProQR Therapeutics N.V.
+PRS,Prudential Financial 5.625% Junior Subordinated Notes due 2058
+PRSR,Prospector Capital Corp. Class A
+PRT,PermRock Royalty Trust Trust Units
+PRTA,Prothena Corporation plc
+PRTC,PureTech Health plc
+PRTG,Portage Biotech
+PRTH,Priority Technology Holdings
+PRTK,Paratek Pharmaceuticals
+PRTS,CarParts.com
+PRTY,Party City Holdco
+PRU,Prudential Financial
+PRVA,Privia Health Group
+PRVB,Provention Bio
+PSA,Public Storage
+PSAG,Property Solutions Acquisition Corporation II Class A
+PSEC,Prospect Capital Corporation
+PSF,Cohen & Steers Select Preferred and Income Fund
+PSFE,Paysafe Limited
+PSMT,PriceSmart
+PSN,Parsons Corporation
+PSNL,Personalis
+PSNY,Polestar Automotive Holding UK PLC Class A ADS
+PSNYW,Polestar Automotive Holding UK PLC Class C-1 ADS (ADW)
+PSO,Pearson Plc
+PSPC,Post Holdings Partnering Corporation Series A
+PSTG,Pure Storage Class A
+PSTL,Postal Realty Trust Class A
+PSTX,Poseida Therapeutics
+PSX,Phillips 66
+PTA,Cohen & Steers
+PTC,PTC
+PTCT,PTC Therapeutics
+PTEN,Patterson-UTI Energy
+PTGX,Protagonist Therapeutics
+PTIC,PropTech Investment Corporation II Class A
+PTLO,Portillo's Class A
+PTMN,Portman Ridge Finance Corporation
+PTN,Palatin Technologies
+PTNR,Partner Communications Company Ltd.
+PTOC,Pine Technology Acquisition Corp. Class A
+PTON,Peloton Interactive Class A
+PTRA,Proterra
+PTRS,Partners Bancorp
+PTSI,P.A.M. Transportation Services
+PTVE,Pactiv Evergreen
+PTWO,Pono Capital Two Class A
+PTY,Pimco Corporate & Income Opportunity Fund
+PUBM,PubMatic Class A
+PUCK,Goal Acquisitions Corp.
+PUK,Prudential Public Limited Company
+PUMP,ProPetro Holding Corp.
+PUYI,Puyi American Depository Shares
+PV,Primavera Capital Acquisition Corporation Class A
+PVBC,Provident Bancorp (MD)
+PVH,PVH Corp.
+PVL,Permianville Royalty Trust Trust Units 
+PWFL,PowerFleet
+PWOD,Penns Woods Bancorp
+PWP,Perella Weinberg Partners Class A
+PWR,Quanta Services
+PWSC,PowerSchool Holdings Class A
+PWUP,PowerUp Acquisition Corp. Class A
+PX,P10 Class A
+PXD,Pioneer Natural Resources Company
+PXLW,Pixelworks 
+PXS,Pyxis Tankers
+PYCR,Paycor HCM
+PYPL,PayPal Holdings
+PYR,PyroGenesis Canada
+PYXS,Pyxis Oncology
+PZC,PIMCO California Municipal Income Fund III of Beneficial Interest
+PZN,Pzena Investment Management Inc Class A
+PZZA,Papa John's International
+QBTS,D-Wave Quantum
+QCOM,QUALCOMM Incorporated
+QCRH,QCR Holdings
+QD,Qudian each representing one Class A
+QDEL,QuidelOrtho Corporation
+QFIN,360 DigiTech
+QFTA,Quantum FinTech Acquisition Corporation
+QGEN,Qiagen N.V. 
+QIPT,Quipt Home Medical Corp.
+QLYS,Qualys
+QMCO,Quantum Corporation
+QNCX,Quince Therapeutics
+QNST,QuinStreet
+QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund Shares of Beneficial Interest
+QRHC,Quest Resource Holding Corporation
+QRTEA,Qurate Retail Series A 
+QRTEB,Qurate Retail Series B 
+QRVO,Qorvo
+QS,QuantumScape Corporation Class A
+QSI,Quantum-Si Incorporated Class A
+QSR,Restaurant Brands International
+QTRX,Quanterix Corporation
+QTWO,Q2 Holdings
+QUAD,Quad Graphics Inc Class A
+QUBT,Quantum Computing
+QUIK,QuickLogic Corporation
+QUOT,Quotient Technology
+QURE,uniQure N.V.
+R,Ryder System
+RA,Brookfield Real Assets Income Fund
+RAAS,Cloopen Group Holding Limited each representing two Class A
+RACB,Research Alliance Corp. II Class A
+RACE,Ferrari N.V.
+RACY,Relativity Acquisition Corp. Class A
+RAD,Rite Aid Corporation
+RADA,RADA Electronic Industries Ltd.
+RADI,Radius Global Infrastructure Class A
+RAIL,FreightCar America
+RAIN,Rain Therapeutics
+RAM,Aries I Acquisition Corporation Class A
+RAMP,LiveRamp Holdings
+RANI,Rani Therapeutics Holdings Class A
+RAPT,RAPT Therapeutics
+RARE,Ultragenyx Pharmaceutical
+RBA,Ritchie Bros. Auctioneers Incorporated
+RBB,RBB Bancorp
+RBBN,Ribbon Communications
+RBC,RBC Bearings Incorporated
+RBCAA,Republic Bancorp Class A
+RBKB,Rhinebeck Bancorp
+RBLX,Roblox Corporation Class A
+RBOT,Vicarious Surgical Class A
+RBT,Rubicon Technologies Class A
+RC,Ready Capital Corproation
+RCAC,Revelstone Capital Acquisition Corp. Class A
+RCACU,Revelstone Capital Acquisition Corp. Unit
+RCAT,Red Cat Holdings
+RCEL,Avita Medical
+RCFA,RCF Acquisition Corp. Class A
+RCHG,Recharge Acquisition Corp. Class A
+RCI,Rogers Communication
+RCII,Rent-A-Center
+RCKT,Rocket Pharmaceuticals
+RCKY,Rocky Brands
+RCL,D/B/A Royal Caribbean Cruises Ltd.
+RCLF,Rosecliff Acquisition Corp I Class A
+RCM,R1 RCM
+RCMT,RCM Technologies
+RCS,PIMCO Strategic Income Fund
+RCUS,Arcus Biosciences
+RDCM,Radcom Ltd.
+RDFN,Redfin Corporation
+RDI,Reading International Inc Class A
+RDIB,Reading International Inc Class B
+RDN,Radian Group
+RDNT,RadNet
+RDVT,Red Violet 
+RDW,Redwire Corporation
+RDWR,Radware Ltd.
+RDY,Dr. Reddy's Laboratories Ltd
+RE,Everest Re Group Ltd.
+REAL,The RealReal
+REAX,The Real Brokerage
+REE,REE Automotive Ltd. Class A
+REFI,Chicago Atlantic Real Estate Finance
+REFR,Research Frontiers Incorporated
+REG,Regency Centers Corporation
+REGN,Regeneron Pharmaceuticals
+REI,Ring Energy
+RELL,Richardson Electronics Ltd.
+RELX,RELX PLC PLC (Each representing One)
+RELY,Remitly Global
+RENE,Cartesian Growth Corporation II Class A
+RENN,Renren each representing fifteen Class A
+RENT,Rent the Runway Class A
+REPL,Replimune Group
+REPX,Riley Exploration Permian
+RERE,ATRenew (every three of which representing two Class A)
+RES,RPC
+RETA,Reata Pharmaceuticals Class A
+REV,Revlon New
+REVE,Alpine Acquisition Corporation
+REVG,REV Group
+REVH,Revolution Healthcare Acquisition Corp. SAIL Class A
+REX,REX American Resources Corporation
+REXR,Rexford Industrial Realty
+REYN,Reynolds Consumer Products
+REZI,Resideo Technologies 
+RF,Regions Financial Corporation
+RFAC,RF Acquisition Corp. Class A
+RFI,Cohen & Steers Total Return Realty Fund
+RFIL,RF Industries Ltd.
+RFM,RiverNorth Flexible Municipal Income Fund
+RFMZ,RiverNorth Flexible Municipal Income Fund II
+RFP,Resolute Forest Products
+RGA,Reinsurance Group of America Incorporated
+RGC,Regencell Bioscience Holdings Limited
+RGCO,RGC Resources
+RGEN,Repligen Corporation
+RGF,The Real Good Food Company Class A
+RGLD,Royal Gold
+RGNX,REGENXBIO
+RGP,Resources Connection
+RGR,Sturm Ruger & Company
+RGTI,Rigetti Computing
+RH,RH
+RHI,Robert Half International
+RHP,Ryman Hospitality Properties (REIT)
+RICK,RCI Hospitality Holdings
+RIDE,Lordstown Motors Corp. Class A
+RIG,Transocean Ltd (Switzerland)
+RIGL,Rigel Pharmaceuticals
+RILY,B. Riley Financial
+RIO,Rio Tinto Plc
+RIOT,Riot Blockchain  
+RITM,Rithm Capital Corp.
+RIV,RiverNorth Opportunities Fund
+RIVN,Rivian Automotive Class A
+RJAC,Jackson Acquisition Company Class A
+RJF,Raymond James Financial
+RKLB,Rocket Lab USA
+RKLY,Rockley Photonics Holdings Limited
+RKT,Rocket Companies Class A
+RKTA,Rocket Internet Growth Opportunities Corp. Class A
+RL,Ralph Lauren Corporation
+RLAY,Relay Therapeutics
+RLGT,Radiant Logistics
+RLI,RLI Corp. (DE)
+RLJ,RLJ Lodging Trust of Beneficial Interest $0.01 par value
+RLMD,Relmada Therapeutics
+RLX,RLX Technology each representing the right to receive one (1) Class A
+RLYB,Rallybio Corporation
+RM,Regional Management Corp.
+RMAX,RE/MAX Holdings Class A
+RMBI,Richmond Mutual Bancorporation
+RMBL,RumbleOn Class B
+RMBS,Rambus
+RMD,ResMed
+RMGC,RMG Acquisition Corp. III Class A
+RMI,RiverNorth Opportunistic Municipal Income Fund
+RMM,RiverNorth Managed Duration Municipal Income Fund
+RMMZ,RiverNorth Managed Duration Municipal Income Fund II
+RMNI,Rimini Street (DE)
+RMO,Romeo Power Class A
+RMR,The RMR Group Class A
+RMT,Royce Micro-Cap Trust
+RNA,Avidity Biosciences
+RNDB,Randolph Bancorp
+RNER,Mount Rainier Acquisition Corp.
+RNG,RingCentral Class A
+RNGR,Ranger Energy Services Class A
+RNP,Cohen & Steers REIT and Preferred and Income Fund
+RNR,RenaissanceRe Holdings Ltd.
+RNST,Renasant Corporation
+RNW,ReNew Energy Global plc Class A
+ROAD,Construction Partners Class A
+ROC,ROC Energy Acquisition Corp.
+ROCC,Ranger Oil Corporation Class A
+ROCG,Roth CH Acquisition IV Co.
+ROCK,Gibraltar Industries
+ROCL,Roth CH Acquisition V Co.
+ROG,Rogers Corporation
+ROIC,Retail Opportunity Investments Corp. (MD)
+ROIV,Roivant Sciences Ltd.
+ROK,Rockwell Automation
+ROKU,Roku Class A
+ROL,Rollins
+RONI,Rice Acquisition Corp. II Class A
+ROOT,Root Class A
+ROP,Roper Technologies
+ROSE,Rose Hill Acquisition Corporation Class A
+ROSS,Ross Acquisition Corp II Class A
+ROST,Ross Stores
+ROVR,Rover Group Class A
+RPAY,Repay Holdings Corporation Class A
+RPD,Rapid7
+RPHM,Reneo Pharmaceuticals
+RPID,Rapid Micro Biosystems Class A
+RPM,RPM International
+RPRX,Royalty Pharma plc Class A 
+RPT,RPT Realty
+RPTX,Repare Therapeutics
+RQI,Cohen & Steers Quality Income Realty Fund Inc
+RRAC,Rigel Resource Acquisition Corp. Class A
+RRBI,Red River Bancshares
+RRC,Range Resources Corporation
+RRGB,Red Robin Gourmet Burgers
+RRR,Red Rock Resorts Class A
+RRX,Regal Rexnord Corporation
+RS,Reliance Steel & Aluminum Co. (DE)
+RSF,RiverNorth Specialty Finance Corporation
+RSG,Republic Services
+RSI,Rush Street Interactive Class A
+RSKD,Riskified Ltd. Class A
+RSSS,Research Solutions Inc
+RSVR,Reservoir Media
+RTL,The Necessity Retail REIT Class A
+RTX,Raytheon Technologies Corporation
+RUM,Rumble Class A
+RUN,Sunrun
+RUSHA,Rush Enterprises Cl A
+RUSHB,Rush Enterprises Class B
+RUTH,Ruth's Hospitality Group
+RVLP,RVL Pharmaceuticals plc
+RVLV,Revolve Group Class A
+RVMD,Revolution Medicines
+RVNC,Revance Therapeutics
+RVP,Retractable Technologies
+RVSB,Riverview Bancorp Inc
+RVT,Royce Value Trust
+RWAY,Runway Growth Finance Corp.
+RWLK,ReWalk Robotics Ltd.
+RWOD,Redwoods Acquisition Corp.
+RWT,Redwood Trust
+RXDX,Prometheus Biosciences
+RXRA,RXR Acquisition Corp. Class A
+RXRX,Recursion Pharmaceuticals Class A
+RXST,RxSight
+RXT,Rackspace Technology
+RY,Royal Bank Of Canada
+RYAAY,Ryanair Holdings plc
+RYAM,Rayonier Advanced Materials
+RYAN,Ryan Specialty Holdings Class A
+RYI,Ryerson Holding Corporation
+RYN,Rayonier REIT
+RYTM,Rhythm Pharmaceuticals
+RZLT,Rezolute (NV)
+S,SentinelOne Class A
+SA,Seabridge Gold (Canada)
+SABR,Sabre Corporation
+SACH,Sachem Capital Corp.
+SAFE,Safehold
+SAFT,Safety Insurance Group
+SAGA,Sagaliam Acquisition Corp. Class A
+SAGE,Sage Therapeutics
+SAH,Sonic Automotive
+SAI,SAI.TECH Global Corporation Class A
+SAIA,Saia
+SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+SAL,Salisbury Bancorp
+SAM,Boston Beer Company (The)
+SAMA,Schultze Special Purpose Acquisition Corp. II Class A
+SAMG,Silvercrest Asset Management Group Class A
+SAN,Banco Santander S.A. Sponsored ADR (Spain)
+SANA,Sana Biotechnology
+SANB,Sanaby Health Acquisition Corp. I Class A
+SAND          ,Sandstorm Gold Ltd. (Canada)
+SANG,Sangoma Technologies Corporation
+SANM,Sanmina Corporation
+SAP,SAP  SE ADS
+SAR,Saratoga Investment Corp New
+SASR,Sandy Spring Bancorp
+SATL,Satellogic Class A
+SATS,EchoStar  Corporation
+SAVA,Cassava Sciences
+SAVE,Spirit Airlines
+SB,Safe Bulkers Inc ($0.001 par value)
+SBAC,SBA Communications Corporation Class A
+SBCF,Seacoast Banking Corporation of Florida
+SBFG,SB Financial Group
+SBGI,Sinclair Broadcast Group Class A
+SBH,Sally Beauty Holdings (Name to be changed from Sally Holdings)
+SBI,Western Asset Intermediate Muni Fund Inc
+SBII,Sandbridge X2 Corp. Class A
+SBLK,Star Bulk Carriers Corp.
+SBNY,Signature Bank
+SBOW,SilverBow Resorces
+SBR,Sabine Royalty Trust
+SBRA,Sabra Health Care REIT
+SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp (Each repstg 250)
+SBSI,Southside Bancshares
+SBSW,D/B/A Sibanye-Stillwater Limited ADS
+SBT,Sterling Bancorp
+SBTX,Silverback Therapeutics
+SBUX,Starbucks Corporation
+SCAQ,Stratim Cloud Acquisition Corp. Class A
+SCCO,Southern Copper Corporation
+SCD,LMP Capital and Income Fund
+SCHL,Scholastic Corporation
+SCHN,Schnitzer Steel Industries Class A
+SCHW,Charles Schwab Corporation (The)
+SCI,Service Corporation International
+SCL,Stepan Company
+SCLE,Broadscale Acquisition Corp. Class A
+SCM,Stellus Capital Investment Corporation
+SCMA,Seaport Calibre Materials Acquisition Corp. Class A
+SCOA,ScION Tech Growth I Class A
+SCOB,ScION Tech Growth II Class A
+SCOR,comScore
+SCPH,scPharmaceuticals
+SCPL,SciPlay Corporation Class A
+SCRM,Screaming Eagle Acquisition Corp. Class A
+SCS,Steelcase
+SCSC,ScanSource
+SCTL,Societal CDMO
+SCU,Sculptor Capital Management Class A
+SCUA,Sculptor Acquisition Corp I Class A
+SCVL,Shoe Carnival
+SCWO,374Water
+SCWX,SecureWorks Corp. Class A
+SCX,L.S. Starrett Company (The)
+SCYX,SCYNEXIS
+SD,SandRidge Energy
+SDAC,Sustainable Development Acquisition I Corp. Class A
+SDC,SmileDirectClub Class A
+SDGR,Schrodinger
+SDHY,PGIM Short Duration High Yield Opportunities Fund
+SE,Sea Limited each representing one Class A
+SEAS,SeaWorld Entertainment
+SEAT,Vivid Seats Class A
+SEB,Seaboard Corporation
+SEDA,SDCL EDGE Acquisition Corporation Class A
+SEDG,SolarEdge Technologies
+SEE,Sealed Air Corporation
+SEED,Origin Agritech Limited
+SEEL,Seelos Therapeutics
+SEER,Seer Class A
+SEIC,SEI Investments Company
+SELB,Selecta Biosciences
+SELF,Global Self Storage
+SEM,Select Medical Holdings Corporation
+SEMR,SEMrush Holdings Class A
+SENEA,Seneca Foods Corp. Class A
+SENEB,Seneca Foods Corp. Class B
+SENS,Senseonics Holdings
+SES,SES AI Corporation Class A
+SESN,Sesen Bio
+SEV,Sono Group N.V.
+SEVN,Seven Hills Realty Trust
+SF,Stifel Financial Corporation
+SFBC,Sound Financial Bancorp
+SFBS,ServisFirst Bancshares
+SFE,Safeguard Scientifics New
+SFIX,Stitch Fix Class A
+SFL,SFL Corporation Ltd
+SFM,Sprouts Farmers Market
+SFNC,Simmons First National Corporation Class A
+SFST,Southern First Bancshares
+SFT,Shift Technologies Class A
+SG,Sweetgreen Class A
+SGA,Saga Communications Class A (FL)
+SGC,Superior Group of Companies
+SGEN,Seagen
+SGFY,Signify Health Class A
+SGH,SMART Global Holdings
+SGHC,Super Group (SGHC) Limited
+SGHT,Sight Sciences
+SGII,Seaport Global Acquisition II Corp. Class A
+SGLY,Singularity Future Technology Ltd.
+SGML,Sigma Lithium Corporation
+SGMO,Sangamo Therapeutics
+SGRY,Surgery Partners
+SGU,Star Group L.P.
+SHAC,SCP & CO Healthcare Acquisition Company Class A
+SHAK,Shake Shack Class A
+SHAP,Spree Acquisition Corp. 1 Limited Class A
+SHBI,Shore Bancshares Inc
+SHC,Sotera Health Company
+SHCA,Spindletop Health Acquisition Corp. Class A
+SHCR,Sharecare Class A
+SHEL,Royal Dutch Shell PLC (each representing two (2)) 
+SHEN,Shenandoah Telecommunications Co
+SHFS,SHF Holdings Class A
+SHG,Shinhan Financial Group Co Ltd
+SHIP,Seanergy Maritime Holdings Corp
+SHLS,Shoals Technologies Group Class A
+SHLX,Shell Midstream Partners L.P. Common Units representing Limited Partner Interests
+SHO,Sunstone Hotel Investors Sunstone Hotel Investors
+SHOO,Steven Madden Ltd.
+SHOP,Shopify Class A Subordinate Voting Shares
+SHPH,Shuttle Pharmaceuticals Holdings
+SHQA,Shelter Acquisition Corporation I Class A
+SHUA,SHUAA Partners Acquisition Corp I Class A
+SHW,Sherwin-Williams Company (The)
+SHYF,The Shyft Group
+SI,Silvergate Capital Corporation Class A
+SIBN,SI-BONE
+SID,Companhia Siderurgica Nacional S.A.
+SIER,Sierra Lake Acquisition Corp. Class A
+SIFY,Sify Technologies Limited
+SIG,Signet Jewelers Limited
+SIGA,SIGA Technologies
+SIGI,Selective Insurance Group
+SII,Sprott
+SILC,Silicom Ltd
+SILK,Silk Road Medical
+SILV,SilverCrest Metals
+SIM,Grupo Simec S.A.B. de C.V.
+SIMO,Silicon Motion Technology Corporation
+SIRE,Sisecam Resources LP Common Units representing limited partner interests
+SIRI,Sirius XM Holdings
+SITC,SITE Centers Corp.
+SITE,SiteOne Landscape Supply
+SITM,SiTime Corporation
+SIVB,SVB Financial Group
+SIX,Six Flags Entertainment Corporation New
+SJ,Scienjoy Holding Corporation Class A 
+SJI,South Jersey Industries
+SJM,J.M. Smucker Company (The) New
+SJR,Shaw Communications
+SJT,San Juan Basin Royalty Trust
+SJW,SJW Group (DE)
+SKE,Skeena Resources Limited
+SKGR,SK Growth Opportunities Corporation Class A
+SKIL,Skillsoft Corp. Class A
+SKIN,The Beauty Health Company Class A
+SKLZ,Skillz Class A
+SKM,SK Telecom Co. Ltd.
+SKT,Tanger Factory Outlet Centers
+SKX,Skechers U.S.A.
+SKY,Skyline Champion Corporation
+SKYA,Skydeck Acquisition Corp. Class A
+SKYH,Sky Harbour Group Corporation Class A
+SKYT,SkyWater Technology
+SKYW,SkyWest
+SKYX,SKYX Platforms Corp.
+SLAB,Silicon Laboratories
+SLAC,Social Leverage Acquisition Corp I Class A
+SLAM,Slam Corp. Class A
+SLB,Schlumberger N.V.
+SLCA,U.S. Silica Holdings
+SLDB,Solid Biosciences
+SLDP,Solid Power Class A
+SLF,Sun Life Financial
+SLG,SL Green Realty Corp
+SLGC,SomaLogic Class A
+SLGL,Sol-Gel Technologies Ltd.
+SLGN,Silgan Holdings
+SLI,Standard Lithium Ltd.
+SLM,SLM Corporation
+SLN,Silence Therapeutics Plc American Depository Share
+SLNG,Stabilis Solutions
+SLNO,Soleno Therapeutics
+SLP,Simulations Plus
+SLQT,SelectQuote
+SLRC,SLR Investment Corp.
+SLVM,Sylvamo Corporation
+SLVR,SilverSPAC Class A
+SM,SM Energy Company
+SMAP,SportsMap Tech Acquisition Corp.
+SMAR,Smartsheet Class A
+SMBC,Southern Missouri Bancorp
+SMBK,SmartFinancial
+SMCI,Super Micro Computer
+SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored (Japan)
+SMFR,Sema4 Holdings Corp. Class A
+SMG,Scotts Miracle-Gro Company (The)
+SMHI,SEACOR Marine Holdings 
+SMID,Smith-Midland Corporation
+SMIH,Summit Healthcare Acquisition Corp. Class A
+SMLP,Summit Midstream Partners LP Common Units Representing Limited Partner Interests
+SMLR,Semler Scientific
+SMMF,Summit Financial Group
+SMMT,Summit Therapeutics 
+SMP,Standard Motor Products
+SMPL,The Simply Good Foods Company
+SMR,NuScale Power Corporation Class A
+SMRT,SmartRent Class A
+SMSI,Smith Micro Software
+SMTC,Semtech Corporation
+SMTI,Sanara MedTech
+SMTS,Sierra Metals
+SMWB,Similarweb Ltd.
+SNA,Snap-On Incorporated
+SNAP,Snap Class A
+SNBR,Sleep Number Corporation
+SNCE,Science 37 Holdings
+SNCR,Synchronoss Technologies
+SNCY,Sun Country Airlines Holdings
+SND,Smart Sand
+SNDA,Sonida Senior Living
+SNDL,SNDL
+SNDR,Schneider National
+SNDX,Syndax Pharmaceuticals
+SNEX,StoneX Group
+SNFCA,Security National Financial Corporation Class A
+SNMP,Evolve Transition Infrastructure LP
+SNN,Smith & Nephew SNATS
+SNOW,Snowflake Class A
+SNPO,Snap One Holdings Corp.
+SNPS,Synopsys
+SNRH,Senior Connect Acquisition Corp. I Class A
+SNTI,Senti Biosciences
+SNV,Synovus Financial Corp.
+SNX,TD SYNNEX Corporation
+SNY,Sanofi ADS
+SO,Southern Company (The)
+SOFI,SoFi Technologies  
+SOHU,Sohu.com Limited
+SOI,Solaris Oilfield Infrastructure Class A
+SOL,Renesola Ltd. American Depsitary Shares
+SOLO,Electrameccanica Vehicles Corp. Ltd.
+SON,Sonoco Products Company
+SOND,Sonder Holdings Class A
+SONO,Sonos
+SONY,Sony Group Corporation 
+SOPH,SOPHiA GENETICS SA
+SOR,Source Capital
+SOTK,Sono-Tek Corporation
+SOUN,SoundHound AI Inc Class A
+SOVO,Sovos Brands
+SP,SP Plus Corporation
+SPB,Spectrum Brands Holdings
+SPCE,Virgin Galactic Holdings
+SPCM,Sound Point Acquisition Corp I Ltd Class A
+SPE,Special Opportunities Fund Inc
+SPFI,South Plains Financial
+SPG,Simon Property Group
+SPGI,S&P Global
+SPGS,Simon Property Group Acquisition Holdings Class A
+SPH,Suburban Propane Partners L.P.
+SPIR,Spire Global Class A
+SPK,SPK Acquisition Corp.
+SPKB,Silver Spike Acquisition Corp II Class A
+SPLK,Splunk
+SPLP,Steel Partners Holdings LP LTD PARTNERSHIP UNIT
+SPNE,SeaSpine Holdings Corporation
+SPNS,Sapiens International Corporation N.V. (Cayman Islands)
+SPNT,SiriusPoint Ltd.
+SPOK,Spok Holdings
+SPOT,Spotify Technology S.A.
+SPPI,Spectrum Pharmaceuticals Inc
+SPR,Spirit Aerosystems Holdings
+SPRO,Spero Therapeutics
+SPSC,SPS Commerce
+SPT,Sprout Social Inc Class A
+SPTK,SportsTek Acquisition Corp. Class A
+SPTN,SpartanNash Company
+SPWH,Sportsman's Warehouse Holdings
+SPWR,SunPower Corporation
+SPXC,SPX Technologies
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund
+SQ,Block Class A
+SQM,Sociedad Quimica y Minera S.A.
+SQNS,Sequans Communications S.A.
+SQSP,Squarespace Class A
+SQZ,SQZ Biotechnologies Company
+SR,Spire
+SRAD,Sportradar Group AG Class A
+SRC,Spirit Realty Capital
+SRCE,1st Source Corporation
+SRCL,Stericycle
+SRDX,Surmodics
+SRE,DBA Sempra
+SRG,Seritage Growth Properties Class A
+SRI,Stoneridge
+SRL,Scully Royalty Ltd.
+SRLP,Sprague Resources LP Common Units representing Limited Partner Interests
+SRNE,Sorrento Therapeutics 
+SRPT,Sarepta Therapeutics (DE)
+SRRK,Scholar Rock Holding Corporation
+SRSA,Sarissa Capital Acquisition Corp. Class A
+SRT,StarTek
+SRTS,Sensus Healthcare
+SRV,Cushing MLP & Infrastructure Total Return Fund
+SRZN,Surrozen
+SSAA,Science Strategic Acquisition Corp. Alpha Class A
+SSB,SouthState Corporation
+SSBI,Summit State Bank
+SSBK,Southern States Bancshares
+SSD,Simpson Manufacturing Company
+SSIC,Silver Spike Investment Corp.
+SSL,Sasol Ltd.
+SSNC,SS&C Technologies Holdings
+SSP,E.W. Scripps Company (The) Class A
+SSRM,SSR Mining
+SSSS,SuRo Capital Corp.
+SST,System1 Class A
+SSTI,ShotSpotter
+SSTK,Shutterstock
+SSU,SIGNA Sports United N.V.
+SSYS,Stratasys Ltd. (Israel)
+ST,Sensata Technologies Holding plc
+STAA,STAAR Surgical Company
+STAG,Stag Industrial
+STAR          ,iStar
+STBA,S&T Bancorp
+STBX,Starbox Group Holdings Ltd.
+STC,Stewart Information Services Corporation
+STCN,Steel Connect
+STE,STERIS plc (Ireland)
+STEM,Stem Class A
+STEP,StepStone Group Class A
+STER,Sterling Check Corp.
+STET,ST Energy Transition I Ltd. Class A
+STEW,SRH Total Return Fund
+STG,Sunlands Technology Group representing Class A
+STGW,Stagwell Class A
+STIM,Neuronetics
+STIX,Semantix Class A
+STK,Columbia Seligman Premium Technology Growth Fund Inc
+STKL,SunOpta
+STKS,The ONE Group Hospitality
+STLA,Stellantis N.V.
+STLD,Steel Dynamics
+STM,STMicroelectronics N.V.
+STN,Stantec Inc
+STNE,StoneCo Ltd. Class A
+STNG,Scorpio Tankers
+STOK,Stoke Therapeutics
+STON,StoneMor
+STOR,STORE Capital Corporation
+STR,Sitio Royalties Corp. Class A
+STRA,Strategic Education
+STRC,Sarcos Technology and Robotics Corporation
+STRE,Supernova Partners Acquisition Company III Ltd. Class A
+STRL,Sterling Infrastructure
+STRM,Streamline Health Solutions
+STRO,Sutro Biopharma
+STRS,Stratus Properties
+STRT,STRATTEC SECURITY CORPORATION
+STRY,Starry Group Holdings Class A
+STSA,Satsuma Pharmaceuticals
+STT,State Street Corporation
+STTK,Shattuck Labs
+STVN,Stevanato Group S.p.A.
+STWD,STARWOOD PROPERTY TRUST Starwood Property Trust
+STX,Seagate Technology Holdings PLC (Ireland)
+STXS,Stereotaxis
+STZ,Constellation Brands
+SU,Suncor Energy 
+SUAC,ShoulderUp Technology Acquisition Corp. Class A
+SUI,Sun Communities
+SUM,Summit Materials Class A
+SUMO,Sumo Logic
+SUN,Sunoco LP Common Units representing limited partner interests
+SUNL,Sunlight Financial Holdings Class A
+SUP,Superior Industries International (DE)
+SUPN,Supernus Pharmaceuticals
+SUPV,Grupo Supervielle S.A. each Representing five Class B shares
+SURG,SurgePays
+SUZ,Suzano S.A. (each representing One)
+SVC,Service Properties Trust
+SVFA,SVF Investment Corp. Class A
+SVFB,SVF Investment Corp. 2 Class A
+SVM,Silvercorp Metals
+SVNA,7 Acquisition Corporation Class A
+SVRA,Savara
+SWAV,ShockWave Medical
+SWBI,Smith & Wesson Brands
+SWCH,Switch Class A
+SWET,Athlon Acquisition Corp. Class A
+SWI,SolarWinds Corporation
+SWIM,Latham Group
+SWIR,Sierra Wireless
+SWK,Stanley Black & Decker
+SWKH,SWK Holdings Corporation
+SWKS,Skyworks Solutions
+SWN,Southwestern Energy Company
+SWSS,Springwater Special Situations Corp.
+SWTX,SpringWorks Therapeutics
+SWVL,Swvl Holdings Corp Class A
+SWX,Southwest Gas Holdings (DE)
+SWZ,Swiss Helvetia Fund (The)
+SXC,SunCoke Energy
+SXI,Standex International Corporation
+SXT,Sensient Technologies Corporation
+SY,So-Young International American Depository Shares
+SYBT,Stock Yards Bancorp
+SYBX,Synlogic
+SYF,Synchrony Financial
+SYK,Stryker Corporation
+SYM,Symbotic Class A
+SYNA,Synaptics Incorporated $0.001 Par Value
+SYNH,Syneos Health Class A
+SYRS,Syros Pharmaceuticals
+SYY,Sysco Corporation
+SZC,Cushing NextGen Infrastructure Income Fund of Beneficial Interest
+SZZL,Sizzle Acquisition Corp.
+T,AT&T
+TA,TravelCenters of America
+TAC,TransAlta Corporation
+TAK,Takeda Pharmaceutical Company Limited (each representing 1/2 of a share of)
+TAL,TAL Education Group
+TALK,Talkspace
+TALO,Talos Energy
+TALS,Talaris Therapeutics
+TAP,Molson Coors Beverage Company Class B
+TARO,Taro Pharmaceutical Industries Ltd.
+TARS,Tarsus Pharmaceuticals
+TASK,TaskUs Class A
+TAST,Carrols Restaurant Group
+TATT,TAT Technologies Ltd.
+TBBK,The Bancorp Inc
+TBCP,Thunder Bridge Capital Partners III Class A
+TBI,TrueBlue
+TBK,Triumph Bancorp
+TBLA,Taboola.com Ltd.
+TBLD,Thornburg Income Builder Opportunities Trust
+TBNK,Territorial Bancorp
+TBPH,Theravance Biopharma
+TBSA,TB SA Acquisition Corp Class A
+TC,TuanChe Limited
+TCBC,TC Bancshares
+TCBI,Texas Capital Bancshares
+TCBK,TriCo Bancshares
+TCBS,Texas Community Bancshares
+TCBX,Third Coast Bancshares
+TCDA,Tricida
+TCFC,The Community Financial Corporation
+TCI,Transcontinental Realty Investors
+TCMD,Tactile Systems Technology
+TCN,Tricon Residential
+TCOA,Trajectory Alpha Acquisition Corp. Class A
+TCOM,Trip.com Group Limited
+TCPC,BlackRock TCP Capital Corp.
+TCRR,TCR2 Therapeutics
+TCRT,Alaunos Therapeutics
+TCRX,TScan Therapeutics
+TCS,Container Store (The)
+TCVA,TCV Acquisition Corp. Class A
+TCX,Tucows Class A
+TD,Toronto Dominion Bank (The)
+TDC,Teradata Corporation
+TDCX,TDCX each representing one Class A
+TDF,Templeton Dragon Fund
+TDG,Transdigm Group Incorporated
+TDOC,Teladoc Health
+TDS,Telephone and Data Systems
+TDUP,ThredUp Class A
+TDW,Tidewater
+TDY,Teledyne Technologies Incorporated
+TEAF,Ecofin Sustainable and Social Impact Term Fund
+TEAM,Atlassian Corporation Plc Class A
+TECH,Bio-Techne Corp
+TECK,Teck Resources Ltd
+TEDU,Tarena International
+TEF,Telefonica SA
+TEI,Templeton Emerging Markets Income Fund
+TEKK,Tekkorp Digital Acquisition Corp. Class A
+TEL,TE Connectivity Ltd. New Switzerland Registered Shares
+TELA,TELA Bio
+TELL,Tellurian
+TEN,Tenneco Class A Voting
+TENB,Tenable Holdings
+TEO,Telecom Argentina SA
+TER,Teradyne
+TERN,Terns Pharmaceuticals
+TETC,Tech and Energy Transition Corporation Class A
+TETE,Technology & Telecommunication Acquisition Corporation Class A
+TEVA,Teva Pharmaceutical Industries Limited
+TEX,Terex Corporation
+TFC,Truist Financial Corporation
+TFFP,TFF Pharmaceuticals
+TFII,TFI International
+TFPM,Triple Flag Precious Metals Corp.
+TFSL,TFS Financial Corporation
+TFX,Teleflex Incorporated
+TG,Tredegar Corporation
+TGA,TransGlobe Energy Corporation (Canada)
+TGAA,Target Global Acquisition I Corp. Class A
+TGAN,Transphorm
+TGB,Taseko Mines Ltd.
+TGH,Textainer Group Holdings Limited
+TGI,Triumph Group
+TGLS,Tecnoglass
+TGNA,TEGNA Inc
+TGR,Kimbell Tiger Acquisition Corporation Class A
+TGS,Transportadora de Gas del Sur SA TGS
+TGT,Target Corporation
+TGTX,TG Therapeutics
+TH,Target Hospitality Corp.
+THAC,Thrive Acquisition Corporation Class A
+THC,Tenet Healthcare Corporation
+THCA,Tuscan Holdings Corp. II
+THCP,Thunder Bridge Capital Partners IV Class A
+THFF,First Financial Corporation Indiana
+THG,Hanover Insurance Group Inc
+THM,International Tower Hill Mines Ltd. (Canada)
+THO,Thor Industries
+THQ,Tekla Healthcare Opportunies Fund Shares of Beneficial Interest
+THR,Thermon Group Holdings
+THRD,Third Harmonic Bio
+THRM,Gentherm Inc
+THRN,Thorne Healthtech
+THRX,Theseus Pharmaceuticals
+THRY,Thryv Holdings
+THS,Treehouse Foods
+THTX,Theratechnologies
+THW,Tekla World Healthcare Fund Shares of Beneficial Interest
+TIG,Trean Insurance Group
+TIGO,Millicom International Cellular S.A.
+TIGR,UP Fintech Holding Ltd American Depositary Share representing fifteen Class A
+TIL,Instil Bio
+TILE,Interface
+TIMB,TIM S.A. (Each representing 5) 
+TINV,Tiga Acquisition Corp. Class A
+TIOA,Tio Tech A Class A
+TIPT,Tiptree
+TITN,Titan Machinery
+TIXT,TELUS International (Cda) Subordinate Voting Shares
+TJX,TJX Companies (The)
+TK,Teekay Corporation
+TKC,Turkcell Iletisim Hizmetleri AS
+TKLF,Yoshitsu Co. Ltd
+TKNO,Alpha Teknova
+TKR,Timken Company (The)
+TLGA,TLG Acquisition One Corp. Class A
+TLGY,TLGY Acquisition Corporation Class A
+TLK,PT Telekomunikasi Indonesia Tbk
+TLRY,Tilray Brands Class 2 
+TLS,Telos Corporation
+TLSA,Tiziana Life Sciences Ltd.
+TLYS,Tilly's
+TM,Toyota Motor Corporation
+TMAC,The Music Acquisition Corporation Class A
+TMC,TMC the metals company
+TMCI,Treace Medical Concepts
+TMDI,Titan Medical
+TMDX,TransMedics Group
+TME,Tencent Music Entertainment Group each representing two Class A
+TMHC,Taylor Morrison Home Corporation
+TMKR,Tastemaker Acquisition Corp. Class A
+TMO,Thermo Fisher Scientific Inc
+TMP,Tompkins Financial Corporation
+TMPM,Turmeric Acquisition Corp. Class A
+TMQ,Trilogy Metals
+TMST,TimkenSteel Corporation
+TMUS,T-Mobile US
+TMX,Terminix Global Holdings
+TNC,Tennant Company
+TNDM,Tandem Diabetes Care
+TNET,TriNet Group
+TNGX,Tango Therapeutics
+TNK,Teekay Tankers Ltd.
+TNL,Travel   Leisure Co. Common  Stock
+TNP,Tsakos Energy Navigation Ltd
+TNYA,Tenaya Therapeutics
+TOAC,Talon 1 Acquisition Corp. Class A
+TOI,The Oncology Institute
+TOL,Toll Brothers
+TOP,TOP Financial Group Limited
+TOPS,TOP Ships
+TOST,Toast Class A
+TOUR,Tuniu Corporation
+TOWN,TowneBank
+TPB,Turning Point Brands
+TPBA,TPB Acquisition Corporation I Class A
+TPC,Tutor Perini Corporation
+TPG,TPG Class A
+TPGY,TPG Pace Beneficial Finance Corp. Class A
+TPH,Tri Pointe Homes
+TPIC,TPI Composites
+TPL,Texas Pacific Land Corporation
+TPR,Tapestry
+TPVG,TriplePoint Venture Growth BDC Corp.
+TPX,Tempur Sealy International
+TPZ,Tortoise Power and Energy Infrastructure Fund Inc
+TR,Tootsie Roll Industries
+TRAQ,Trine II Acquisition Corp. Class A
+TRC,Tejon Ranch Co
+TRCA,Twin Ridge Capital Acquisition Corp. Class A
+TRDA,Entrada Therapeutics
+TREE,LendingTree
+TREX,Trex Company
+TRGP,Targa Resources
+TRHC,Tabula Rasa HealthCare
+TRI,Thomson Reuters Corp
+TRIN,Trinity Capital
+TRIP,TripAdvisor
+TRIS,Tristar Acquisition I Corp. Class A
+TRMB,Trimble
+TRMD,TORM plc Class A
+TRMK,Trustmark Corporation
+TRMR,Tremor International Ltd. American Depository Shares
+TRN,Trinity Industries
+TRNO,Terreno Realty Corporation
+TRNS,Transcat
+TRON,Corner Growth Acquisition Corp. 2 Class A
+TROO,TROOPS 
+TROW,T. Rowe Price Group
+TROX,Tronox Holdings plc (UK)
+TRP,TC Energy Corporation
+TRQ,Turquoise Hill Resources Ltd.
+TRS,TriMas Corporation
+TRST,TrustCo Bank Corp NY
+TRTL,TortoiseEcofin Acquisition Corp. III Class A
+TRTN,Triton International Limited
+TRTX,TPG RE Finance Trust
+TRU,TransUnion
+TRUE,TrueCar
+TRUP,Trupanion
+TRV,The Travelers Companies
+TRVG,trivago N.V.
+TRVI,Trevi Therapeutics
+TRX,TRX Gold Corporation
+TS,Tenaris S.A.
+TSAT,Telesat Corporation Class A and Class B Variable Voting Shares 
+TSBK,Timberland Bancorp
+TSCO,Tractor Supply Company
+TSE,Trinseo PLC 
+TSEM,Tower Semiconductor Ltd.
+TSHA,Taysha Gene Therapies
+TSI,TCW Strategic Income Fund
+TSIB,Tishman Speyer Innovation Corp. II Class A
+TSLA,Tesla
+TSLX,Sixth Street Specialty Lending
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.
+TSN,Tyson Foods
+TSP,TuSimple Holdings Class A
+TSPQ,TCW Special Purpose Acquisition Corp. Class A
+TSQ,Townsquare Media Class A
+TSVT,2seventy bio 
+TT,Trane Technologies plc
+TTC,Toro Company (The)
+TTCF,Tattooed Chef Inc Class A
+TTD,The Trade Desk Class A
+TTE,TotalEnergies SE
+TTEC,TTEC Holdings
+TTEK,Tetra Tech
+TTGT,TechTarget
+TTI,Tetra Technologies
+TTM,Tata Motors Ltd Tata Motors Limited
+TTMI,TTM Technologies
+TTP,Tortoise Pipeline & Energy Fund
+TTSH,Tile Shop Holdings
+TTWO,Take-Two Interactive Software
+TU,Telus Corporation
+TUP,Tupperware Brands Corporation
+TURN,180 Degree Capital Corp.
+TUSK,Mammoth Energy Services
+TUYA,Tuya each representing one Class A
+TV,Grupo Televisa S.A.
+TVTX,Travere Therapeutics
+TW,Tradeweb Markets Class A
+TWCB,Bilander Acquisition Corp. Class A
+TWI,Titan International (DE)
+TWIN,Twin Disc Incorporated
+TWKS,Thoughtworks Holding
+TWLO,Twilio Class A
+TWLV,Twelve Seas Investment Company II Class A
+TWN,Taiwan Fund (The)
+TWND,Tailwind Acquisition Corp. Class A
+TWNI,Tailwind International Acquisition Corp. Class A
+TWNK,Hostess Brands Class A
+TWO,Two Harbors Investment Corp
+TWOA,two Class A
+TWOU,2U
+TWST,Twist Bioscience Corporation
+TWTR,Twitter
+TX,Ternium S.A. Ternium S.A. (each representing ten shares USD1.00 par value)
+TXG,10x Genomics Class A
+TXMD,TherapeuticsMD
+TXN,Texas Instruments Incorporated
+TXRH,Texas Roadhouse
+TXT,Textron
+TY,Tri Continental Corporation
+TYG,Tortoise Energy Infrastructure Corporation
+TYL,Tyler Technologies
+TYRA,Tyra Biosciences
+TZOO,Travelzoo
+TZPS,TZP Strategies Acquisition Corp. Class A
+U,Unity Software
+UA,Under Armour Class C
+UAA,Under Armour Class A
+UAL,United Airlines Holdings
+UAN,CVR Partners LP Common Units representing Limited Partner Interests
+UBA,Urstadt Biddle Properties
+UBCP,United Bancorp
+UBER,Uber Technologies
+UBFO,United Security Bancshares
+UBP,Urstadt Biddle Properties
+UBS,UBS Group AG Registered
+UBSI,United Bankshares
+UBX,Unity Biotechnology
+UCBI,United Community Banks
+UCTT,Ultra Clean Holdings
+UDMY,Udemy
+UDR,UDR
+UE,Urban Edge Properties of Beneficial Interest
+UEC,Uranium Energy Corp.
+UEIC,Universal Electronics
+UFCS,United Fire Group
+UFI,Unifi New
+UFPI,UFP Industries
+UFPT,UFP Technologies
+UG,United-Guardian
+UGI,UGI Corporation
+UGP,Ultrapar Participacoes S.A. (Each representing one Common Share)
+UHAL,Amerco
+UHS,Universal Health Services
+UHT,Universal Health Realty Income Trust
+UI,Ubiquiti
+UIS,Unisys Corporation New
+UL,Unilever PLC
+ULBI,Ultralife Corporation
+ULCC,Frontier Group Holdings
+ULH,Universal Logistics Holdings
+ULTA,Ulta Beauty
+UMBF,UMB Financial Corporation
+UMC,United Microelectronics Corporation
+UMH,UMH Properties
+UMPQ,Umpqua Holdings Corporation
+UNB,Union Bankshares
+UNF,Unifirst Corporation
+UNFI,United Natural Foods
+UNH,UnitedHealth Group Incorporated (DE)
+UNIT,Uniti Group
+UNM,Unum Group
+UNP,Union Pacific Corporation
+UNTY,Unity Bancorp
+UNVR,Univar Solutions
+UONE,Urban One Class A
+UONEK,Urban One Class D
+UP,Wheels Up Experience Class A
+UPH,UpHealth
+UPLD,Upland Software
+UPS,United Parcel Service
+UPST,Upstart Holdings
+UPTD,TradeUP Acquisition Corp.
+UPWK,Upwork
+UPXI,Upexi
+URBN,Urban Outfitters
+URG,Ur Energy Inc (Canada)
+URGN,UroGen Pharma Ltd.
+URI,United Rentals
+UROY,Uranium Royalty Corp.
+USA,Liberty All-Star Equity Fund
+USAC,USA Compression Partners LP Common Units Representing Limited Partner Interests
+USAP,Universal Stainless & Alloy Products
+USAS,Americas Gold and Silver Corporation no par value
+USB,U.S. Bancorp
+USCB,USCB Financial Holdings Class A
+USCT,TKB Critical Technologies 1 Class A
+USDP,USD Partners LP Common Units representing limited partner interest
+USEG,U.S. Energy Corp. (DE)
+USER,UserTesting
+USFD,US Foods Holding Corp.
+USLM,United States Lime & Minerals
+USM,United States Cellular Corporation
+USNA,USANA Health Sciences
+USPH,U.S. Physical Therapy
+USWS,U.S. Well Services Class A
+USX,U.S. Xpress Enterprises Class A
+UTAA,UTA Acquisition Corporation Class A
+UTF,Cohen & Steers Infrastructure Fund Inc
+UTG,Reaves Utility Income Fund of Beneficial Interest
+UTHR,United Therapeutics Corporation
+UTI,Universal Technical Institute Inc
+UTL,UNITIL Corporation
+UTMD,Utah Medical Products
+UTZ,Utz Brands Inc Class A 
+UUUU,Energy Fuels Inc (Canada)
+UVE,UNIVERSAL INSURANCE HOLDINGS INC
+UVSP,Univest Financial Corporation
+UVV,Universal Corporation
+UWMC,UWM Holdings Corporation Class A
+UXIN,Uxin Limited ADS
+V,Visa
+VABK,Virginia National Bankshares Corporation
+VAC,Marriott Vacations Worldwide Corporation
+VACC,Vaccitech plc
+VAL,Valaris Limited
+VALE,VALE S.A.  Each Representing one common share
+VALN,Valneva SE
+VALU,Value Line
+VANI,Vivani Medical
+VAQC,Vector Acquisition Corporation II Class A
+VATE,INNOVATE Corp.
+VAXX,Vaxxinity Class A
+VBF,Invesco Bond Fund
+VBFC,Village Bank and Trust Financial Corp.
+VBIV,VBI Vaccines New (Canada)
+VBNK,VersaBank
+VBOC,Viscogliosi Brothers Acquisition Corp
+VBTX,Veritex Holdings
+VC,Visteon Corporation
+VCEL,Vericel Corporation
+VCIF,Vertical Capital Income Fund of Beneficial Interest
+VCKA,Vickers Vantage Corp. I
+VCSA,Vacasa Class A
+VCTR,Victory Capital Holdings Class A
+VCV,Invesco California Value Municipal Income Trust
+VCXA,10X Capital Venture Acquisition Corp. II Class A
+VCXB,10X Capital Venture Acquisition Corp. III Class A
+VCYT,Veracyte
+VECO,Veeco Instruments
+VECT,VectivBio Holding AG
+VEEV,Veeva Systems Class A
+VEL,Velocity Financial
+VELO,Velocity Acquisition Corp. Class A
+VENA,Venus Acquisition Corporation
+VEON,VEON Ltd. ADS
+VERA,Vera Therapeutics Class A
+VERI,Veritone
+VERU,Veru
+VERV,Verve Therapeutics
+VERX,Vertex Class A
+VERY,Vericity
+VET,Vermilion Energy Common (Canada)
+VFC,V.F. Corporation
+VFF,Village Farms International
+VFL,Delaware Investments National Municipal Income Fund
+VGI,Virtus Global Multi-Sector Income Fund of Beneficial Interest
+VGM,Invesco Trust for Investment Grade Municipals (DE)
+VGR,Vector Group Ltd.
+VGZ,Vista Gold Corp
+VHAQ,Viveon Health Acquisition Corp.
+VHC,VirnetX Holding Corp
+VHI,Valhi
+VHNA,Vahanna Tech Edge Acquisition I Corp. Class A
+VIA,Via Renewables Class A
+VIAV,Viavi Solutions
+VICI,VICI Properties
+VICR,Vicor Corporation
+VIEW,View Class A
+VIGL,Vigil Neuroscience
+VII,7GC & Co. Holdings Class A
+VINP,Vinci Partners Investments Ltd. Class A
+VIOT,Viomi Technology Co. Ltd
+VIPS,Vipshop Holdings Limited each representing two
+VIR,Vir Biotechnology
+VIRC,Virco Manufacturing Corporation
+VIRT,Virtu Financial Class A
+VIRX,Viracta Therapeutics
+VIST,Vista Energy S.A.B. de C.V. each representing one series A share with no par value
+VITL,Vital Farms
+VIV,Telefonica Brasil S.A. (Each representing One Common Share)
+VIVO,Meridian Bioscience
+VKI,Invesco Advantage Municipal Income Trust II of Beneficial Interest (DE)
+VKQ,Invesco Municipal Trust
+VKTX,Viking Therapeutics
+VLD,Velo3D
+VLDR,Velodyne Lidar
+VLGEA,Village Super Market Class A
+VLN,Valens Semiconductor Ltd.
+VLNS,The Valens Company
+VLO,Valero Energy Corporation
+VLRS,Controladora Vuela Compania de Aviacion S.A.B. de C.V.
+VLT,Invesco High Income Trust II
+VLTA,Volta Class A
+VLY,Valley National Bancorp
+VMC,Vulcan Materials Company (Holding Company)
+VMCA,Valuence Merger Corp. I Class A
+VMD,Viemed Healthcare
+VMEO,Vimeo
+VMGA,VMG Consumer Acquisition Corp. Class A
+VMI,Valmont Industries
+VMO,Invesco Municipal Opportunity Trust
+VMW,Vmware Class A
+VNCE,Vince Holding Corp.
+VNDA,Vanda Pharmaceuticals
+VNET,VNET Group
+VNO,Vornado Realty Trust
+VNOM,Viper Energy Partners LP Common Unit
+VNRX,VolitionRX Limited
+VNT,Vontier Corporation 
+VNTR,Venator Materials PLC
+VOC,VOC Energy Trust Units of Beneficial Interest
+VOD,Vodafone Group Plc
+VOR,Vor Biopharma
+VORB,Virgin Orbit Holdings
+VOXX,VOXX International Corporation Class A
+VOYA,Voya Financial
+VPCB,VPC Impact Acquisition Holdings II Class A ordinary shre
+VPG,Vishay Precision Group
+VPV,Invesco Pennsylvania Value Municipal Income Trust (DE)
+VRA,Vera Bradley
+VRAR,The Glimpse Group
+VRAY,ViewRay
+VRCA,Verrica Pharmaceuticals
+VRDN,Viridian Therapeutics
+VRE,Veris Residential
+VREX,Varex Imaging Corporation
+VRM,Vroom
+VRNA,Verona Pharma plc American Depositary Share
+VRNS,Varonis Systems
+VRNT,Verint Systems
+VRRM,Verra Mobility Corporation Class A
+VRSK,Verisk Analytics
+VRSN,VeriSign
+VRT,Vertiv Holdings LLC Class A
+VRTS,Virtus Investment Partners
+VRTV,Veritiv Corporation
+VRTX,Vertex Pharmaceuticals Incorporated
+VSAC,Vision Sensing Acquisition Corp. Class A
+VSAT,ViaSat
+VSCO,Victorias Secret & Co. 
+VSEC,VSE Corporation
+VSH,Vishay Intertechnology
+VST,Vistra Corp.
+VSTA,Vasta Platform Limited Class A
+VSTM,Verastem
+VSTO,Vista Outdoor
+VTEX,VTEX Class A
+VTIQ,VectoIQ Acquisition Corp. II Class A
+VTN,Invesco Trust for Investment Grade New York Municipals
+VTNR,Vertex Energy Inc
+VTOL,Bristow Group
+VTR,Ventas
+VTRS,Viatris
+VTRU,Vitru Limited
+VTSI,VirTra
+VTVT,vTv Therapeutics Class A
+VTYX,Ventyx Biosciences
+VUZI,Vuzix Corporation
+VVI,Viad Corp
+VVNT,Vivint Smart Home 
+VVR,Invesco Senior Income Trust (DE)
+VVV,Valvoline
+VVX,V2X
+VWE,Vintage Wine Estates
+VXRT,Vaxart Inc
+VYGG,Vy Global Growth Class A
+VYGR,Voyager Therapeutics
+VZ,Verizon Communications
+VZIO,VIZIO Holding Corp. Class A
+VZLA,Vizsla Silver Corp.
+W,Wayfair Class A
+WAB,Westinghouse Air Brake Technologies Corporation
+WABC,Westamerica Bancorporation
+WAFD,Washington Federal
+WAL,Western Alliance Bancorporation (DE)
+WALD,Waldencast plc Class A
+WASH,Washington Trust Bancorp
+WAT,Waters Corporation
+WATT,Energous Corporation
+WAVC,Waverley Capital Acquisition Corp. 1 Class A
+WAVS,Western Acquisition Ventures Corp.
+WB,Weibo Corporation American Depositary Share
+WBA,Walgreens Boots Alliance
+WBD,Warner Bros. Discovery Series A 
+WBS,Webster Financial Corporation
+WBX,Wallbox N.V. Class A
+WCC,WESCO International
+WCN,Waste Connections
+WD,Walker & Dunlop Inc
+WDAY,Workday Class A
+WDC,Western Digital Corporation
+WDFC,WD-40 Company
+WDH,Waterdrop (each representing the right to receive 10 Class A)
+WDI,Western Asset Diversified Income Fund of Beneficial Interest
+WDS,Woodside Energy Group Limited each representing one
+WE,WeWork Class A
+WEA,Western Asset Bond Fund Share of Beneficial Interest
+WEAV,Weave Communications
+WEBR,Weber Class A
+WEC,WEC Energy Group
+WEJO,Wejo Group Limited
+WEL,Integrated Wellness Acquisition Corp Class A
+WELL,Welltower
+WEN,Wendy's Company (The)
+WERN,Werner Enterprises
+WES,Western Midstream Partners LP Common Units Representing Limited Partner Interests
+WEST,Westrock Coffee Company
+WETF,WisdomTree Investments
+WETG,WeTrade Group
+WEX,WEX
+WEYS,Weyco Group
+WF,Woori Financial Group (each representing three (3) shares of)
+WFC,Wells Fargo & Company
+WFCF,Where Food Comes From
+WFG,West Fraser Timber Co. Ltd
+WFRD,Weatherford International plc
+WGO,Winnebago Industries
+WH,Wyndham Hotels & Resorts 
+WHD,Cactus Class A
+WHF,WhiteHorse Finance
+WHG,Westwood Holdings Group Inc
+WHR,Whirlpool Corporation
+WIA,Western Asset Inflation-Linked Income Fund
+WILC,G. Willi-Food International  Ltd.
+WIMI,WiMi Hologram Cloud American Depositary Share
+WINA,Winmark Corporation
+WING,Wingstop
+WINV,WinVest Acquisition Corp.
+WIRE,Encore Wire Corporation
+WISH,ContextLogic Class A
+WIT,Wipro Limited
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund
+WIX,Wix.com Ltd.
+WK,Workiva Class A
+WKHS,Workhorse Group
+WKME,WalkMe Ltd.
+WLDN,Willdan Group
+WLFC,Willis Lease Finance Corporation
+WLK,Westlake Corporation
+WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests
+WLY,John Wiley & Sons
+WLYB,John Wiley & Sons
+WM,Waste Management
+WMB,Williams Companies (The)
+WMC,Western Asset Mortgage Capital Corporation
+WMG,Warner Music Group Corp. Class A
+WMK,Weis Markets
+WMPN,William Penn Bancorporation
+WMS,Advanced Drainage Systems
+WMT,Walmart
+WNC,Wabash National Corporation
+WNEB,Western New England Bancorp
+WNNR,Andretti Acquisition Corp. Class A
+WNS,WNS (Holdings) Limited Sponsored ADR (Jersey)
+WOLF,Wolfspeed
+WOOF,Petco Health and Wellness Company Class A
+WOR,Worthington Industries
+WOW,WideOpenWest
+WPC,W. P. Carey REIT
+WPCA,Warburg Pincus Capital Corporation IA Class A
+WPCB,Warburg Pincus Capital Corporation IB Class A
+WPM,Wheaton Precious Metals Corp (Canada)
+WPP,WPP plc
+WPRT,Westport Fuel Systems Inc
+WQGA,World Quantum Growth Acquisition Corp. Class A
+WRAC,Williams Rowland Acquisition Corp.
+WRAP,Wrap Technologies
+WRB,W.R. Berkley Corporation
+WRBY,Warby Parker Class A
+WRE,Washington Real Estate Investment Trust
+WRK,Westrock Company
+WRLD,World Acceptance Corporation
+WRN,Western Copper and Gold Corporation
+WSBC,WesBanco
+WSBF,Waterstone Financial (MD)
+WSC,WillScot Mobile Mini Holdings Corp. Class A
+WSFS,WSFS Financial Corporation
+WSM,Williams-Sonoma (DE)
+WSO,Watsco
+WSR,Whitestone REIT
+WST,West Pharmaceutical Services
+WSTG,Wayside Technology Group
+WTBA,West Bancorporation
+WTER,The Alkaline Water Company
+WTFC,Wintrust Financial Corporation
+WTI,W&T Offshore
+WTM,White Mountains Insurance Group Ltd.
+WTMA,Welsbach Technology Metals Acquisition Corp.
+WTRG,Essential Utilities
+WTS,Watts Water Technologies Class A
+WTTR,Select Energy Services Class A
+WTW,Willis Towers Watson Public Limited Company
+WU,Western Union Company (The)
+WULF,TeraWulf
+WVE,Wave Life Sciences Ltd.
+WW,WW International
+WWAC,Worldwide Webb Acquisition Corp. Class A
+WWD,Woodward
+WWE,World Wrestling Entertainment Class A
+WWR,Westwater Resources
+WWW,Wolverine World Wide
+WY,Weyerhaeuser Company
+WYNN,Wynn Resorts Limited
+X,United States Steel Corporation
+XAIR,Beyond Air
+XBIT,XBiotech
+XEL,Xcel Energy
+XENE,Xenon Pharmaceuticals
+XERS,Xeris Biopharma Holdings
+XFIN,ExcelFin Acquisition Corp Class A
+XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust of Beneficial Interest
+XHR,Xenia Hotels & Resorts
+XL,XL Fleet Corp. Class A
+XLO,Xilio Therapeutics
+XM,Qualtrics International Class A
+XMTR,Xometry Class A
+XNCR,Xencor
+XNET,Xunlei Limited
+XOM,Exxon Mobil Corporation
+XOMA,XOMA Corporation
+XOS,Xos
+XP,XP Class A
+XPAX,XPAC Acquisition Corp. Class A
+XPDB,Power & Digital Infrastructure Acquisition II Corp. Class A
+XPEL,XPEL
+XPER,Xperi Holding Corporation
+XPEV,XPeng each representing two Class A
+XPO,XPO Logistics
+XPOF,Xponential Fitness Class A
+XPRO,Expro Group Holdings N.V.
+XRAY,DENTSPLY SIRONA
+XRX,Xerox Holdings Corporation
+XSPA,XpresSpa Group
+XTNT,Xtant Medical Holdings
+XXII,22nd Century Group
+XYF,X Financial each representing six Class A
+XYL,Xylem New
+Y,Alleghany Corporation
+YALA,Yalla Group Limited each representing one Class A
+YELL,Yellow Corporation
+YELP,Yelp
+YETI,YETI Holdings
+YEXT,Yext
+YI,111
+YJ,Yunji American Depository Shares
+YMAB,Y-mAbs Therapeutics
+YMM,Full Truck Alliance Co. Ltd. (each representing 20 Class A)
+YORW,York Water Company (The)
+YOTA,Yotta Acquisition Corporation
+YOU,Clear Secure Class A
+YPF,YPF Sociedad Anonima
+YQ,17 Education & Technology Group
+YRD,Yiren Digital Ltd. each representing two
+YSG,Yatsen Holding Limited each representing four Class A
+YTPG,TPG Pace Beneficial II Corp. Class A
+YTRA,Yatra Online
+YUM,Yum! Brands
+YUMC,Yum China Holdings
+YY,JOYY
+Z,Zillow Group Class C Capital Stock
+ZBH,Zimmer Biomet Holdings
+ZBRA,Zebra Technologies Corporation Class A
+ZD,Ziff Davis
+ZEAL,Zealand Pharma A/S
+ZEN,Zendesk
+ZENV,Zenvia Class A
+ZEPP,Zepp Health Corporation
+ZETA,Zeta Global Holdings Corp. Class A
+ZEUS,Olympic Steel
+ZEV,Lightning eMotors Inc
+ZFOX,ZeroFox Holdings
+ZG,Zillow Group Class A
+ZGN,Ermenegildo Zegna N.V.
+ZH,Zhihu (every two of each representing one Class A)
+ZI,ZoomInfo Technologies Inc
+ZIM,ZIM Integrated Shipping Services Ltd.
+ZIMV,ZimVie
+ZING,FTAC Zeus Acquisition Corp. Class A
+ZION,Zions Bancorporation N.A.
+ZIP,ZipRecruiter Class A
+ZLAB,Zai Lab Limited
+ZM,Zoom Video Communications Class A
+ZNH,China Southern Airlines Company Limited
+ZNTL,Zentalis Pharmaceuticals
+ZOM,Zomedica Corp.
+ZS,Zscaler
+ZT,Zimmer Energy Transition Acquisition Corp. Class A
+ZTEK,Zentek Ltd.
+ZTO,ZTO Express (Cayman) each representing one Class A.
+ZTR,Virtus Total Return Fund
+ZTS,Zoetis Class A
+ZUMZ,Zumiez
+ZUO,Zuora Class A
+ZVIA,Zevia PBC Class A
+ZWRK,Z-Work Acquisition Corp. Class A
+ZWS,Zurn Elkay Water Solutions Corporation
+ZY,Zymergen
+ZYME,Zymeworks
+ZYXI,Zynex
