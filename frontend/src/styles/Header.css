@@ -1,8 +1,10 @@
 header {
     height: 9.7vh;
+    color: white;
     border-bottom: .3vh solid black;
     display: flex;
     align-items: center;
+    background-color: #4F6D7A;
 }
 
 header img {

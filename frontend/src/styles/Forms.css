@@ -1,0 +1,49 @@
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+}
+
+.userForm {
+    padding: 10px 50px 10px 50px;
+    border-top: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+    text-align: center;
+    width: 200px;
+    background-color: transparent;
+}
+
+.userForm img {
+    flex: none;
+    width: 100px;
+    height: 100px;
+}
+
+.userForm h3 {
+    text-align: left;
+    margin: 10px;
+}
+
+.userForm input[type=text], .userForm input[type=password] {
+    font-size: 15px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid dimgray;
+}
+
+.userForm input:focus {
+    outline: none;
+}
+
+.userForm input[type=submit] {
+    margin: 5px;
+    font-size: 15px;
+    font-family: 'Gotham', sans-serif;
+    font-weight: bold;
+}
+
+.userForm input[type=submit]:hover {
+    cursor: pointer;
+}

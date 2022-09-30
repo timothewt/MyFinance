@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import logo from "../assets/logo.jpeg";
+import logo from "../assets/logo_white.png";
+import user_icon from "../assets/user_icon.png";
 import '../styles/Header.css';
 
 

@@ -32,10 +32,11 @@ class WalletAPIView(APIView):
     def get(self, *args, **kwargs):
         wallet = Wallet.objects.filter(owner=self.request.user)
         serializer = WalletSerializer(wallet, many=True)
-
-        stocks = json.loads(json.dumps(serializer.data[0]['stocks']))   # retrieving the stocks into a list of jsons
-
-        serializer.data[0]['stocks'] = formalize_stocks(stocks)
+        try:
+            stocks = json.loads(json.dumps(serializer.data[0]['stocks']))  # retrieving the stocks into a list of jsons
+            serializer.data[0]['stocks'] = formalize_stocks(stocks)
+        except:
+            pass
 
         return Response(serializer.data)
 
