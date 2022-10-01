@@ -4,7 +4,7 @@ import '../styles/App.css';
 import Header from './Header.js';
 import Login from './Login.js';
 import Signup from './Signup.js';
-import Wallet from './Wallet.js';
+import Content from './Content.js';
 import SignedInPrivateRoute from '../utils/SignedInPrivateRoute';
 import SignedOutPrivateRoute from '../utils/SignedOutPrivateRoute';
 import { AuthProvider } from "../context/AuthContext.js";
@@ -18,7 +18,8 @@ class App extends Component {
                     <Switch>
                         <SignedOutPrivateRoute path={"/login/"} component={Login}/>
                         <SignedOutPrivateRoute path={"/signup/"} component={Signup}/>
-                        <SignedInPrivateRoute exact path={"/"} component={Wallet}/>
+                        <SignedInPrivateRoute exact path={"/"} component={Content}/>
+                        <Route path={'*'} component={Content}/>
                     </Switch>
                 </AuthProvider>
             </div>

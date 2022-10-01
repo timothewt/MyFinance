@@ -32,6 +32,7 @@ def formalize_stocks(stocks):
     for stock in stocks:
         stock['CurrPrice'] = round(yf.Ticker(stock["Ticker"]).history(period="1d")['Close'][0], 2)
         stock['Growth'] = round((stock['CurrPrice'] / stock['AvgCost'] * 100) - 100, 1)
+        stock['ValueGrowth'] = round(stock['Qty'] * (stock['CurrPrice'] - stock['AvgCost']), 2)
         stock['Value'] = round(stock['CurrPrice'] * stock['Qty'], 2)
         totalValue = totalValue + stock['Value']
         stock['Name'] = get_yahoo_shortname(stock['Ticker'])

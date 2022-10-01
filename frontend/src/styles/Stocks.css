@@ -1,0 +1,74 @@
+.stocks {
+    height: 50%;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.stocks table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.stocks table tbody td, .stocks table thead th {
+    background-image: linear-gradient(to right bottom, #f0f8ff 80%, #c0d6df);
+}
+
+.stocks table tbody th:last-child {
+    background-image: linear-gradient(to right bottom, #f0f8ff 50%, #c0d6df);
+}
+
+.stocks table thead th {
+    border-bottom: 1px solid #166088;
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+.stocks table thead th:first-child {
+    border-right: 1px solid #166088;
+}
+
+.stocks table tbody td:not(.stockName) {
+    text-align: right;
+}
+
+.stocks table tbody th {
+    text-align: center;
+    border-bottom: 1px solid #166088;
+}
+
+.stocks table tbody td {
+    border-bottom: 1px solid #166088;
+    padding: 5px;
+}
+
+.stocks table tbody td:not(:last-child) {
+    border-right: 1px solid #166088;
+}
+
+.stocks table tbody td.positive {
+    color: green;
+}
+
+.stocks table tbody td.negative {
+    color: indianred;
+}
+
+/* Scrollbar, from https://codepen.io/aurer */
+.stocks::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+.stocks::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: rgba(0,0,0,0.1);
+}
+.stocks::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+}
+.stocks::-webkit-scrollbar-thumb:hover{
+    background: rgba(0,0,0,0.4);
+}
+.stocks::-webkit-scrollbar-thumb:active{
+    background: rgba(0,0,0,.9);
+}
