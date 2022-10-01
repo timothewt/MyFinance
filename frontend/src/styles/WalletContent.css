@@ -91,11 +91,15 @@
     border-right: 1px solid #166088;
 }
 
-.wallet-content table tbody td.positive {
+.wallet-content table tbody #dailyGrowth {
+    font-family: "Gotham", sans-serif;
+}
+
+.wallet-content table tbody .positive {
     color: green;
 }
 
-.wallet-content table tbody td.negative {
+.wallet-content table tbody .negative {
     color: indianred;
 }
 

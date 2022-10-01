@@ -29,7 +29,7 @@ const Stocks = ({stocks, currency}) => {
                                 <td>{currency}{stock.CurrPrice}</td>
                                 <td>{currency}{stock.Value}</td>
                                 <td className={stock.Growth >= 0 ? 'positive' : 'negative'}>{currency}{stock.Growth >= 0 ? '+' : null}{stock.ValueGrowth}</td>
-                                <td className={stock.Growth >= 0 ? 'positive' : 'negative'}>{stock.Growth >= 0 ? '+' : null}{stock.Growth}%</td>
+                                <td><span className={stock.Growth >= 0 ? 'positive' : 'negative'}>{stock.Growth >= 0 ? '+' : null}{stock.Growth}%</span> <span className={stock.DailyChange >= 0 ? 'positive' : 'negative'} id={"dailyGrowth"}>({stock.DailyChange >= 0 ? '+' : null}{stock.DailyChange}%)</span></td>
                             </tr>
                         )) }
                         { stocks['stocks'].length === 0 && <th colSpan={7}>Add a transaction to complete your wallet!</th>  }

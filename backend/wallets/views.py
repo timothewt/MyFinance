@@ -10,7 +10,6 @@ from rest_framework.views import APIView
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 from rest_framework_simplejwt.views import TokenObtainPairView
 
-from .models import Transaction
 from .serializers import WalletSerializer, TransactionSerializer
 
 
@@ -28,10 +27,10 @@ class MyTokenObtainPairView(TokenObtainPairView):
 
 def formalize_stocks(stocks):
     totalValue = 0
-    tickers = {}
-    get_available_tickers(tickers)
     for stock in stocks:
-        stock['CurrPrice'] = round(yf.Ticker(stock["Ticker"]).history(period="1d")['Close'][0], 2)
+        current_price, daily_change = get_current_price_daily_change(stock)
+        stock['CurrPrice'] = round(current_price, 2)
+        stock['DailyChange'] = round(daily_change, 1)
         stock['Growth'] = round((stock['CurrPrice'] / stock['AvgCost'] * 100) - 100, 1)
         stock['ValueGrowth'] = round(stock['Qty'] * (stock['CurrPrice'] - stock['AvgCost']), 2)
         stock['Value'] = round(stock['CurrPrice'] * stock['Qty'], 2)
@@ -42,18 +41,18 @@ def formalize_stocks(stocks):
     return stocks, totalValue
 
 
+def get_current_price_daily_change(stock):
+    data = yf.Ticker(stock["Ticker"]).history(period="1d")
+    curr_price = data['Close'][0]
+    daily_change = (data['Close'] / data['Open']) * 100 - 100
+    return curr_price, daily_change
+
+
 def get_yahoo_shortname(symbol):
     response = urllib.request.urlopen(f'https://query2.finance.yahoo.com/v1/finance/search?q={symbol}')
     content = response.read()
     data = json.loads(content.decode('utf8'))['quotes'][0]['shortname']
     return data
-
-
-def get_available_tickers(tickers):
-    with open('../tickers.txt') as f:
-        for line in f:
-            ticker = line[:-1].split(',')
-            tickers[ticker[0]] = ticker[1]
 
 
 @permission_classes([IsAuthenticated])
