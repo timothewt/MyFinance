@@ -1,5 +1,6 @@
 import json
 import urllib
+from datetime import datetime
 
 import yfinance as yf
 from rest_framework.decorators import permission_classes
@@ -70,6 +71,10 @@ class WalletAPIView(APIView):
 @permission_classes([IsAuthenticated])
 class TransactionAPIView(APIView):
     def get(self, *args, **kwargs):
-        transactions = Transaction.objects.all()
+        user = self.request.user
+        transactions = user.transaction_set.all()
         serializer = TransactionSerializer(transactions, many=True)
-        return Response(serializer.data)
+        for transaction in serializer.data:
+            transaction['name'] = get_yahoo_shortname(transaction['ticker'])
+        sorted_transactions = sorted(serializer.data, key=lambda transac: datetime.strptime(transac['date'], "%Y-%m-%d"), reverse=True)
+        return Response(sorted_transactions)

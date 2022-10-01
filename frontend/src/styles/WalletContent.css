@@ -1,0 +1,120 @@
+.wallet-content {
+    height: 49.5%;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.transactions table thead button {
+    height: 30px;
+    width: 30px;
+    padding: 2px;
+    float: right;
+    margin-right: 10px;
+    border: 1px solid #4A6FA5;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: transparent;
+    margin-top: 0;
+    margin-bottom: 2px;
+    box-shadow: 0 2px #999;
+    display: inline-block;
+}
+
+.transactions table thead th span {
+    display: inline-block;
+    margin-top: 4px;
+}
+
+.transactions table thead button:hover {
+    background-color: #E0F1FF;
+}
+
+.transactions table thead button:active {
+    margin-top: 2px;
+    margin-bottom: 0;
+    background-color: #4A6FA5;
+    box-shadow: 0 0 #999;
+}
+
+.transactions table thead button img {
+    height: 100%;
+    width: 100%;
+}
+
+.transactions table thead th {
+    border-top: 1px solid #166088;
+}
+
+.transactions table tbody td {
+    text-align: left;
+}
+
+
+.wallet-content table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.wallet-content table tbody td, .wallet-content table thead th {
+    background-image: linear-gradient(to right bottom, #f0f8ff 80%, #c0d6df);
+}
+
+.wallet-content table tbody th:last-child {
+    background-image: linear-gradient(to right bottom, #f0f8ff 50%, #c0d6df);
+}
+
+.wallet-content table thead th {
+    border-bottom: 1px solid #166088;
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+.stocks table thead th:first-child {
+    border-right: 1px solid #166088;
+}
+
+.wallet-content table tbody td:not(.stockName, .transactionDate) {
+    text-align: right;
+}
+
+.wallet-content table tbody th {
+    text-align: center;
+    border-bottom: 1px solid #166088;
+}
+
+.wallet-content table tbody td {
+    border-bottom: 1px solid #166088;
+    padding: 5px;
+}
+
+.wallet-content table tbody td:not(:last-child) {
+    border-right: 1px solid #166088;
+}
+
+.wallet-content table tbody td.positive {
+    color: green;
+}
+
+.wallet-content table tbody td.negative {
+    color: indianred;
+}
+
+/* Scrollbar, from https://codepen.io/aurer */
+.wallet-content::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+.wallet-content::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: rgba(0,0,0,0.1);
+}
+.wallet-content::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: rgba(0,0,0,0.2);
+}
+.wallet-content::-webkit-scrollbar-thumb:hover{
+    background: rgba(0,0,0,0.4);
+}
+.wallet-content::-webkit-scrollbar-thumb:active{
+    background: rgba(0,0,0,.9);
+}

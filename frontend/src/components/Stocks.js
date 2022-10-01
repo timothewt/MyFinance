@@ -1,33 +1,10 @@
-import React, { useState, useEffect, useContext } from "react"
-import '../styles/Stocks.css';
-import AuthContext from "../context/AuthContext";
+import React from "react"
+import '../styles/WalletContent.css';
 
 
-const Stocks = () => {
-    let currency = '$';
-    let [stocks, setStocks] = useState({'totalValue':0, 'stocks':[]});
-    let {authTokens} = useContext(AuthContext);
-
-    useEffect(() => {
-        getWallet();
-    }, [])
-
-    let getWallet = async () => {
-        let response = await fetch('http://127.0.0.1:8000/api/wallet/', {
-            method: 'GET',
-            headers:{
-                'Content-Type': 'application/json',
-                'Authorization': 'Bearer ' + String(authTokens.access)
-            }
-        });
-        let data = await response.json();
-        if (response.status === 200 && data[0]) {
-            setStocks(data[0]);
-        }
-    }
-
+const Stocks = ({stocks, currency}) => {
     return (
-        <div className={"stocks"}>
+        <div className={"wallet-content stocks"}>
             <div>
                 <table>
                     <thead>
@@ -36,7 +13,7 @@ const Stocks = () => {
                     </thead>
                     <tbody>
                         <tr>
-                            <th>Name</th>
+                            <th>Stock Name</th>
                             <th>Qty</th>
                             <th>Avg Cost</th>
                             <th>Last Price</th>
