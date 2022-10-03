@@ -9,7 +9,7 @@ from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 from rest_framework_simplejwt.views import TokenObtainPairView
 
 from .serializers import WalletSerializer, TransactionSerializer
-from .utils import formalize_stocks, get_yahoo_shortname
+from .utils import formalize_stocks, get_yahoo_shortname, get_current_price_daily_change
 
 
 class MyTokenObtainPairSerializer(TokenObtainPairSerializer):
@@ -53,3 +53,16 @@ class TransactionAPIView(APIView):
             transaction['name'] = get_yahoo_shortname(transaction['ticker'])
         sorted_transactions = sorted(serializer.data, key=lambda transac: datetime.strptime(transac['date'], "%Y-%m-%d"), reverse=True)  # sorts the transactions by descending date order
         return Response(sorted_transactions)
+
+
+class StockNameAPIView(APIView):
+    def get(self, *args, **kwargs):
+        ticker = self.kwargs['ticker']
+        response = [False, ""]  # response = [has the stock been found, if yes stock name else error]
+        try:
+            get_current_price_daily_change(ticker)  # the stock is valid if the price can be retrieved
+            response[0] = True
+            response[1] = get_yahoo_shortname(ticker)
+        except Exception:
+            response[1] = "Error: Stock not found"
+        return Response(response)

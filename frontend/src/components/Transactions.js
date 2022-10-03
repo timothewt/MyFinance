@@ -1,7 +1,8 @@
-import React, {useContext} from "react"
+import React, {useContext, useState} from "react"
 import '../styles/WalletContent.css';
 import plusIcon from '../assets/plus_icon.png';
 import UserDataContext from "../context/UserDataContext";
+import AddTransaction from "./AddTransaction";
 
 
 /**
@@ -12,14 +13,21 @@ const Transactions = () => {
 
     let {transactions, currency } = useContext(UserDataContext); // gets the transactions of the user and the currency from the context
 
+    const [showForm, setShowForm] = useState(false);
+
+    let toggleForm = () => {
+        setShowForm(!showForm);
+    }
+
     return (
         <div className={"wallet-content transactions"}>
+            {showForm && <AddTransaction toggleForm={toggleForm}/>}
             <div>
                 <table>
                     <thead>
                         <th colSpan={5}>
                             <span>Transactions</span>
-                            <button>
+                            <button onClick={toggleForm}>
                                 <img src={plusIcon} alt={"plus"}/>
                             </button>
                         </th>

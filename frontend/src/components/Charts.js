@@ -3,11 +3,11 @@ import '../styles/Charts.css';
 import Shares from "./Shares";
 
 
-const Charts = ({stocks}) => {
+const Charts = () => {
 
     return (
         <div className={"charts"}>
-            <Shares stocks={stocks}/>
+            <Shares/>
         </div>
     );
 }

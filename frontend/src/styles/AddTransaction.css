@@ -1,0 +1,110 @@
+.addTransaction {
+    top: 0;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+.addTransactionFormContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: flex-end;
+    padding: 10px;
+    border-radius: 2%;
+}
+
+.addTransactionFormContainer .closeFormBtn {
+    background-color: transparent;
+    border: none;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    padding: 0;
+    border-radius: 5px;
+    margin-top: 0;
+    margin-bottom: 2px;
+    box-shadow: 0 2px black;
+}
+
+.addTransactionFormContainer .closeFormBtn:active {
+    background-color: lightgray;
+    margin-top: 2px;
+    margin-bottom: 0;
+    box-shadow: 0 0 black;
+}
+
+.addTransactionFormContainer .closeFormBtn img {
+    height: 100%;
+    width: 100%;
+    rotate: 45deg;
+}
+
+.addTransactionForm {
+    padding: 0 20px 20px 20px;
+}
+
+.addTransactionForm h3 {
+    margin-top: 0;
+    text-align: center;
+}
+
+.addTransactionForm h4 {
+    padding: 0;
+    margin: 15px 0 5px 5px;
+}
+
+.addTransactionForm input[type=submit], .addTransactionForm button {
+    margin: 5px;
+    font-size: 12px;
+    font-family: 'Gotham', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.addTransactionForm input[type=date] {
+    width: 50%;
+}
+
+.addTransactionForm select {
+    width: 20%;
+}
+
+.addTransactionForm .priceInputContainer {
+    position: relative;
+    font-family: "Gotham", sans-serif;
+}
+
+.addTransactionForm .priceInputContainer:before {
+    position: absolute;
+    top: 0;
+    content: "$";
+    left: 5px;
+    font-size: 15px;
+    margin-top: 1px;
+}
+
+.addTransactionForm .priceInputContainer input {
+    padding-left: 12px;
+}
+
+.submitFormContainer {
+    padding: 0;
+    margin-bottom: -10px;
+    margin-top: 10px;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+.addTransactionForm input[name=submitAddTransaction] {
+    font-size: 15px;
+}
+
+.addTransactionForm input[name=stockName] {
+    width: 95%;
+}

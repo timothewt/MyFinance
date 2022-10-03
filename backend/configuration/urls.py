@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.urls import path, include
-from wallets.views import MyTokenObtainPairView, WalletAPIView, TransactionAPIView
+from wallets.views import MyTokenObtainPairView, WalletAPIView, TransactionAPIView, StockNameAPIView
 from authentication.views import SignUpAPIView
 from rest_framework_simplejwt.views import TokenRefreshView
 
@@ -11,4 +11,5 @@ urlpatterns = [
     path("api/signup/", SignUpAPIView.as_view(), name="refresh_token"),     # signs up the user in the database
     path('api/wallet/', WalletAPIView.as_view()),   # access to the wallets
     path('api/transactions/', TransactionAPIView.as_view()),    # access to the transactions
+    path('api/stockname/<ticker>/', StockNameAPIView.as_view()),    # gives the name of a stock and checks if it exists
 ]
