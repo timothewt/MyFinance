@@ -5,7 +5,10 @@ from .serializer import SignUpSerializer, UserSerializer
 
 
 class SignUpAPIView(APIView):
-    def post(self, request, *args, **kwards):
+    # view used to sign up a new user using the REST API
+    def post(self, request, *args, **kwargs):
+        # creates a new user in the database if the request is valid
+        # @param request: sign-up form data
         serializer = SignUpSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         user = serializer.save()

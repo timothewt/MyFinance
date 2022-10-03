@@ -1,8 +1,15 @@
-import React from "react"
+import React, {useContext} from "react"
 import '../styles/WalletContent.css';
+import UserDataContext from "../context/UserDataContext";
 
+/**
+ * Displays the stocks of the user as a table with Stock Name, Quantity, Average Cost, Current Price, Value of all his stocks, Net Growth and Growth fields, and the Total Value
+ * @returns {JSX.Element}: the table of stocks
+ */
+const Stocks = () => {
 
-const Stocks = ({stocks, currency}) => {
+    let { stocks, currency } = useContext(UserDataContext); // gets the stocks of the user and the currency from the context
+
     return (
         <div className={"wallet-content stocks"}>
             <div>

@@ -3,7 +3,10 @@ import user_icon from "../assets/user_icon.png";
 import '../styles/Forms.css';
 import AuthContext from "../context/AuthContext.js";
 
-
+/**
+ * Login form with username and password fields
+ * @returns {JSX.Element} the form
+ */
 const Login = () => {
     let {loginUser} = useContext(AuthContext);
     return (

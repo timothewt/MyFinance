@@ -5,7 +5,10 @@ import user_icon from "../assets/user_icon.png";
 import '../styles/Header.css';
 import { Link } from "react-router-dom";
 
-
+/**
+ * Header of the app, always visible
+ * @returns {JSX.Element}: The header and its content (logo, if logged-in username otherwise login and signup links)
+ */
 const Header = () => {
     let {user, logoutUser} = useContext(AuthContext);
     return (

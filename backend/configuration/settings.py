@@ -27,8 +27,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework',
-    'rest_framework_simplejwt',
+    'rest_framework',            # rest API to communicate between back and front
+    'rest_framework_simplejwt',  # used for authentication with rest
     'corsheaders',
     'wallets',
     'authentication'
@@ -128,8 +128,8 @@ REST_FRAMEWORK = {
 }
 
 SIMPLE_JWT = {
-    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=15),
-    "REFRESH_TOKEN_LIFETIME": timedelta(days=365),
+    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=15),     # the access token has to be refreshed every 15mins
+    "REFRESH_TOKEN_LIFETIME": timedelta(days=365),      # the user stays logged in for a year
 
     'AUTH_HEADER_TYPES': ('Bearer',),
     'AUTH_HEADER_NAME': 'HTTP_AUTHORIZATION',

@@ -3,8 +3,11 @@ import user_icon from "../assets/user_icon.png";
 import '../styles/Forms.css';
 import AuthContext from "../context/AuthContext.js";
 
-
-const Signup = () => {
+/**
+ * Sign Up form with username and password fields
+ * @returns {JSX.Element} the form
+ */
+const SignUp = () => {
     let {signUpUser} = useContext(AuthContext);
     return (
         <div className={"user"}>
@@ -27,4 +30,4 @@ const Signup = () => {
     );
 }
 
-export default Signup;
+export default SignUp;

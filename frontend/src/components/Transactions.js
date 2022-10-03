@@ -1,9 +1,17 @@
-import React from "react"
+import React, {useContext} from "react"
 import '../styles/WalletContent.css';
 import plusIcon from '../assets/plus_icon.png';
+import UserDataContext from "../context/UserDataContext";
 
 
-const Transactions = ({transactions, currency}) => {
+/**
+ * Displays the all the transactions of the user as a table with Date, Stock Name, Action (Buy or Sell), Quantity and Price fields, with a button to add a transaction
+ * @returns {JSX.Element}: the table of transactions
+ */
+const Transactions = () => {
+
+    let {transactions, currency } = useContext(UserDataContext); // gets the transactions of the user and the currency from the context
+
     return (
         <div className={"wallet-content transactions"}>
             <div>

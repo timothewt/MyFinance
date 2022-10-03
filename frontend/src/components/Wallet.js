@@ -3,13 +3,15 @@ import '../styles/Wallet.css';
 import Stocks from "./Stocks";
 import Transactions from "./Transactions";
 
-
-const Wallet = ({stocks, transactions, currency}) => {
-
+/**
+ * Contains the stocks table and the transactions table
+ * @returns {JSX.Element}: stocks and transactions tables
+ */
+const Wallet = () => {
     return (
         <div className={"wallet"}>
-            <Stocks stocks={stocks} currency={currency}/>
-            <Transactions transactions={transactions} currency={currency}/>
+            <Stocks/>
+            <Transactions/>
         </div>
     );
 }
