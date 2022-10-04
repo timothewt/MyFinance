@@ -18,6 +18,7 @@
     margin-bottom: 2px;
     box-shadow: 0 2px #999;
     display: inline-block;
+    transition-duration: 50ms;
 }
 
 .transactions table thead th span {
@@ -49,6 +50,10 @@
     text-align: left;
 }
 
+.transactions table tbody .highlightedTransactionRow {
+    text-shadow: 0 0 5px #282c34;
+}
+
 
 .wallet-content table {
     width: 100%;
@@ -73,6 +78,10 @@
     border-right: 1px solid #166088;
 }
 
+.stocks table tbody td:first-child {
+    max-width: 175px;
+}
+
 .wallet-content table tbody td:not(.stockName, .transactionDate) {
     text-align: right;
 }
@@ -91,15 +100,15 @@
     border-right: 1px solid #166088;
 }
 
-.wallet-content table tbody #dailyGrowth {
+.wallet-content table .growth {
     font-family: "Gotham", sans-serif;
 }
 
-.wallet-content table tbody .positive {
+.wallet-content table .positive {
     color: green;
 }
 
-.wallet-content table tbody .negative {
+.wallet-content table .negative {
     color: indianred;
 }
 

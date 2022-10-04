@@ -1,7 +1,7 @@
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
-from .serializer import SignUpSerializer, UserSerializer
+from .serializers import SignUpSerializer
 
 
 class SignUpAPIView(APIView):

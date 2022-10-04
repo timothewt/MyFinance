@@ -29,6 +29,7 @@
     margin-top: 0;
     margin-bottom: 2px;
     box-shadow: 0 2px black;
+    transition-duration: 100ms;
 }
 
 .addTransactionFormContainer .closeFormBtn:active {
