@@ -2,6 +2,7 @@
 Views of the API used by the frontend to communicate with the backend
 """
 
+from django.core import serializers
 from rest_framework import status
 from rest_framework.decorators import permission_classes
 from rest_framework.permissions import IsAuthenticated
