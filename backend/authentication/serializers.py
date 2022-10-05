@@ -1,3 +1,6 @@
+"""
+Serializer for the user and for signing up a new user, which creates his wallet
+"""
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from wallets.models import Wallet

@@ -1,9 +1,11 @@
+"""
+All utilities to operate on the user's data, and access the real-time market data
+"""
 from datetime import datetime
 import json
 import urllib
 
 import yfinance as yf
-from django.core import serializers
 
 from .models import Wallet, Transaction
 from .serializers import TransactionSerializer, WalletSerializer

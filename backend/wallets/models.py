@@ -1,3 +1,6 @@
+"""
+Models of the app objects, Wallet with stocks and Transaction with all the infos (date, price, ..)
+"""
 from django.utils.timezone import now as date_now
 from django.db import models
 from django.contrib.auth.models import User
