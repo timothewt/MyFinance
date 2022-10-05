@@ -10,7 +10,9 @@ from .serializers import TransactionSerializer, WalletSerializer
 
 
 def format_stocks(stocks):
-    # adds all the live infos to the stocks, such as current price or growth
+    # adds all the live infos to the stocks, i.e.
+    # the current price, the daily change in %, the growth in %, the value growth, the total value of each stock,
+    # the name and the share in the wallet
     # @param stocks: array of stock in which we add live data
     # @return the formatted stocks, the total value of all the stocks
     totalValue = 0
@@ -125,4 +127,7 @@ def get_serialized_wallet_from_userid(id):
 
 
 def get_transaction(id):
+    # gets a transaction by its id
+    # @param id: id of the transaction
+    # @return the transaction
     return Transaction.objects.filter(id=id)

@@ -5,7 +5,7 @@ This WebApp is a real-time stocks investments tracker using React and Django.
 
 ## Features
 
-<img src="https://i.ibb.co/KK20hFN/homepage.png" width="80%" alt="Homepage">
+<img src="https://i.ibb.co/KK20hFN/homepage.png" width="100%" alt="Homepage">
 
 It has a complete authentication system with a sign-up and login page. Each user has a wallet assigned, that contains their stocks with the quantity and average price.<br/>
 When the user enters the page, real-time data from the stock market is retrieved and displayed.<br/>
