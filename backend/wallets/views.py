@@ -1,21 +1,16 @@
+"""
+Views of the API used by the frontend to communicate with the backend
+"""
+
 from rest_framework import status
 from rest_framework.decorators import permission_classes
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 from rest_framework_simplejwt.views import TokenObtainPairView
 
+from .serializers import MyTokenObtainPairSerializer
 from .utils import *
-
-
-class MyTokenObtainPairSerializer(TokenObtainPairSerializer):
-    # adds the username to the data inside the encrypted tokens
-    @classmethod
-    def get_token(cls, user):
-        token = super().get_token(user)
-        token['username'] = user.username   # adds the username field
-        return token
 
 
 class MyTokenObtainPairView(TokenObtainPairView):

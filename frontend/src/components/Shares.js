@@ -2,7 +2,7 @@ import React from "react"
 import '../styles/Shares.css';
 
 
-const Shares = ({stocks}) => {
+const Shares = () => {
 
     return (
         <div className={"shares"}>

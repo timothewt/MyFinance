@@ -1,3 +1,6 @@
+"""
+URLs access to the API, used by the frontend
+"""
 from django.contrib import admin
 from django.urls import path, include
 from wallets.views import MyTokenObtainPairView, WalletAPIView, TransactionAPIView, StockNameAPIView
