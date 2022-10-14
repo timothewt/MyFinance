@@ -113,21 +113,21 @@
 }
 
 /* Scrollbar, from https://codepen.io/aurer */
-.wallet-content::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 6px;
     height: 6px;
 }
-.wallet-content::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
     border-radius: 10px;
     background: rgba(0,0,0,0.1);
 }
-.wallet-content::-webkit-scrollbar-thumb{
+::-webkit-scrollbar-thumb{
     border-radius: 10px;
     background: rgba(0,0,0,0.2);
 }
-.wallet-content::-webkit-scrollbar-thumb:hover{
+::-webkit-scrollbar-thumb:hover{
     background: rgba(0,0,0,0.4);
 }
-.wallet-content::-webkit-scrollbar-thumb:active{
+::-webkit-scrollbar-thumb:active{
     background: rgba(0,0,0,.9);
 }

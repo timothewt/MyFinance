@@ -13,9 +13,9 @@ export const UserDataProvider = ({children}) => {
 
     let [transactions, setTransactions] = useState([]); // transactions made by the user
     let [stocks, setStocks] = useState({'totalValue':0, 'stocks':[]});  // stocks in the user's wallet
+    let [stocksShares, setStocksShares] = useState([]);
     let {authTokens} = useContext(AuthContext); // authentication tokens
     let currency = '$'; // user's currency, the user will be able to change in future versions
-
     /**
      * Gets data from the database from the backend using the REST API
      * @param request: what to retrieve, can be wallet or transactions
@@ -30,8 +30,42 @@ export const UserDataProvider = ({children}) => {
             }
         });
         let data = await response.json(); // converts the received data to readable JSON
+        /**
+         * Adds the stock share data to the array
+         * @param arr: array of stock shares with name and value
+         * @param stock: stock from which we take the share
+         */
+        function addStockShare(arr, stock) {
+            if (stock['Share'] < 8) {
+                find: {
+                    for (let stockSearch of arr) {
+                        if (stockSearch['name'] === 'Others') {
+                            stockSearch['value'] += stock['Share'];
+                            break find;
+                        }
+                    }
+                    arr.push({
+                        "name": "Others",
+                        "value": stock['Share']
+                    })
+                }
+            } else {
+                arr.push({
+                    "name": stock['Name'],
+                    "value": stock['Share']
+                })
+            }
+
+
+        }
+
         if (response.status === 200 && data[0]) {   // status 200 is a success
             if (request === "wallet") {
+                let newStockShares = []
+                data[0]['stocks'].forEach(stock => (
+                    addStockShare(newStockShares, stock)
+                ));
+                setStocksShares(newStockShares)
                 setStocks(data[0]);
             } else if (request === "transactions") {
                 setTransactions(data);
@@ -42,7 +76,8 @@ export const UserDataProvider = ({children}) => {
     let contextData = {
         stocks: stocks,
         transactions: transactions,
-        currency: currency
+        currency: currency,
+        stocksShares: stocksShares
     }
 
     // When the component is displayed, retrieves the stocks and transactions data

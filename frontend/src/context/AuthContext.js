@@ -24,7 +24,6 @@ export const AuthProvider = ({children}) => {
      * @param e: login form
      */
     let loginUser = async (e) => {
-        console.log(e.target);
         e.preventDefault(); // prevents the page from reloading when the form is submitted
         let response = await fetch('http://127.0.0.1:8000/api/token/', { // fetches the auth tokens using the REST API in the backend server
             method: 'POST',
