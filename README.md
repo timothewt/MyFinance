@@ -23,7 +23,7 @@ The trash can icon deletes the last entered transaction, which is highlighted wh
 
 To run the app, clone the repo  first navigate to the project folder and install all the requirements with `pip install -r requirements.txt`.<br/>
 Use `py backend/manage.py migrate`. Start the backend with `py backend/manage.py runserver`. <br/>
-In another console instance, navigate to the frontend folder with `cd frontend`, and install react by using `npm install react-scripts` (be sure to have npm installed).
+In another console instance, navigate to the frontend folder with `cd frontend`, and install react by using `npm install react-scripts` and `npm install recharts` (be sure to have npm installed).
 In the same folder start the frontend with `npm start`.
 
 
