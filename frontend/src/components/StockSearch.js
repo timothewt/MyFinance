@@ -39,7 +39,10 @@ const Transactions = () => {
         } else {
             setConfirmedTicker(data[0]);
             setStocksInfos(data[1]);
-            setDisplayedStockPrices(data[1]["Prices"][0]);
+            if(data[0] === true) {
+                console.log(data[1]["DividendRate"])
+                setDisplayedStockPrices(data[1]["Prices"][0]);
+            }
         }
         setLoadingSearch(false);
     }
@@ -77,7 +80,9 @@ const Transactions = () => {
                             <p>Daily high: {currency}{stockInfos['DailyHigh']}</p>
                             <p>Daily low: {currency}{stockInfos['DailyLow']}</p>
                             <p>Volume: {stockInfos['Volume']}</p>
-                            <p>Dividends rate: {stockInfos['DividendRate']}%</p>
+                            <p>
+                                Dividends rate: {stockInfos['DividendRate'] ? stockInfos['DividendRate'] + '%': "None"}
+                            </p>
                         </div>
                         <div className={"stock-evolution"}>
                             <div className={"change-date-interval"}>
