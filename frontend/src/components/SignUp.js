@@ -11,7 +11,7 @@ const SignUp = () => {
     let {signUpUser} = useContext(AuthContext);
     return (
         <div className={"user"}>
-            <div className={"userForm"}>
+            <div className={"user-form"}>
                 <img src={user_icon} alt={"user"}></img>
                 <h1>Sign Up</h1>
                 <form onSubmit={signUpUser}>

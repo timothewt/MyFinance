@@ -129,3 +129,19 @@ class StockNameAPIView(APIView):
         except Exception:
             response[1] = "Error: Stock not found"
         return Response(response)
+
+
+class StockInfoAPIView(APIView):
+    def get(self, *args, **kwargs):
+        ticker = self.kwargs['ticker']
+        response = [False, None]
+        try:
+            get_current_price_daily_change(ticker)
+            response[0] = True
+            response[1] = {}
+            response[1]['Name'] = get_yahoo_shortname(ticker)
+            response[1]['CurrentPrice'], response[1]['DailyChange'] = get_current_price_daily_change(ticker)
+            response[1]['DailyHigh'], response[1]['DailyLow'], response[1]['Prices'], response[1]['Volume'], response[1]['DividendRate'] = get_stock_infos(ticker)
+        except Exception:
+            response[1] = "Error: Stock not found"
+        return Response(response)

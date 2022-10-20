@@ -13,7 +13,7 @@ const Shares = () => {
         <div className={"shares"}>
             {stocksShares &&
                 <div>
-                    <ResponsiveContainer height="100%" width="40%" className={"chartContainer"}>
+                    <ResponsiveContainer height="100%" width="40%" className={"chart-container"}>
                         <PieChart>
                             <Pie cx="50%" cy="50%" data={stocksShares} nameKey={"name"} dataKey={"value"} innerRadius={60} label>
                                 {stocksShares.map((entry, index) => (

@@ -1,7 +1,7 @@
 """
 All utilities to operate on the user's data, and access the real-time market data
 """
-from datetime import datetime
+from datetime import datetime, timedelta, date
 import json
 import urllib
 
@@ -68,8 +68,8 @@ def get_current_price_daily_change(ticker):
     """
     data = yf.Ticker(ticker).history(period="1d")  # gets the open, high, low, close price of the stock for a day
     curr_price = data['Close'][0]
-    daily_change = compute_growth(data['Close'], data['Open'])
-    return curr_price, daily_change
+    daily_change = compute_growth(data['Close'][0], data['Open'][0])
+    return round(curr_price, 2), round(daily_change, 2)
 
 
 def get_yahoo_shortname(ticker):
@@ -160,3 +160,20 @@ def get_transaction(id):
     :return: the transaction
     """
     return Transaction.objects.filter(id=id)
+
+
+def get_stock_infos(ticker):
+    """
+    gets infos about a stock: Current price, Daily change / high / low, Prices from the last 10 years
+    :param ticker: ticker of the stock
+    :return Current price, Daily change / high / low, Prices from the last 10y, 5y, 1y, 1m, volume, dividends rate
+    """
+    stock_infos = yf.Ticker(ticker).info
+    price_history = yf.Ticker(ticker).history(period="10y")
+    prices = [{"date": index.date(), "value": round(row['Close'], 2)} for index, row in price_history.iterrows()]
+    prices10Y = prices
+    prices5Y = [price for price in prices if price["date"] > date.today() - timedelta(days=5 * 365)]
+    prices1Y = [price for price in prices5Y if price["date"] > date.today() - timedelta(days=365)]
+    prices1m = [price for price in prices1Y if price["date"] > date.today() - timedelta(days=30)]
+    prices_by_time = [prices10Y, prices5Y, prices1Y, prices1m]
+    return round(price_history['High'][-1], 2), round(price_history['Low'][-1], 2), prices_by_time, stock_infos["volume"], stock_infos['dividendRate']

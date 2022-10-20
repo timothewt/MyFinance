@@ -55,8 +55,6 @@ export const UserDataProvider = ({children}) => {
                     "value": stock['Share']
                 })
             }
-
-
         }
 
         if (response.status === 200 && data[0]) {   // status 200 is a success
@@ -65,6 +63,9 @@ export const UserDataProvider = ({children}) => {
                 data[0]['stocks'].forEach(stock => (
                     addStockShare(newStockShares, stock)
                 ));
+                for (let i = 0; i < newStockShares.length; i++) {
+                    newStockShares[i]["value"] = Math.round(newStockShares[i]["value"] * 100) / 100
+                }
                 setStocksShares(newStockShares)
                 setStocks(data[0]);
             } else if (request === "transactions") {

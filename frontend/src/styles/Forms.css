@@ -6,7 +6,7 @@
     height: 90vh;
 }
 
-.userForm {
+.user-form {
     padding: 10px 50px 10px 50px;
     border-top: 1px solid darkgray;
     border-bottom: 1px solid darkgray;
@@ -15,35 +15,35 @@
     background-color: transparent;
 }
 
-.userForm img {
+.user-form img {
     flex: none;
     width: 100px;
     height: 100px;
 }
 
-.userForm h3 {
+.user-form h3 {
     text-align: left;
     margin: 10px;
 }
 
-.userForm input[type=text], .userForm input[type=password] {
+.user-form input[type=text], .user-form input[type=password] {
     font-size: 15px;
     background-color: transparent;
     border: none;
     border-bottom: 1px solid dimgray;
 }
 
-.userForm input:focus {
+.user-form input:focus {
     outline: none;
 }
 
-.userForm input[type=submit] {
+.user-form input[type=submit] {
     margin: 5px;
     font-size: 15px;
     font-family: 'Gotham', sans-serif;
     font-weight: bold;
 }
 
-.userForm input[type=submit]:hover {
+.user-form input[type=submit]:hover {
     cursor: pointer;
 }

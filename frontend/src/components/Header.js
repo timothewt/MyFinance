@@ -15,7 +15,7 @@ const Header = () => {
         <header>
             <img src={logo} alt={"MyFinance"}/>
             <h1>Real-time investments tracker</h1>
-            <div className={"userInfo"}>
+            <div className={"user-info"}>
                 {
                     user ?
                     <div className={"username"}>

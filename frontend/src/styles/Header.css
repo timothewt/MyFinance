@@ -18,7 +18,7 @@ header h1 {
     font-style: italic;
 }
 
-header .userInfo {
+header .user-info {
     margin-left: auto;
     margin-right: 30px;
     display: flex;
@@ -26,12 +26,12 @@ header .userInfo {
     justify-items: center;
 }
 
-header .userInfo img {
+header .user-info img {
     height: 20px;
     margin-right: 5px;
 }
 
-header .userInfo span{
+header .user-info span{
     padding: 5px 0;
 }
 

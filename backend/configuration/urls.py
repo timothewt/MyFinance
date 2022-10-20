@@ -3,7 +3,7 @@ URLs access to the API, used by the frontend
 """
 from django.contrib import admin
 from django.urls import path, include
-from wallets.views import MyTokenObtainPairView, WalletAPIView, TransactionAPIView, StockNameAPIView
+from wallets.views import MyTokenObtainPairView, WalletAPIView, TransactionAPIView, StockNameAPIView, StockInfoAPIView
 from authentication.views import SignUpAPIView
 from rest_framework_simplejwt.views import TokenRefreshView
 
@@ -15,4 +15,5 @@ urlpatterns = [
     path('api/wallet/', WalletAPIView.as_view()),   # access to the wallets
     path('api/transactions/', TransactionAPIView.as_view()),    # access to the transactions
     path('api/stockname/<ticker>/', StockNameAPIView.as_view()),    # gives the name of a stock and checks if it exists
+    path('api/stockinfos/<ticker>/', StockInfoAPIView.as_view()),    # gives the infos about  a stock and checks if it exists
 ]

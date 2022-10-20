@@ -2,7 +2,6 @@ import React, {useContext, useRef, useState} from "react"
 import '../styles/AddTransaction.css';
 import plusIcon from '../assets/plus_icon.png';
 import AuthContext from "../context/AuthContext";
-import {useHistory} from "react-router-dom";
 
 
 const AddTransaction = ({toggleForm}) => {
@@ -73,12 +72,12 @@ const AddTransaction = ({toggleForm}) => {
     }
 
     return (
-        <div className={"addTransaction"}>
-            <div className={"addTransactionFormContainer"}>
-                <button className={"closeFormBtn"} onClick={toggleForm}>
+        <div className={"add-transaction"}>
+            <div className={"add-transaction-form-container"}>
+                <button className={"close-form-btn"} onClick={toggleForm}>
                     <img src={plusIcon} alt={"close"}/>
                 </button>
-                <form className={"addTransactionForm"} onSubmit={submitAddTransaction}>
+                <form className={"add-transaction-form"} onSubmit={submitAddTransaction}>
                     <label>
                         <h3>Add a transaction</h3>
                     </label>
@@ -113,11 +112,11 @@ const AddTransaction = ({toggleForm}) => {
                     </label>
                     <label>
                         <h4>Price</h4>
-                        <span className={"priceInputContainer"}>
+                        <span className={"price-input-container"}>
                             <input type={"number"} name={"stockPrice"} min={'.01'} step={".01"} placeholder={"0"} required={true}/>
                         </span>
                     </label>
-                    <span className={"submitFormContainer"}>
+                    <span className={"submit-form-container"}>
                         <input type={'submit'} name={"submitAddTransaction"} value={"Add transaction"} disabled={!confirmedTicker}/>
                     </span>
                 </form>
