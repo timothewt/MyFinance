@@ -1,5 +1,5 @@
 import React, {useContext} from "react";
-import {PieChart, Pie, Cell, ResponsiveContainer} from 'recharts';
+import {PieChart, Pie, Cell, ResponsiveContainer, Tooltip} from 'recharts';
 import '../styles/Shares.css';
 import UserDataContext from "../context/UserDataContext";
 
@@ -15,6 +15,7 @@ const Shares = () => {
                 <div>
                     <ResponsiveContainer height="100%" width="40%" className={"chart-container"}>
                         <PieChart>
+                            <Tooltip/>
                             <Pie cx="50%" cy="50%" data={stocksShares} nameKey={"name"} dataKey={"value"} innerRadius={60} label>
                                 {stocksShares.map((entry, index) => (
                                     <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
