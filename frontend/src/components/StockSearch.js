@@ -15,8 +15,9 @@ const Transactions = () => {
     let [displayedStockPrices, setDisplayedStockPrices] = useState(null);
     let [confirmedTicker, setConfirmedTicker] = useState(false); // is the ticker of the user valid with the api?
     let [loadingSearch, setLoadingSearch] = useState(false); // is the ticker of the user valid with the api?
+    let [selectedPeriod, setSelectedPeriod] = useState('0');
     let stockTickerInputRef = useRef(null); // reference to the ticker input
-    let {currency} = useContext(UserDataContext)
+    let {currency} = useContext(UserDataContext);
 
     let searchStockInfos = async (e) => {
         e.preventDefault();
@@ -40,7 +41,6 @@ const Transactions = () => {
             setConfirmedTicker(data[0]);
             setStocksInfos(data[1]);
             if(data[0] === true) {
-                console.log(data[1]["DividendRate"])
                 setDisplayedStockPrices(data[1]["Prices"][0]);
             }
         }
@@ -48,6 +48,7 @@ const Transactions = () => {
     }
 
     let changeDisplayedPrices = (e) => {
+        setSelectedPeriod((e.target.value).toString());
         setDisplayedStockPrices(stockInfos["Prices"][e.target.value]);
     }
 
@@ -86,10 +87,10 @@ const Transactions = () => {
                         </div>
                         <div className={"stock-evolution"}>
                             <div className={"change-date-interval"}>
-                                <button value={0} onClick={changeDisplayedPrices}>10y</button>
-                                <button value={1} onClick={changeDisplayedPrices}>5y</button>
-                                <button value={2} onClick={changeDisplayedPrices}>1y</button>
-                                <button value={3} onClick={changeDisplayedPrices}>1m</button>
+                                <button value={0} onClick={changeDisplayedPrices} className={selectedPeriod === '0' && "selected-period"}>10y</button>
+                                <button value={1} onClick={changeDisplayedPrices} className={selectedPeriod === '1' && "selected-period"}>5y</button>
+                                <button value={2} onClick={changeDisplayedPrices} className={selectedPeriod === '2' && "selected-period"}>1y</button>
+                                <button value={3} onClick={changeDisplayedPrices} className={selectedPeriod === '3'&& "selected-period"}>1m</button>
                             </div>
                             <ResponsiveContainer width="90%" height="80%" className={"stock-evolution-responsive-container"}>
                                 <LineChart data={displayedStockPrices}>

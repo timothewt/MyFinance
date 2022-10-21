@@ -167,5 +167,6 @@
     background-color: #4A6FA5;
 }
 
-
-
+.stock-search .stock-infos .stock-evolution .change-date-interval .selected-period {
+    border-bottom: 4px solid #4A6FA5;
+}
