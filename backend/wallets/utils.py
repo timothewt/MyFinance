@@ -172,7 +172,6 @@ def get_stock_infos(ticker):
     :return Current price, Daily change / high / low, Prices from the last 10y, 5y, 1y, 1m, volume, dividends rate
     """
     stock_infos = yf.Ticker(ticker).info
-    print(stock_infos)
     price_history = yf.Ticker(ticker).history(period="10y")
     prices = [{"date": index.date(), "value": round(row['Close'], 2)} for index, row in price_history.iterrows()]
     prices10Y = prices
