@@ -131,3 +131,9 @@
 ::-webkit-scrollbar-thumb:active{
     background: rgba(0,0,0,.9);
 }
+
+@media only screen and (max-width: 1024px) {
+    .wallet-content {
+        height: auto;
+    }
+}

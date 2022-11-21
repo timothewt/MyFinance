@@ -170,3 +170,9 @@
 .stock-search .stock-infos .stock-evolution .change-date-interval .selected-period {
     border-bottom: 4px solid #4A6FA5;
 }
+
+@media only screen and (max-width: 1024px) {
+    .stock-search .stock-infos .stock-evolution .change-date-interval button {
+        height: auto;
+    }
+}

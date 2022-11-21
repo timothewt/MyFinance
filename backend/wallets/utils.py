@@ -66,7 +66,10 @@ def get_current_price_daily_change(ticker):
     :param ticker: ticker of the stock
     :return: the current price of the stock, the daily variation of the stock
     """
-    data = yf.Ticker(ticker).history(period="1d")  # gets the open, high, low, close price of the stock for a day
+    try:
+        data = yf.Ticker(ticker).history(period="1d")  # gets the open, high, low, close price of the stock for a day
+    except:
+        data = yf.Ticker(ticker).history(period="2d")  # gets the open, high, low, close price of the stock for a day
     curr_price = data['Close'][0]
     daily_change = compute_growth(data['Close'][0], data['Open'][0])
     return round(curr_price, 2), round(daily_change, 2)
@@ -169,6 +172,7 @@ def get_stock_infos(ticker):
     :return Current price, Daily change / high / low, Prices from the last 10y, 5y, 1y, 1m, volume, dividends rate
     """
     stock_infos = yf.Ticker(ticker).info
+    print(stock_infos)
     price_history = yf.Ticker(ticker).history(period="10y")
     prices = [{"date": index.date(), "value": round(row['Close'], 2)} for index, row in price_history.iterrows()]
     prices10Y = prices

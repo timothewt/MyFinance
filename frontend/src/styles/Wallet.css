@@ -1,8 +1,14 @@
 .wallet {
-    width: 40%;
+    width: 100%;
     height: 100%;
     display: flex;
     flex-direction: column;
     background-color: aliceblue;
     font-family: 'GothamBold', sans-serif;
+}
+
+@media only screen and (max-width: 1024px) {
+    .wallet {
+        height: auto;
+    }
 }

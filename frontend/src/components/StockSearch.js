@@ -24,6 +24,8 @@ const Transactions = () => {
         setConfirmedTicker(false);
         setStocksInfos(null);
         setLoadingSearch(true);
+        setSelectedPeriod('0');
+        setDisplayedStockPrices('0');
         if (stockTickerInputRef.current.value === '') {
             setLoadingSearch(false);
             return;
