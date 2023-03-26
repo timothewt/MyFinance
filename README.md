@@ -11,7 +11,7 @@ It has a complete authentication system with a sign-up and login page. Each user
 When the user enters the page, real-time data from the stock market is retrieved and displayed.<br/>
 To add a stock, the user can add a transaction with the plus icon. This form appears:
 
-<img src="https://i.ibb.co/0JG9qf4/transaction-form.png" width="30%" alt="Add a transaction form">
+<img src="https://i.ibb.co/0JG9qf4/transaction-form.jpg" width="30%" alt="Add a transaction form">
 
 He first has to input the ticker of the stock, then it is validated by the backend, and the user can enter the 
 complete transaction.<br/>
